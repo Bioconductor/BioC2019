@@ -24,5 +24,5 @@ Please follow best practices by previewing changes locally.
         
     and view the results at https://localhost:4000
 
-[1]: https://bioconductor.github.io/BioC2018.
+[1]: https://bioconductor.github.io/BioC2018
 [2]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements
