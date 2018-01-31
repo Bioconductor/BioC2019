@@ -9,7 +9,26 @@ Where: University of Toronto, Toronto, Canada
 ## Sponsor Opportunities
 
 Interested in sponsoring this conference? Please contact
-Martin.Morgan@RoswellPark.org. Three levels are available:
+Martin.Morgan@RoswellPark.org.
+
+Approximate conference demographics:
+
+- 150+ participants from the global bioinformatics community.
+
+- Academic (50%), corporate (e.g., pharmaceutical; 30%); non-profit
+  (e.g., Cancer Center; 15%), and government (5%) participants.
+
+- Lab / group leaders (10%), postdoctoral researchers (40%), bioinformatics core
+  staff (20%), and graduate students (30%).
+
+- PhD (60%), MS (20%), and other degrees.
+
+- Thought leaders contributing to leading-edge methodological
+  development, hands-on practitioners incorporating _R_ /
+  _Bioconductor_ into robust work flows, and researchers developing
+  bespoke solutions.
+
+Three levels of sponsorship are available:
 
 - Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
   promotional and scheduling material. Sponsored session (e.g.,
