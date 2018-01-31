@@ -11,6 +11,19 @@ Where: University of Toronto, Toronto, Canada
 Interested in sponsoring this conference? Please contact
 Martin.Morgan@RoswellPark.org.
 
+Three levels of sponsorship are available:
+
+- Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
+  promotional and scheduling material. Sponsored session (e.g.,
+  'Morning talks', 'Afternoon workshops').
+
+- Silver: $5,000 USD -- Up to 5 free registrations. Recognition in
+  promotional and scheduling material. Sponsored food or social event
+  (e.g., 'breakfast', 'lunch', 'poster session', 'reception').
+
+- Bronze: $2,500 USD. Up to 2 free registrations. Recognition in
+  promotional and scheduling material.
+
 Approximate conference demographics:
 
 - 150+ participants from the global bioinformatics community.
@@ -27,16 +40,3 @@ Approximate conference demographics:
   development, hands-on practitioners incorporating _R_ /
   _Bioconductor_ into robust work flows, and researchers developing
   bespoke solutions.
-
-Three levels of sponsorship are available:
-
-- Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
-  promotional and scheduling material. Sponsored session (e.g.,
-  'Morning talks', 'Afternoon workshops').
-
-- Silver: $5,000 USD -- Up to 5 free registrations. Recognition in
-  promotional and scheduling material. Sponsored food or social event
-  (e.g., 'breakfast', 'lunch', 'poster session', 'reception').
-
-- Bronze: $2,500 USD. Up to 2 free registrations. Recognition in
-  promotional and scheduling material.
