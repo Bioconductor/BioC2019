@@ -6,7 +6,12 @@ Provide names and contact information for all instructors.
 
 # Course Description 
 
-Along with the topic of your workshop, include how students can expect to spend their time. For the description may also include information about what type of course it is (e.g. instructor-led live demo, lab, lecture + lab, etc.). Instructors are strongly recommended to provide completely worked examples for lab sessions, and a set of stand-alone notes that can be read and understood outside of the workshop.
+Along with the topic of your workshop, include how students can expect
+to spend their time. For the description may also include information
+about what type of course it is (e.g. instructor-led live demo, lab,
+lecture + lab, etc.). Instructors are strongly recommended to provide
+completely worked examples for lab sessions, and a set of stand-alone
+notes that can be read and understood outside of the workshop.
 
 ## Pre-requisites
 
@@ -16,9 +21,11 @@ List any course prerequisites, for example:
 * Familiarity with the GenomicRanges class
 * Familiarity with xyz vignette (provide link)
 
-List relevant background reading for the course, including any theoretical background you expect students to have.
+List relevant background reading for the course, including any
+theoretical background you expect students to have.
 
-* List any textbooks, papers, or other reading that students should be familiar with. Include direct links where possible.
+* List any textbooks, papers, or other reading that students should be
+  familiar with. Include direct links where possible.
 
 ## Class Participation 
 
@@ -41,7 +48,14 @@ An example:
 
 # Course goals and objectives
 
-List "big picture" student-centered course goals and learning objectives. Learning goals and objectives are related, but not the same thing. *Learning goals* are high-level descriptions of what participants will learn and be able to do after the course is over. *Learning objectives*, on the other hand, describe in very specific and measurable terms specific skills or knowledge attained. See section on [Bloom's Taxonomy)(#bloom) for more information for instructors.
+List "big picture" student-centered course goals and learning
+objectives. Learning goals and objectives are related, but not the
+same thing. *Learning goals* are high-level descriptions of what
+participants will learn and be able to do after the course is
+over. *Learning objectives*, on the other hand, describe in very
+specific and measurable terms specific skills or knowledge
+attained. See section on [Bloom's Taxonomy](#bloom) for more
+information for instructors.
 
 ## Learning goals
 
@@ -61,10 +75,10 @@ Some examples:
 
 ### A note about learning goals and objectives (#bloom)
 
-While not a new or modern system for thinking about learning, [Bloom's
-taxonomy] [1] is a useful framework for understanding the cognitive
-processes involved in learning. From lowest to highest cognitive
-requirements:
+While not a new or modern system for thinking about learning,
+[Bloom's taxonomy][1] is a useful framework for understanding the
+cognitive processes involved in learning. From lowest to highest
+cognitive requirements:
 
 1. Knowledge: Learners must be able to recall or remember the
    information.
