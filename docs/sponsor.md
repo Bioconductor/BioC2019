@@ -28,11 +28,12 @@ Approximate conference demographics:
 
 - 150+ participants from the global bioinformatics community.
 
-- Academic (50%), corporate (e.g., pharmaceutical; 30%); non-profit
-  (e.g., Cancer Center; 15%), and government (5%) participants.
+- Academic (50%), corporate (e.g., pharmaceutical; 30%);
+  not-for-profit (e.g., Cancer Center; 15%), and government (5%)
+  participants.
 
-- Lab / group leaders (10%), postdoctoral researchers (40%), bioinformatics core
-  staff (20%), and graduate students (30%).
+- Lab / group leaders (10%), postdoctoral researchers (40%),
+  bioinformatics core staff (20%), and graduate students (30%).
 
 - PhD (60%), MS (20%), and other degrees.
 
