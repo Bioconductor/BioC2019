@@ -8,7 +8,7 @@ Bioc2018 invites submissions of contributed workshops in short (50-minute) and l
 
 # Call for scholarship applications
 
-A limited number of travel, lodging, and/or registration scholarships are available for students.  Scholarship requests and eligibility conditions are described on the registration form. 
+A limited number of travel, lodging, and/or registration scholarships are available for students.  Scholarship requests and eligibility conditions are described on the conference registration form. 
 
 # Birds of a Feather/Special Interest Groups
 
