@@ -4,30 +4,30 @@
 
 Provide names and contact information for all instructors.
 
-# Course Description 
+# Workshop Description 
 
 Along with the topic of your workshop, include how students can expect
 to spend their time. For the description may also include information
-about what type of course it is (e.g. instructor-led live demo, lab,
+about what type of workshop it is (e.g. instructor-led live demo, lab,
 lecture + lab, etc.). Instructors are strongly recommended to provide
 completely worked examples for lab sessions, and a set of stand-alone
 notes that can be read and understood outside of the workshop.
 
 ## Pre-requisites
 
-List any course prerequisites, for example:
+List any workshop prerequisites, for example:
 
 * Basic knowledge of R syntax
 * Familiarity with the GenomicRanges class
 * Familiarity with xyz vignette (provide link)
 
-List relevant background reading for the course, including any
+List relevant background reading for the workshop, including any
 theoretical background you expect students to have.
 
 * List any textbooks, papers, or other reading that students should be
   familiar with. Include direct links where possible.
 
-## Class Participation 
+## workshop Participation 
 
 Describe how students will be expected to participate in the workshop.
 
@@ -46,16 +46,21 @@ An example:
 | Lecture                             | 0-30m   |
 | Instructor-guided hands-on workshop | 30-120m |
 
-# Course goals and objectives
+# workshop goals and objectives
 
-List "big picture" student-centered course goals and learning
+List "big picture" student-centered workshop goals and learning
 objectives. Learning goals and objectives are related, but not the
-same thing. *Learning goals* are high-level descriptions of what
-participants will learn and be able to do after the course is
+same thing. These goals and objectives will help some people to decide 
+whether to attend the conference for training purposes, so please make 
+these as precise and accurate as possible.
+
+*Learning goals* are high-level descriptions of what
+participants will learn and be able to do after the workshop is
 over. *Learning objectives*, on the other hand, describe in very
 specific and measurable terms specific skills or knowledge
-attained. See section on [Bloom's Taxonomy](#bloom) for more
-information for instructors.
+attained. The [Bloom's Taxonomy](#bloom) may be a useful framework 
+for defining and describing your goals and objectives, although there
+are others.
 
 ## Learning goals
 
@@ -76,7 +81,7 @@ Some examples:
 ### A note about learning goals and objectives (#bloom)
 
 While not a new or modern system for thinking about learning,
-[Bloom's taxonomy][1] is a useful framework for understanding the
+[Bloom's taxonomy][1] is one useful framework for understanding the
 cognitive processes involved in learning. From lowest to highest
 cognitive requirements:
 
