@@ -13,3 +13,4 @@ the analysis and comprehension of high-throughput genomic
 data. 'Developer Day' precedes the main conference on July 25,
 providing developers and would-be developers an opportunity to gain
 insights into project direction and software development best
+practices.
