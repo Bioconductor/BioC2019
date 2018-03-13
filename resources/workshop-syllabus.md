@@ -37,14 +37,14 @@ List any R/Bioconductor packages that will be explicitly covered.
 
 ## Time outline
 
-Total time is 2 hours.
-
-An example:
+An example for a 45m workshop:
 
 | Activity                            | Time    |
 |-------------------------------------|---------|
-| Lecture                             | 0-30m   |
-| Instructor-guided hands-on workshop | 30-120m |
+| Packages | 15m |
+| Package Development | 15m |
+| Contributing to Bioconductor | 5m |
+| Best Practices | 10m |
 
 # workshop goals and objectives
 
