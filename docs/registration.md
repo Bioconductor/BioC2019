@@ -6,13 +6,19 @@ layout: default
 When: July 25 (Developer Day), 26, and 27, 2018 <br />
 Where: University of Toronto, Toronto, Canada
 
-## Registration (Opening February, 2018)
+## Registration (Opening March, 2018)
 
 Before July 1: Academic and not-for-profit: $300. Commercial: $400.
 
 After July 1: Academic and not-for-profit: $600. Commercial: $800.
 
-Scholarships: Limited scholarships will be available, especially
-targeted toward _Bioconductor_ package developers and
-contributors. Scholarships cover registration, travel (up to $500 per
-person), and accommodation.
+## Scholarships
+
+Scholarships are available and targeted toward _Bioconductor_ package
+developers and contributors. Scholarships cover registration, travel
+(up to $500 per person), and accommodation. All scholarship recipients
+must present a talk or poster. Key dates for scholarships:
+
+- Thursday March 15, 2018: Abstract Submissions opens.
+- Thursday May 17, 2018: Abstract Submission deadline.
+- Thursday May 31, 2018: Notification of talk, poster acceptance.
