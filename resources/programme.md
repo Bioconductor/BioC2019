@@ -43,8 +43,8 @@
 * 5:30 - 7:30 Contributed posters
 
 # Main Conference Day 2: Fri July 27
-* 8:00 - 8:30 REGISTRATION
-* 8:30 - 9:00 Welcoming remarks
+* 8:00 - 8:30 Invited speaker
+* 8:30 - 9:00 Invited speaker
 * 9:00 - 9:30 Invited speaker
 * 9:30 - 10:00 Invited speaker
 * 10:00 - 10:30 break
