@@ -19,18 +19,18 @@ Developer Day: Wednesday July 25
       attendees
 * 10:30 - 11:00 BREAK
 * 11:00 - 12:00 Birds-of-a-feather I / Workshops I
-	- [submit your proposal][workshop-proposal]
+	- [submit your proposal][call-for-abstracts]
 * 12:00 - 1:00 Lunch
 p* 1:00 - 1:30 Lightning talks II
 	- Lightning talk platforms will be available to all Developer Day
       attendees
 * 1:30 - 2:30 Birds-of-a-feather II / Workshops II
-	- [submit your proposal][workshop-proposal]
+	- [submit your proposal][call-for-abstracts]
 * 2:30 - 3:00 Break
 * 3:00 - 3:30 Lightning talks III
 * 4:30 - 5:00 Panel discussion: project directions and opportunities
 
-[workshop-proposal]: https://github.com/Bioconductor/BioC2018/issues/3
+[call-for-abstracts]: call-for-abstracts.html
 
 Confirmed Speakers for July 26-27
 
