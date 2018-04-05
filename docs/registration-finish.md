@@ -14,7 +14,7 @@ Where: University of Toronto, Toronto, Canada
 
 - Follow [#bioc2018][2] for late-breaking announcements.
 
-Remember to arrange your own loging. See you in Toronto!
+Remember to arrange your own lodging. See you in Toronto!
 
 [1]: ./schedule
 [2]: ./call-for-abstracts
