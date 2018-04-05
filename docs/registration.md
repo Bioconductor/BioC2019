@@ -46,4 +46,6 @@ Main Conference (July 26, 27)
 </form>
 </p>
 
-Unfortunately, we are not able to process purchase orders.
+- Registering for someone else? Use the 'shipping address' to specify
+  their name.
+- Unfortunately, we are not able to process purchase orders.
