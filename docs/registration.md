@@ -4,7 +4,9 @@ layout: default
 # BioC 2018: Where Software and Biology Connect
 
 When: July 25 (Developer Day), 26, and 27, 2018 <br />
-Where: University of Toronto, Toronto, Canada
+Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
+
+[uvic]: http://www.vicu.utoronto.ca/
 
 ## Registration
 
@@ -14,8 +16,14 @@ Includes:
 - Continental breakfast, lunch, and light hors d'oeuvres, as well as
   morning and afternoon coffee breaks.
 
+## Travel and accommodation
+
 Participants must arrange and pay for their own travel and
-accommodation.
+accommodation. The conference venue is at [Victoria University][uvic]
+on the downtown (St. George) campus of the University of Toronto on
+the north-east edge of Queen's Park. [Map][ut].
+
+[ut]: http://map.utoronto.ca/
 
 ## Fees
 
