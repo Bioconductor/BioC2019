@@ -35,9 +35,11 @@ conference committee for selection in the programme.
 
 ## Call for scholarship applications
 
-A limited number of travel, lodging, and/or registration scholarships
-are available for students.  Scholarship requests and eligibility
-conditions are described on the conference registration form.
+A limited number of scholarships are available.  Scholarship requests
+and eligibility conditions are described on the [scholarships][] page;
+complete a [Poster / Talk Submission Form][] to apply.
+
+[scholarships]: http://bioc2018.bioconductor.org/scholarships
 
 ## Birds of a Feather / Special Interest Groups
 

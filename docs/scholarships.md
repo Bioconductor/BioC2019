@@ -13,7 +13,11 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 Scholarships are available and targeted toward _Bioconductor_ package
 developers and contributors. Scholarships cover registration, travel
 (up to $500 per person), and accommodation. All scholarship recipients
-must present a talk or poster. Key dates for scholarships:
+must present a talk or poster. To apply for a scholarship, submit an
+abstract for talk or poster and indicate that your application is to
+be considered for a scholarship.
+
+Key dates for scholarships:
 
 - Thursday March 15, 2018: Abstract Submissions opens.
 - Thursday May 17, 2018: Abstract Submission deadline.
