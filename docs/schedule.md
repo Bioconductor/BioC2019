@@ -41,11 +41,15 @@ Confirmed Speakers for July 26-27
 * [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
   and Bioinformatics.
 * [Charlotte Soneson][4], University of Zurich, Switzerland.
+* [Michael Hoffman][5], University of Toronto.
+* [Tim Hughes][6], University of Toronto.
 
 [1]: http://sites.utoronto.ca/andrewslab/
 [2]: https://www.pmgenomics.ca/bhklab/
 [3]: https://www.rits.onc.jhmi.edu/DBB/members/?members=Faculty&member=efertig1
 [4]: https://csoneson.github.io/
+[5]: https://hoffmanlab.org/
+[6]: http://hugheslab.med.utoronto.ca/
    
 Main Conference Day 1: Thursday July 26
 
