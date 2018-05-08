@@ -28,10 +28,13 @@ sessions. Short workshops may teach a single package or technique;
 long workshops should teach more complex workflows involving a range
 of methods.  Please use the [Workshop Submission Form][] and
 [Workshop Template][]. Workshop proposals will be peer-reviewed by the
-conference committee for selection in the programme.
+conference committee for selection in the programme. Join the
+_Bioconductor_ [Community Slack][] and `#bioc2018-workshops` channel
+for up-to-date information.
 
 [Workshop Template]: https://github.com/Bioconductor/BioC2018/blob/master/resources/workshop-syllabus.md
 [Workshop Submission Form]: https://goo.gl/forms/ulBx2mt5JvhhXs5Q2
+[Community Slack]: https://bioc-community.herokuapp.com/
 
 ## Call for scholarship applications
 
