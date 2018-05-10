@@ -19,9 +19,10 @@ Includes:
 ## Travel and accommodation
 
 Participants must arrange and pay for their own travel and
-accommodation. The conference venue is at [Victoria University][uvic]
-on the downtown (St. George) campus of the University of Toronto on
-the north-east edge of Queen's Park. [Map][ut].
+accommodation; we have NOT arranged conference rates at nearby
+hotels. The conference venue is at [Victoria University][uvic] on the
+downtown (St. George) campus of the University of Toronto on the
+north-east edge of Queen's Park. [Map][ut].
 
 [ut]: http://map.utoronto.ca/
 
