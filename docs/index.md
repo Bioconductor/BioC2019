@@ -21,4 +21,7 @@ The conference venue is at [Victoria University][uvic] on the downtown
 (St. George) campus of the University of Toronto on the north-east
 edge of Queen's Park. [Map][ut].
 
+More information: [workshop@bioconductor.org][contact]
+
 [ut]: http://map.utoronto.ca/
+[contact]: mailto:workshop@bioconductor.org?subject=BioC2018%20question
