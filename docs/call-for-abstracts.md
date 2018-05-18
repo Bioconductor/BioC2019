@@ -8,32 +8,16 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 [uvic]: http://www.vicu.utoronto.ca/
 
-## Call for posters
 
-The call for talks and workshops is closed, but you can still submit 
-an abstract (up to 300 words) for a poster up until July 12 for inclusion 
-in the online programme. Include links to software where relevant. In the
-[Poster Submission Form][], you will be able to specify whether
-you are interested in giving a talk, poster, or both.
+## Call for Posters
 
-[Poster Submission Form]: https://goo.gl/forms/meoGgX7eipL2ZHKD2
-
-## Call for workshops
-
-_BioC 2018_ invites submissions of contributed workshops in short
-(50-minute) and long (1h 45m) formats for parallel afternoon workshop
-sessions. Short workshops may teach a single package or technique;
-long workshops should teach more complex workflows involving a range
-of methods.  Please use the [Workshop Submission Form][] and
-[Workshop Template][]. Workshop proposals will be peer-reviewed by the
-conference committee for selection in the programme. Join the
-_Bioconductor_ [Community Slack][] and `#bioc2018-workshops` channel
-for up-to-date information.
+Use the [Poster Submission Form][] to submit an abstract (up to 300
+words) for a poster up until July 12 for inclusion in the online
+programme. Include links to software where relevant.
 
 [Poster Submission Form]: https://goo.gl/forms/YwkZt6f9FCHYaMYn1
-[Community Slack]: https://bioc-community.herokuapp.com/
 
-## Birds of a Feather / Special Interest Groups
+## Call for Birds of a Feather / Special Interest Groups
 
 We invite participants to form groups dedicated to discuss or work on
 topics of interest. We will make rooms available for groups to meet
@@ -59,8 +43,22 @@ meeting.
 
 [open an issue]: https://github.com/Bioconductor/BioC2018/issues
 
+## Call for Talks
+
+The call for talks is closed. Talks will be peer-reviewed by the
+conference committee.
+
+## Call for Workshops
+
+The call for workshops is closed.  Workshop proposals will be
+peer-reviewed by the conference committee. Join the _Bioconductor_
+[Community Slack][] and `#bioc2018-workshops` channel for up-to-date
+information.
+
+[Community Slack]: https://bioc-community.herokuapp.com/
+
 ## Key dates
 
-| Notification of Acceptance for talks and posters | May 31 |
-| Deadline for poster abstracts and BoF proposals | July 12 |
-| BioC 2018 Meeting          | July 25 (Developer Day), 26, and 27 |
+| Notification of Acceptance for talks and reviewed posters | May 31  |
+| Deadline for poster abstracts and BoF proposals           | July 12 |
+| BioC 2018 Meeting                                         | July 25 (Developer Day), 26, and 27 |
