@@ -10,36 +10,13 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 ## Schedule (Tentative)
 
-Developer Day: Wednesday July 25
-
-* 9:00 - 9:40 Welcome
-    - Welcome, orientation, & project updates
-	- Community activity
-* 9:40 - 10:00 Spotlight Talk
-* 10:00 - 10:30 Lightning talks I
-	- Lightning talk platforms will be available to all Developer Day
-      attendees
-* 10:30 - 11:00 BREAK
-* 11:00 - 12:00 Birds-of-a-feather I / Workshops I
-	- [submit your proposal][call-for-abstracts]
-* 12:00 - 1:00 Lunch
-p* 1:00 - 1:30 Lightning talks II
-	- Lightning talk platforms will be available to all Developer Day
-      attendees
-* 1:30 - 2:30 Birds-of-a-feather II / Workshops II
-	- [submit your proposal][call-for-abstracts]
-* 2:30 - 3:00 Break
-* 3:00 - 3:30 Lightning talks III
-* 4:30 - 5:00 Panel discussion: project directions and opportunities
-
-[call-for-abstracts]: call-for-abstracts.html
-
 Confirmed Speakers for July 26-27
 
 * [Brenda Andrews][1], University of Toronto.
 * [Benjamin Haibe-Kains][2], Princesss Margaret Cancer Center, Toronto.
 * [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
-  and Bioinformatics.
+  and Bioinformatics. Enter the Matrix: Interpreting omics through
+  matrix factorization.
 * [Charlotte Soneson][4], University of Zurich, Switzerland.
 * [Michael Hoffman][5], University of Toronto.
 * [Tim Hughes][6], University of Toronto.
@@ -50,6 +27,10 @@ Confirmed Speakers for July 26-27
 [4]: https://csoneson.github.io/
 [5]: https://hoffmanlab.org/
 [6]: http://hugheslab.med.utoronto.ca/
+
+Developer Day: Wednesday July 25
+
+* See the [Developer Day](schedule-developer-day) schedule.
    
 Main Conference Day 1: Thursday July 26
 
