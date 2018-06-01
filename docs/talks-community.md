@@ -13,19 +13,19 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 - See the Conference [Schedule](schedule.md) for invited talks.
 
 - Lee S\*, Cook D, Lawrence M. _[plyranges][]: a fluent interface to
-  Bioconductor's Ranges_.  infrastructure. The Bioconductor project
-  has created many powerful S4 classes for reasoning about genomics
-  data, such as the SummarizedExperiment class for representing
-  experimental assays and the Ranges family of classes for
-  representing genomic intervals. For new users of Bioconductor who
-  are unfamiliar with object oriented programming or genomic data
-  analysis, the learning curve for these classes is steep. New users
-  often find themselves asking: how do I get my data into an
-  appropriate class for my analysis? What are accessors and why do I
-  have to use them? Why does this function return an object of class
-  that I have not seen before? This results in analysts trying to
-  solve problems that have been efficiently dealt with in other
-  Bioconductor packages or writing code they may not fully understand.
+  Bioconductor's Ranges infrastructure_. The Bioconductor project has
+  created many powerful S4 classes for reasoning about genomics data,
+  such as the SummarizedExperiment class for representing experimental
+  assays and the Ranges family of classes for representing genomic
+  intervals. For new users of Bioconductor who are unfamiliar with
+  object oriented programming or genomic data analysis, the learning
+  curve for these classes is steep. New users often find themselves
+  asking: how do I get my data into an appropriate class for my
+  analysis? What are accessors and why do I have to use them? Why does
+  this function return an object of class that I have not seen before?
+  This results in analysts trying to solve problems that have been
+  efficiently dealt with in other Bioconductor packages or writing
+  code they may not fully understand.
 
   The goal of a fluent interface is to enable users to write
   human-readable code via method chaining and consistent function
