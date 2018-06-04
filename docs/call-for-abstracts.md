@@ -43,6 +43,15 @@ meeting.
 
 [open an issue]: https://github.com/Bioconductor/BioC2018/issues
 
+## Call for F1000Research articles 
+
+There is an [invitation](https://support.bioconductor.org/p/107477/)
+to submit F1000Research articles to the [Bioconductor gateway](https://f1000research.com/gateways/bioconductor) 
+which will be associated with Bioc2018. The deadline is June 18, 2018.
+See the thread below for more details:
+
+<https://support.bioconductor.org/p/107477/>
+
 ## Call for Talks
 
 The call for talks is closed. Talks will be peer-reviewed by the
