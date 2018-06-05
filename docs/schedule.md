@@ -17,7 +17,9 @@ Confirmed Speakers for July 26-27
 * [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
   and Bioinformatics. Enter the Matrix: Interpreting omics through
   matrix factorization.
-* [Charlotte Soneson][4], University of Zurich, Switzerland.
+* [Charlotte Soneson][4], University of Zurich, Switzerland. A
+  junction coverage compatibility score to quantify the reliability of
+  transcript abundance estimates and annotation catalogs.
 * [Michael Hoffman][5], University of Toronto.
 * [Tim Hughes][6], University of Toronto.
 
