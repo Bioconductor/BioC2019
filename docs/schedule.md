@@ -13,7 +13,9 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 Confirmed Speakers for July 26-27
 
 * [Brenda Andrews][1], University of Toronto.
-* [Benjamin Haibe-Kains][2], Princesss Margaret Cancer Center, Toronto.
+* [Benjamin Haibe-Kains][2], Princesss Margaret Cancer Center,
+  Toronto. Cancer Biomarker Discovery: Building a Bridge Between
+  Preclinical and Clinical Research.
 * [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
   and Bioinformatics. Enter the Matrix: Interpreting omics through
   matrix factorization.
