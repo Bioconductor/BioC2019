@@ -23,7 +23,8 @@ Confirmed Speakers for July 26-27
   junction coverage compatibility score to quantify the reliability of
   transcript abundance estimates and annotation catalogs.
 * [Michael Hoffman][5], University of Toronto.
-* [Tim Hughes][6], University of Toronto.
+* [Tim Hughes][6], University of Toronto. Binding motifs for DNA and
+  RNA binding proteins.
 
 [1]: http://sites.utoronto.ca/andrewslab/
 [2]: https://www.pmgenomics.ca/bhklab/
