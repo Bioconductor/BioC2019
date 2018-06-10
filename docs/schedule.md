@@ -22,7 +22,9 @@ Confirmed Speakers for July 26-27
 * [Charlotte Soneson][4], University of Zurich, Switzerland. A
   junction coverage compatibility score to quantify the reliability of
   transcript abundance estimates and annotation catalogs.
-* [Michael Hoffman][5], University of Toronto.
+* [Michael Hoffman][5], University of Toronto. Identifying
+  transcription factor binding using open chromatin, transcriptome,
+  and methylation data.
 * [Tim Hughes][6], University of Toronto. Binding motifs for DNA and
   RNA binding proteins.
 
