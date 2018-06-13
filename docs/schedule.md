@@ -58,7 +58,7 @@ Main Conference Day 2: Friday July 27
 
 * 8:30 - 9:00 Invited speaker
 * 9:00 - 9:30 Invited speaker
-* 9:30 - 10:00 Invited speaker
+* 9:30 - 10:00 Contributed talks
 * 10:00 - 10:30 break
 * 10:30 - 11:00 Invited speaker
 * 11:00 - 12:00 Contributed talks
