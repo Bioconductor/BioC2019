@@ -181,6 +181,25 @@ channel for up-to-date information.
   tools can be used for germline or somatic variants, but as we will
   see, can also be used for any other feature represented as GRanges
   objects.
+  
+- Cooley N and Wright E. _Working with Genomic Data in R with the
+  DECIPHER package_. [DECIPHER][] is a multifaceted package that
+  includes many tools for working with genome-scale sequence
+  data. Genomic sequences undergo a variety of large-scale mutational
+  processes, including rearrangements, inversions, duplications,
+  insertions, and deletions. Since genomes are often not collinear, it
+  is often useful to map syntenic regions between genomes to
+  facilitate analyses. DECIPHER contains a synteny mapping function
+  that locates syntenic regions among genomes and can be used to
+  identify orthologous genes. Additional functions allow for alignment
+  and downstream analyses of these syntenic regions. This workshop
+  will walk through a complete workflow for analyzing a set of genomes
+  using DECIPHER, starting with importing genomes from local files or
+  external repositories. Synteny will be mapped among multiple genomes
+  and used as the basis for ortholog prediction. We will show how to
+  use these sets of orthologous genes to construct phylogenetic trees
+  representing the evolutionary history of the core-genome and
+  pan-genome.
 
 <!--
 - Wright E Performing multiple alignment of homologous sequences with
@@ -267,6 +286,7 @@ channel for up-to-date information.
 [AnnotationHub]: https://bioconductor.org/packages/AnnotationHub
 [Bioconductor]: https://bioconductor.org/developers
 [DESeq2]: https://bioconductor.org/packages/DESeq2
+[DECIPHER]: https://bioconductor.org/packages/DECIPHER
 [DelayedArray]: https://bioconductor.org/packages/DelayedArray
 [FunciVar]: https://bioconductor.org/packages/FunciVar
 [GenomicRanges]: https://bioconductor.org/packages/GenomicRanges
