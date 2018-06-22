@@ -34,8 +34,8 @@ Developer Day (July 25)
 
 Main Conference (July 26, 27)
 
-- Before July 1: Academic and not-for-profit: $300. Commercial: $400.
-- After July 1: Academic and not-for-profit: $600. Commercial: $800.
+- Before July 10: Academic and not-for-profit: $300. Commercial: $400.
+- After July 10: Academic and not-for-profit: $600. Commercial: $800.
 
 ## Register now!
 
