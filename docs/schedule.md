@@ -12,7 +12,8 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 Confirmed Speakers for July 26-27
 
-* [Brenda Andrews][1], University of Toronto.
+* [Brenda Andrews][1], University of Toronto.  Analysis of high
+  content microscopy data generated through automated yeast genetics.
 * [Benjamin Haibe-Kains][2], Princesss Margaret Cancer Center,
   Toronto. Cancer Biomarker Discovery: Building a Bridge Between
   Preclinical and Clinical Research.
