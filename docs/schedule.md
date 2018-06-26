@@ -49,12 +49,19 @@ Main Conference Day 1: Thursday July 26
 * 10:00 - 10:30 break
 * 10:30 - 11:00 Brenda Andrews
 * 11:00 - 12:00 Contributed talks
-    + Innes BT* and Bader GD. scClustViz - Single-cell RNAseq Cluster Assessment and Interactive Visualisation.
-    + Nima Hejazi*, Alan Hubbard, Mark van der Laan. Data-Adaptive Estimation and Inference for Differential Methylation Analysis.
-    + Adithya M, Bhargava A, Wright E*. Improving the accuracy of taxonomic classification for identifying taxa in microbiome samples. 
-    + Zhun Miao*, Ke Deng, Xiaowo Wang, Xuegong Zhang. DEsingle for detecting three types of differential expression in single-cell RNA-seq data.
-    + Ludwig Geistlinger*, Gergely Csaba, Mara Santarelli, Lucas Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a gold standard for benchmarking gene set enrichment analysis. 
-
+    + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
+      Assessment and Interactive Visualisation.
+    + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
+      Estimation and Inference for Differential Methylation Analysis.
+    + Adithya M, Bhargava A, Wright E\*. Improving the accuracy of
+      taxonomic classification for identifying taxa in microbiome
+      samples.
+    + Zhun Miao\*, Ke Deng, Xiaowo Wang, Xuegong Zhang. DEsingle for
+      detecting three types of differential expression in single-cell
+      RNA-seq data.
+    + Ludwig Geistlinger\*, Gergely Csaba, Mara Santarelli, Lucas
+      Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
+      gold standard for benchmarking gene set enrichment analysis.
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshops Session I
 * 2:45 - 3:00 break
@@ -66,16 +73,26 @@ Main Conference Day 2: Friday July 27
 * 8:30 - 9:00 Tim Hughes
 * 9:00 - 9:30 Benjamin Haibe-Kains
 * 9:30 - 10:00 Contributed talks
-    + Lee S*, Cook D, Lawrence M. plyranges: a fluent interface to Bioconductor's Ranges infrastructure. 
-    + Love MI*, Hickey P, Soneson, C, and Patro R. Automatic metadata propagation for RNA-seq. 
+    + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
+      Bioconductor's Ranges infrastructure.
+    + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
+      propagation for RNA-seq.
 * 10:00 - 10:30 break
 * 10:30 - 11:00 Charlotte Soneson
 * 11:00 - 12:00 Contributed talks
-    + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W Law*. Unpacking signal from RNA-seq intron reads using Rsubread and limma packages. 
-    + Steinbaugh MJ*, Kirchner RD, Ho Sui S. bcbioSingleCell: R package for bcbio single-cell analysis.
-    + Abbas Rizvi*, Ezgi Karaesmen*, Leah Preus, Michael Sovic, Junke Wang, Lara Sucheston-Campbell. gwasurvivr: an R package to perform survival association testing on imputed genetic data. 
-    + Righelli D*, Koberstein J, Gomes B, Zhang N, Angelini C, Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a fast pipeline for broad peak analysis. 
-    + Rachael V Phillips*, Alan Hubbard. Data Adaptive Evaluation of Preprocessing Methods using Ensemble Machine Learning. 
+    + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W
+      Law\*. Unpacking signal from RNA-seq intron reads using Rsubread
+      and limma packages.
+    + Steinbaugh MJ\*, Kirchner RD, Ho Sui S. bcbioSingleCell: R
+      package for bcbio single-cell analysis.
+    + Abbas Rizvi\*, Ezgi Karaesmen\*, Leah Preus, Michael Sovic,
+      Junke Wang, Lara Sucheston-Campbell. gwasurvivr: an R package to
+      perform survival association testing on imputed genetic data.
+    + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
+      Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
+      fast pipeline for broad peak analysis.
+    + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
+      Preprocessing Methods using Ensemble Machine Learning.
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshops Session I
 * 2:45 - 3:00 break
