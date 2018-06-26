@@ -8,9 +8,13 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 [uvic]: http://www.vicu.utoronto.ca/
 
-## Schedule (Tentative)
+## Schedule
 
-Confirmed Speakers for July 26-27
+* [Developer Day](schedule-developer-day): Wednesday, July 25.
+* [Day 1](#day-1-thursday-july-26): Thursday July 26.
+* [Day 2](#day-2-friday-july-27): Friday July 27.
+
+### Confirmed Speakers for July 26-27
 
 * [Michael Hoffman][5], University of Toronto. Identifying
   transcription factor binding using open chromatin, transcriptome,
@@ -36,19 +40,28 @@ Confirmed Speakers for July 26-27
 [5]: https://hoffmanlab.org/
 [6]: http://hugheslab.med.utoronto.ca/
 
-Developer Day: Wednesday July 25
+### Developer Day: Wednesday July 25
 
 * See the [Developer Day](schedule-developer-day) schedule.
    
-Main Conference Day 1: Thursday July 26
+### Day 1: Thursday July 26
 
-* 8:00 - 8:30 REGISTRATION
-* 8:30 - 9:00 Welcoming remarks (Martin Morgan)
-* 9:00 - 9:30 Michael Hoffman
-* 9:30 - 10:00 Elana Fertig
+* 8:00 - 8:45 REGISTRATION
+* 8:45 - 9:00 Welcoming remarks (Martin Morgan)
+* 9:00 - 9:30 [Michael Hoffman][5], University of Toronto. Identifying
+  transcription factor binding using open chromatin, transcriptome,
+  and methylation data.
+* 9:30 - 10:00 [Elana Fertig][3], John Hopkins Medicine Division of
+  Biostatistics and Bioinformatics. Enter the Matrix: Interpreting
+  omics through matrix factorization.
+
 * 10:00 - 10:30 break
-* 10:30 - 11:00 Brenda Andrews
+
+* 10:30 - 11:00 [Brenda Andrews][1], University of Toronto.  Analysis
+  of high content microscopy data generated through automated yeast
+  genetics.
 * 11:00 - 12:00 Contributed talks
+
     + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
       Assessment and Interactive Visualisation.
     + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
@@ -62,39 +75,59 @@ Main Conference Day 1: Thursday July 26
     + Ludwig Geistlinger\*, Gergely Csaba, Mara Santarelli, Lucas
       Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
       gold standard for benchmarking gene set enrichment analysis.
+
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshop Session 1
-    + Martin Morgan\*, Bioconductor for Everyone.
+
+    + Martin Morgan\*. Bioconductor for Everyone.
     + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
       analysis of high-throughput omics data.
+
 * 1:45 - 2:45 Workshops Session 1b
+
     + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
       Haibe-Kains. Biomarker discovery from large pharmacogenomics
       datasets.
+
 * 2:45 - 3:15 break
+
 * 3:15 - 5:00 Workshops Session 2
+
     + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
       resources
     + Love MI. RNA-seq data analysis with DESeq2
+
 * 4:00 - 5:00 Workshops Session 2b
+
      + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
        using StatePaintR, FunciVar and MotifBreakR.
      + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
        Rcy3.
+
 * 5:30 - 7:30 Contributed posters
 
-Main Conference Day 2: Friday July 27
+### Day 2: Friday July 27
 
-* 8:30 - 9:00 Tim Hughes
-* 9:00 - 9:30 Benjamin Haibe-Kains
+* 8:30 - 9:00 [Tim Hughes][6], University of Toronto. Binding motifs
+  for DNA and RNA binding proteins.
+* 9:00 - 9:30 [Benjamin Haibe-Kains][2], Princesss Margaret Cancer
+  Center, Toronto. Cancer Biomarker Discovery: Building a Bridge
+  Between Preclinical and Clinical Research.
 * 9:30 - 10:00 Contributed talks
+
     + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
       Bioconductor's Ranges infrastructure.
     + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
       propagation for RNA-seq.
+
 * 10:00 - 10:30 break
-* 10:30 - 11:00 Charlotte Soneson
+
+* 10:30 - 11:00 [Charlotte Soneson][4], University of Zurich,
+  Switzerland. A junction coverage compatibility score to quantify the
+  reliability of transcript abundance estimates and annotation
+  catalogs.
 * 11:00 - 12:00 Contributed talks
+
     + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W
       Law\*. Unpacking signal from RNA-seq intron reads using Rsubread
       and limma packages.
@@ -108,18 +141,25 @@ Main Conference Day 2: Friday July 27
       fast pipeline for broad peak analysis.
     + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
       Preprocessing Methods using Ensemble Machine Learning.
+
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshops Session 1
-     + Michael Lawrence\*, Martin Morgan Solving common bioinformatic
+
+     + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
        challenges using GenomicRanges.
      + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
        Analysis with MultiAssayExperiment.
+
 * 1:45 - 2:45 Workshops Session 1b
+
      + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
        Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
        Glimma and edgeR.
+
 * 2:45 - 3:15 break
+
 * 3:15 - 5:00 Workshops Session 2
+
      + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
        data: Dimensionality reduction, clustering, and lineage
        inference.
@@ -127,6 +167,9 @@ Main Conference Day 2: Friday July 27
        package.
      + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
        Resources and Bioconductor.
+
 * 4:00 - 5:00 Workshops Session 2b
-     + Lee S\*, Lawrence M Fluent genomic data analysis with plyranges
+
+     + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
+
 * 5:30 - 7:30 Contributed posters
