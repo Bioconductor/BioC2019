@@ -23,17 +23,23 @@ Developer Day: Wednesday July 25
       attendees
 * 10:30 - 11:00 BREAK
 * 11:00 - 12:00 Birds-of-a-feather I / Workshops I
-	- Workshop: Nitesh Turaga, Maintaining your Bioconductor package. 
-        - BoF: Stephanie Hicks, Statistical Analysis and Comprehension of the Human Cell Atlas in R/Bioconductor (https://github.com/Bioconductor/BioC2018/issues/5)
+	- Workshop: Nitesh Turaga, Maintaining your Bioconductor package.
+    - BoF: Stephanie Hicks, Statistical Analysis and Comprehension of
+      the Human Cell Atlas in R/Bioconductor [Proposal][hca].
 	- [submit your proposal](call-for-abstracts)
 * 12:00 - 1:00 Lunch
 * 1:00 - 1:30 Lightning talks II
 	- Lightning talk platforms will be available to all Developer Day
       attendees
 * 1:30 - 2:30 Birds-of-a-feather II / Workshops II
-        - BoF: Levi Waldron, New Data Structures for Bioconductor (https://github.com/Bioconductor/BioC2018/issues/8)
-	- Workshop: Peter Hickey, Effectively using the DelayedArray framework to support the analysis of large datasets
+    - BoF: Levi Waldron, New Data Structures for Bioconductor
+      [Proposal][strutures].
+	- Workshop: Peter Hickey, Effectively using the DelayedArray
+      framework to support the analysis of large datasets.
 	- [submit your proposal](call-for-abstracts)
 * 2:30 - 3:00 Break
 * 3:00 - 3:30 Lightning talks III
 * 4:30 - 5:00 Panel discussion: project directions and opportunities
+
+[hca]: https://github.com/Bioconductor/BioC2018/issues/5
+[structures]: https://github.com/Bioconductor/BioC2018/issues/8
