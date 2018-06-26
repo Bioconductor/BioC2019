@@ -18,8 +18,10 @@ channel for up-to-date information.
 
 ### Main Conference
 
-- Lee S\*, Lawrence M. _Fluent genomic data analysis with
-  [plyranges][]_. In this workshop, we will give an overview of how to
+
+- Lee S*, Lawrence M. _Fluent genomic data analysis with
+  [plyranges][]_. [Workshop Syllabus & Materials][Lee_Plyranges].
+  In this workshop, we will give an overview of how to
   perform low-level analyses of genomic data using the grammar of
   genomic data transformation defined in the plyranges package. We
   will cover:
@@ -35,7 +37,8 @@ channel for up-to-date information.
   be able to ask questions and interact with the instructors."
 
 - MacDonald J, Shepherd L. _Introduction to [Bioconductor][]
-  annotation resources_. There are various annotation packages
+  annotation resources_. [Workshop Syllabus & Materials][MacDonald_Annotation].
+  There are various annotation packages
   provided by the _[Bioconductor][]_ project that can be used to
   incorporate additional information to results from high-throughput
   experiments. This can be as simple as mapping Ensembl IDs to
@@ -44,17 +47,23 @@ channel for up-to-date information.
   various classes of annotation packages, what they contain, and how
   to use them efficiently.
 
+
+
+
+
+
 - Levi Waldron, Benjamin Haibe-Kains, Sean Davis. _Public Data
-  Resources and [Bioconductor][]_. The goal of this workshop is to
-  introduce _[Bioconductor][]_ packages for finding, accessing, and
-  using large-scale public data resources including the Gene
+  Resources and [Bioconductor][]_. [Workshop Syllabus & Materials][Waldron_PublicData]
+  The goal of this workshop is to introduce _[Bioconductor][]_ packages for 
+  finding, accessing, and using large-scale public data resources including the Gene
   Expression Omnibus [GEO](https://www.ncbi.nlm.nih.gov/geo), Sequence
   Read Archive [SRA](https://www.ncbi.nlm.nih.gov/sra), the Genomic
   Data Commons [GDC](https://portal.gdc.cancer.gov/), and
   _[Bioconductor][]_-hosted curated data resources for metagenomics,
   pharmacogenomics, and The Cancer Genome Atlas.
 
-- Love MI.  _RNA-seq data analysis with [DESeq2][]_. In this workshop,
+- Love MI.  _RNA-seq data analysis with [DESeq2][]_. [Workshop Syllabus & Materials][Love_DESeq2]
+  In this workshop,
   we will give a quick overview of the most useful functions in the
   [DESeq2][] package, and a basic RNA-seq analysis. We will cover: how
   to quantify transcript expression from FASTQ files using Salmon,
@@ -67,10 +76,13 @@ channel for up-to-date information.
   [DESeq2][] with the zinbwave package for single-cell RNA-seq
   differential expression. The workshop is designed to be a lab with
   plenty of time for questions throughout the lab.
+  
+
 
 - Charity Law , Monther Alhamdoosh, Shian Su, Gordon Smyth and Matthew
   Ritchie. _RNA-seq analysis is easy as 1-2-3 with [limma][],
-  [Glimma][] and [edgeR][]_. In this workshop, we analyse
+  [Glimma][] and [edgeR][]_ [Workshop Syllabus & Materials][Law_RNAseq123]
+  In this workshop, we analyse
   RNA-sequencing data from the mouse mammary gland, demonstrating use
   of the popular edgeR package to import, organise, filter and
   normalise the data, followed by the [limma][] package with its voom
@@ -83,8 +95,10 @@ channel for up-to-date information.
   from an RNA-sequencing experiment into biological insights using
   _[Bioconductor][]_.
 
+
 - Michael Lawrence, Martin Morgan.  _Solving common bioinformatic
-  challenges using [GenomicRanges][]_. We will introduce the
+  challenges using [GenomicRanges][]_. [Workshop Syllabus & Materials][Lawrence_GenomicRanges].
+  We will introduce the
   fundamental concepts underlying the [GenomicRanges][] package and
   related infrastructure. After a structured introduction, we will
   follow a realistic workflow, along the way exploring the central
@@ -96,8 +110,12 @@ channel for up-to-date information.
   will be plenty of time for students to ask questions about how to
   apply the infrastructure to their particular use case.
 
+
+
+
 - Zhaleh Safikhani, Petr Smirnov, Benjamin Haibe-Kains. _Biomarker
-  discovery from large pharmacogenomics datasets_. This workshop will
+  discovery from large pharmacogenomics datasets_. [Workshop Syllabus & Materials][Safikhani_Pharmacogenomics]
+  This workshop will
   focus on the challenges encountered when applying machine learning
   techniques in complex, high dimensional biological data. In
   particular, we will focus on biomarker discovery from
@@ -121,8 +139,10 @@ channel for up-to-date information.
   multitude of ways, increasing the risk of overfitting when
   developing multivariate predictors of drug response.
 
+
 - Ludwig Geistlinger and Levi Waldron. _Functional enrichment analysis
-  of high-throughput omics data_. This workshop gives an in-depth
+  of high-throughput omics data_. [Workshop Syllabus & Materials][Geistlinger_Omics].
+  This workshop gives an in-depth
   overview of existing methods for enrichment analysis of gene
   expression data with regard to functional gene sets, pathways, and
   networks.
@@ -136,8 +156,11 @@ channel for up-to-date information.
   and regulatory elements, along with visualization and exploration of
   results.
 
+
+
 - Ramos M, Geistlinger L, Waldron L. _Workflow for Multi-omics
-  Analysis with [MultiAssayExperiment][]_. This workshop demonstrates
+  Analysis with [MultiAssayExperiment][]_ [Workshop Syllabus & Materials][Ramos_MultiAssayExperiment].
+  This workshop demonstrates
   data management and analyses of multiple assays associated with a
   single set of biological specimens, using the `MultiAssayExperiment`
   data class and methods. It introduces the `RaggedExperiment` data
@@ -145,9 +168,10 @@ channel for up-to-date information.
   representation of copy number and mutation and variant data that are
   represented by different genomic ranges for each specimen. "
 
-- Das D\*, Street K\*, Risso D. _Analysis of single-cell RNA-seq data:
-  Dimensionality reduction, clustering, and lineage inference_. This
-  workshop will be presented as a lab session (brief introduction
+- Das D*, Street K*, Risso D. _Analysis of single-cell RNA-seq data:
+  Dimensionality reduction, clustering, and lineage inference_.
+  [Workshop Syllabus & Materials][Das_SingleCellRNAseq].
+  This workshop will be presented as a lab session (brief introduction
   followed by hands-on coding) that instructs participants in a
   _[Bioconductor][]_ workflow for the analysis of single-cell
   RNA-sequencing data, in three parts:
@@ -162,8 +186,10 @@ channel for up-to-date information.
   We will provide worked examples for lab sessions, and a set of
   stand-alone notes in this repository.
 
-- Isserlin R, Innes B, Bader GD. _[Cytoscape][] Automation in R using
-  [Rcy3][]_.  [Cytoscape][] is one of the most popular applications for
+
+- Isserlin R,Innes B, Bader GD. _[Cytoscape][] Automation in R using
+  [Rcy3][]_.  [Workshop Syllabus & Materials][Isserlin_Rcy3]
+  [Cytoscape][] is one of the most popular applications for
   network analysis and visualization. In this workshop, we will
   demonstrate new capabilities to integrate Cytoscape into
   programmatic workflows and pipelines using R. We will begin with an
@@ -173,8 +199,11 @@ channel for up-to-date information.
   and controlling Cytoscape from R to perform a network analysis of
   tumor expression data.
 
+
+
 - Coetzee SG and Hazelett DJ. _Variant Functional Annotation using
-  [StatePaintR][], [FunciVar][] and [MotifBreakR][]_. This workshop focuses on
+  [StatePaintR][], [FunciVar][] and [MotifBreakR][]_. [Workshop Syllabus & Materials][Coetzee_StatePaintR]
+  This workshop focuses on
   _[Bioconductor][]_ based tools for non-coding variant annotation. I
   will present a high level overview of these concepts and the
   bioconductor tools our group uses to address them *in silico*. These
@@ -183,7 +212,8 @@ channel for up-to-date information.
   objects.
   
 - Cooley N and Wright E. _Working with Genomic Data in R with the
-  DECIPHER package_. [DECIPHER][] is a multifaceted package that
+  DECIPHER package_. [Workshop Syllabus & Materials][Cooley_DECIPHER]
+  [DECIPHER][] is a multifaceted package that
   includes many tools for working with genome-scale sequence
   data. Genomic sequences undergo a variety of large-scale mutational
   processes, including rearrangements, inversions, duplications,
@@ -201,10 +231,61 @@ channel for up-to-date information.
   representing the evolutionary history of the core-genome and
   pan-genome.
 
-### Developer Day
+<!--
+- Wright E Performing multiple alignment of homologous sequences with
+  DECIPHER "Multiple sequence alignment is useful across many domains
+  of biology, and is particularly difficult when sequences are very
+  dissimilar. In this lab, we will demonstrate how to align sequences
+  in R using the DECIPHER package. In particular, we will focus on how
+  to choose the best input options to ensure a high quality
+  alignment. This workshop will cover:
 
-- Hickey P.F.\* _Effectively using the [DelayedArray][] framework to
-  support the analysis of large datasets_. This workshop will teach
+    - Importing sequences from a FASTA file
+    - Choosing the right function for aligning your sequences
+    - Inspecting the output multiple sequence alignment
+    - Understanding important input parameters
+    - Downstream analyses that are enabled by alignment"
+
+- Cooley N, Wright E Mapping synteny between genomes with DECIPHER's
+  FindSynteny function "Syntenic regions are collinear blocks of
+  homologous sequence that are shared between two or more
+  genomes. Synteny is often used in comparative genomics to identify
+  orthologous regions. This workshop will be a lab on how to create
+  and work with objects of the class Synteny within the _[Bioconductor][]_
+  package DECIPHER. This workshop will cover:
+
+    - Genome import and database construction
+    - Use of FindSynteny to map syntenic regions between genomes
+    - Accessing the Synteny object created by FindSynteny
+    - Extracting data from the Synteny object
+    - Visualization of the syntenic blocks"
+
+- De Wolfe T, Wright E* Classifying marker gene sequences with the
+  IDTAXA algorithm "Marker gene sequences, such as the 16S rRNA, are
+  commonly used to analyze microbiome samples. An important part of
+  this analysis is the assignment of sequences to taxonomic
+  groups. Here, we will demonstrate how to accurately classify
+  sequences with the IDTAXA algorithm, which is composed of the
+  LearnTaxa and IdTaxa functions in the DECIPHER package. This
+  workshop will cover:
+
+    - Training a classifier based on a reference taxonomy
+    - Investigating putative problem taxonomic groups
+    - Classify new sequences to reference taxonomic groups
+    - Visualizing the classifications in a single sample
+    - Comparing classifications across multiple samples
+    - Extracting information from objects of class Taxa"
+
+-->
+
+
+  
+
+### Developer Day (Incomplete)
+
+- Hickey P.F.* _Effectively using the [DelayedArray][] framework to
+  support the analysis of large datasets_. [Workshop Syllabus & Materials][Hickey_DelayedArray].
+  This workshop will teach
   the fundamental concepts underlying the DelayedArray framework and
   related infrastructure. It is intended for package developers who
   want to learn how to use the [DelayedArray][] framework to support
@@ -221,8 +302,8 @@ channel for up-to-date information.
   although we will not be writing much code during the workshop.
   
 - Nitesh Turaga. Roswell Park Comprehensive Cancer
-  Center. _Maintaining your [Bioconductor][] package_. Once an R
-  package is accepted into _[Bioconductor][]_, maintaining it is an
+  Center. _Maintaining your [Bioconductor][] package_. [Workshop Syllabus & Materials][Turaga_MaintainBioc]
+  Once an R package is accepted into _[Bioconductor][]_, maintaining it is an
   active responsibility undertaken by the package developers and
   maintainers. In this short workshop, we will cover how to maintain a
   _[Bioconductor][]_ package using existing
@@ -257,3 +338,24 @@ channel for up-to-date information.
 [txmeta]: https://bioconductor.org/packages/txmetta
 
 [Cytoscape]: http://www.cytoscape.org/
+
+
+
+[Coetzee_StatePaintR]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Coetzee_StatePaintR.Rmd
+[Cooley_DECIPHER]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Cooley_DECIPHER.Rmd
+[Das_SingleCellRNAseq]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Das_SingleCellRNAseq.Rmd
+[Geistlinger_Omics]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Geistlinger_Omics.Rmd
+[Hickey_DelayedArray]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Hickey_DelayedArray.Rmd
+[Isserlin_Rcy3]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Isserlin_Rcy3.Rmd
+[Hickey_DelayedArray]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Hickey_DelayedArray.Rmd
+[Law_RNAseq123]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Law_RNAseq123.Rmd
+[Lawrence_GenomicRanges]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Lawrence_GenomicRanges.Rmd
+[Lee_Plyranges]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Lee_Plyranges.Rmd
+[Love_DESeq2]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Love_DESeq2.Rmd
+[MacDonald_Annotation]: https://github.com/Bioconductor/BiocWorkshops/blob/master/MacDonald_Annotation.Rmd
+[Ramos_MultiAssayExperiment]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Ramos_MultiAssayExperiment.Rmd
+[Safikhani_Pharmacogenomics]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Safikhani_Pharmacogenomics.Rmd
+[Turaga_MaintainBioc]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Turaga_MaintainBioc.Rmd
+[Waldron_PublicData]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Waldron_PublicData.Rmd
+
+
