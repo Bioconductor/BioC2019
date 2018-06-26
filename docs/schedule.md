@@ -64,19 +64,23 @@ Main Conference Day 1: Thursday July 26
       gold standard for benchmarking gene set enrichment analysis.
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshop Session 1
-    + Martin Morgan, Bioconductor for Everyone
-    + Ludwig Geistlinger* and Levi Waldron,	Functional enrichment analysis of high-throughput omics data
-* 1:00 - 1:45 Workshops Session 1a
-* 2:00 - 2:45 Workshops Session 1b
-    + Zhaleh Safikhani*, Petr Smirnov, Benjamin Haibe-Kains	Biomarker discovery from large pharmacogenomics datasets
-* 2:45 - 3:00 break
+    + Martin Morgan\*, Bioconductor for Everyone.
+    + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
+      analysis of high-throughput omics data.
+* 1:45 - 2:45 Workshops Session 1b
+    + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
+      Haibe-Kains. Biomarker discovery from large pharmacogenomics
+      datasets.
+* 2:45 - 3:15 break
 * 3:15 - 5:00 Workshops Session 2
-    + MacDonald J, Shepherd L	Introduction to Bioconductor annotation resources
-    + Love MI	RNA-seq data analysis with DESeq2
-* 3:15 - 4:00 Workshops Session 2a
-    + Coetzee SG* and Hazelett DJ	Variant Functional Annotation using StatePaintR, FunciVar and MotifBreakR
-* 4:15 - 5:00 Workshops Session 2b
-     + Isserlin R*,Innes B, Bader GD	Cytoscape Automation in R using Rcy3
+    + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
+      resources
+    + Love MI. RNA-seq data analysis with DESeq2
+* 4:00 - 5:00 Workshops Session 2b
+     + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
+       using StatePaintR, FunciVar and MotifBreakR.
+     + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
+       Rcy3.
 * 5:30 - 7:30 Contributed posters
 
 Main Conference Day 2: Friday July 27
@@ -106,15 +110,23 @@ Main Conference Day 2: Friday July 27
       Preprocessing Methods using Ensemble Machine Learning.
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshops Session 1
-     + Michael Lawrence*, Martin Morgan	Solving common bioinformatic challenges using GenomicRanges
-     + Ramos M, Geistlinger L, Waldron L*	Workflow for Multi-omics Analysis with MultiAssayExperiment
-* 2:00 - 2:45 Workshops Session 1b
-     + Charity Law* , Monther Alhamdoosh, Shian Su, Gordon Smyth and Matthew Ritchie 	RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
-* 2:45 - 3:00 break
+     + Michael Lawrence\*, Martin Morgan Solving common bioinformatic
+       challenges using GenomicRanges.
+     + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
+       Analysis with MultiAssayExperiment.
+* 1:45 - 2:45 Workshops Session 1b
+     + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
+       Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
+       Glimma and edgeR.
+* 2:45 - 3:15 break
 * 3:15 - 5:00 Workshops Session 2
-     + Das D*, Street K*, Risso D*	Analysis of single-cell RNA-seq data: Dimensionality reduction, clustering, and lineage inference
-     + Wright E	Working with Genomic Data in R with the DECIPHER package
-     + Levi Waldron, Benjamin Haibe-Kains, Sean Davis	Public Data Resources and Bioconductor
-* 4:15 - 5:00 Workshops Session 2b
-     + Lee S*, Lawrence M	Fluent genomic data analysis with plyranges
+     + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
+       data: Dimensionality reduction, clustering, and lineage
+       inference.
+     + Wright E. Working with Genomic Data in R with the DECIPHER
+       package.
+     + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
+       Resources and Bioconductor.
+* 4:00 - 5:00 Workshops Session 2b
+     + Lee S\*, Lawrence M Fluent genomic data analysis with plyranges
 * 5:30 - 7:30 Contributed posters

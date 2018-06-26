@@ -18,7 +18,7 @@ channel for up-to-date information.
 
 ### Main Conference
 
-- Lee S*, Lawrence M. _Fluent genomic data analysis with
+- Lee S\*, Lawrence M. _Fluent genomic data analysis with
   [plyranges][]_. In this workshop, we will give an overview of how to
   perform low-level analyses of genomic data using the grammar of
   genomic data transformation defined in the plyranges package. We
@@ -145,7 +145,7 @@ channel for up-to-date information.
   representation of copy number and mutation and variant data that are
   represented by different genomic ranges for each specimen. "
 
-- Das D*, Street K*, Risso D. _Analysis of single-cell RNA-seq data:
+- Das D\*, Street K\*, Risso D. _Analysis of single-cell RNA-seq data:
   Dimensionality reduction, clustering, and lineage inference_. This
   workshop will be presented as a lab session (brief introduction
   followed by hands-on coding) that instructs participants in a
@@ -162,7 +162,7 @@ channel for up-to-date information.
   We will provide worked examples for lab sessions, and a set of
   stand-alone notes in this repository.
 
-- Isserlin R,Innes B, Bader GD. _[Cytoscape][] Automation in R using
+- Isserlin R, Innes B, Bader GD. _[Cytoscape][] Automation in R using
   [Rcy3][]_.  [Cytoscape][] is one of the most popular applications for
   network analysis and visualization. In this workshop, we will
   demonstrate new capabilities to integrate Cytoscape into
@@ -201,57 +201,9 @@ channel for up-to-date information.
   representing the evolutionary history of the core-genome and
   pan-genome.
 
-<!--
-- Wright E Performing multiple alignment of homologous sequences with
-  DECIPHER "Multiple sequence alignment is useful across many domains
-  of biology, and is particularly difficult when sequences are very
-  dissimilar. In this lab, we will demonstrate how to align sequences
-  in R using the DECIPHER package. In particular, we will focus on how
-  to choose the best input options to ensure a high quality
-  alignment. This workshop will cover:
+### Developer Day
 
-    - Importing sequences from a FASTA file
-    - Choosing the right function for aligning your sequences
-    - Inspecting the output multiple sequence alignment
-    - Understanding important input parameters
-    - Downstream analyses that are enabled by alignment"
-
-- Cooley N, Wright E Mapping synteny between genomes with DECIPHER's
-  FindSynteny function "Syntenic regions are collinear blocks of
-  homologous sequence that are shared between two or more
-  genomes. Synteny is often used in comparative genomics to identify
-  orthologous regions. This workshop will be a lab on how to create
-  and work with objects of the class Synteny within the _[Bioconductor][]_
-  package DECIPHER. This workshop will cover:
-
-    - Genome import and database construction
-    - Use of FindSynteny to map syntenic regions between genomes
-    - Accessing the Synteny object created by FindSynteny
-    - Extracting data from the Synteny object
-    - Visualization of the syntenic blocks"
-
-- De Wolfe T, Wright E* Classifying marker gene sequences with the
-  IDTAXA algorithm "Marker gene sequences, such as the 16S rRNA, are
-  commonly used to analyze microbiome samples. An important part of
-  this analysis is the assignment of sequences to taxonomic
-  groups. Here, we will demonstrate how to accurately classify
-  sequences with the IDTAXA algorithm, which is composed of the
-  LearnTaxa and IdTaxa functions in the DECIPHER package. This
-  workshop will cover:
-
-    - Training a classifier based on a reference taxonomy
-    - Investigating putative problem taxonomic groups
-    - Classify new sequences to reference taxonomic groups
-    - Visualizing the classifications in a single sample
-    - Comparing classifications across multiple samples
-    - Extracting information from objects of class Taxa"
-
--->
-
-
-### Developer Day (Incomplete)
-
-- Hickey P.F.* _Effectively using the [DelayedArray][] framework to
+- Hickey P.F.\* _Effectively using the [DelayedArray][] framework to
   support the analysis of large datasets_. This workshop will teach
   the fundamental concepts underlying the DelayedArray framework and
   related infrastructure. It is intended for package developers who
