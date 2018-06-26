@@ -163,8 +163,8 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
      + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
        data: Dimensionality reduction, clustering, and lineage
        inference.
-     + Wright E. Working with Genomic Data in R with the DECIPHER
-       package.
+     + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
+       with the DECIPHER package.
      + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
        Resources and Bioconductor.
 
