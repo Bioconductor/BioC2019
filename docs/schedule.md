@@ -64,8 +64,9 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
     + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
       Assessment and Interactive Visualisation.
-    + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
-      Estimation and Inference for Differential Methylation Analysis.
+    + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
+      Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
+      fast pipeline for broad peak analysis.
     + Adithya M, Bhargava A, Wright E\*. Improving the accuracy of
       taxonomic classification for identifying taxa in microbiome
       samples.
@@ -136,9 +137,8 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
     + Abbas Rizvi\*, Ezgi Karaesmen\*, Leah Preus, Michael Sovic,
       Junke Wang, Lara Sucheston-Campbell. gwasurvivr: an R package to
       perform survival association testing on imputed genetic data.
-    + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
-      Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
-      fast pipeline for broad peak analysis.
+    + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
+      Estimation and Inference for Differential Methylation Analysis.
     + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
       Preprocessing Methods using Ensemble Machine Learning.
 
