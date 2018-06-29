@@ -42,7 +42,7 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 ### Developer Day: Wednesday July 25
 
-* See the [Developer Day](schedule-developer-day) schedule.
+See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
