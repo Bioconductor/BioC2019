@@ -10,45 +10,56 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 ## Developer Day Schedule (Tentative)
 
-* 9:00 - 9:40 Welcome
-
+9:00 - 9:40
+: Welcome
     - Orientation & project updates
 	- Community activity
 
-* 9:40 - 10:00 Peter F. Hickey, Lessons from switching to on-disk
-  storage using DelayedArray containers.
-* 10:00 - 10:30 Lightning talks I
+9:40 - 10:00
+: Peter F. Hickey, Lessons from switching to on-disk storage using
+  DelayedArray containers.
 
-	- Lightning talk platforms will be available to all Developer Day
-      attendees
+10:00 - 10:30
+: Lightning talks I. Lightning talk platforms will be available to all
+  Developer Day attendees
 
-* 10:30 - 11:00 BREAK
-* 11:00 - 12:00 Birds-of-a-feather I / Workshops I
+10:30 - 11:00
+: Break
 
-	- Workshop: Nitesh Turaga, Maintaining your Bioconductor
-      package. [Syllabus & Materials][Turaga_MaintainBioc].
-    - BoF: Stephanie Hicks, Statistical Analysis and Comprehension of
-      the Human Cell Atlas in R/Bioconductor. [Details][hca].
-	- [Submit your proposal](call-for-abstracts).
+11:00 - 12:00
+: Birds-of-a-feather I / Workshops I
 
-* 12:00 - 1:00 Lunch
-* 1:00 - 1:30 Lightning talks II
+  - Workshop: Nitesh Turaga, Maintaining your Bioconductor
+    package. [Syllabus & Materials][Turaga_MaintainBioc].
+  - BoF: Stephanie Hicks, Statistical Analysis and Comprehension of
+    the Human Cell Atlas in R/Bioconductor. [Details][hca].
+  - [Submit your proposal](call-for-abstracts).
 
-	- Lightning talk platforms will be available to all Developer Day
-      attendees
+12:00 - 1:00
+: Lunch
 
-* 1:30 - 2:30 Birds-of-a-feather II / Workshops II
+1:00 - 1:30
+: Lightning talks II. Lightning talk platforms will be available to
+  all Developer Day attendees.
 
-    - BoF: Levi Waldron, New Data Structures for Bioconductor
-      [Details][structures].
-	- Workshop: Peter Hickey, Effectively using the DelayedArray
-      framework to support the analysis of large
-      datasets. [Syllabus & Materials][Hickey_DelayedArray].
-	- [Submit your proposal](call-for-abstracts).
+1:30 - 2:30
+: Birds-of-a-feather II / Workshops II
 
-* 2:30 - 3:00 Break
-* 3:00 - 3:30 Lightning talks III
-* 4:30 - 5:00 Panel discussion: project directions and opportunities
+  - BoF: Levi Waldron, New Data Structures for Bioconductor
+    [Details][structures].
+  - Workshop: Peter Hickey, Effectively using the DelayedArray
+    framework to support the analysis of large
+    datasets. [Syllabus & Materials][Hickey_DelayedArray].
+  - [Submit your proposal](call-for-abstracts).
+
+2:30 - 3:00
+: Break
+
+3:00 - 3:30
+: Lightning talks III
+
+4:30 - 5:00
+: Panel discussion: project directions and opportunities
 
 [hca]: https://github.com/Bioconductor/BioC2018/issues/5
 [structures]: https://github.com/Bioconductor/BioC2018/issues/8
