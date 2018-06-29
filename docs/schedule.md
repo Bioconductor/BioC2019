@@ -72,19 +72,20 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 11:00 - 12:00
 : Contributed talks
 
-    + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
-      Assessment and Interactive Visualisation.
-    + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
-      Estimation and Inference for Differential Methylation Analysis.
-    + Adithya M, Bhargava A, Wright E\*. Improving the accuracy of
-      taxonomic classification for identifying taxa in microbiome
-      samples.
-    + Zhun Miao\*, Ke Deng, Xiaowo Wang, Xuegong Zhang. DEsingle for
-      detecting three types of differential expression in single-cell
-      RNA-seq data.
-    + Ludwig Geistlinger\*, Gergely Csaba, Mara Santarelli, Lucas
-      Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
-      gold standard for benchmarking gene set enrichment analysis.
+  + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
+    Assessment and Interactive Visualisation.
+  + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
+    Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
+    fast pipeline for broad peak analysis.
+  + Adithya M, Bhargava A, Wright E\*. Improving the accuracy of
+    taxonomic classification for identifying taxa in microbiome
+    samples.
+  + Zhun Miao\*, Ke Deng, Xiaowo Wang, Xuegong Zhang. DEsingle for
+    detecting three types of differential expression in single-cell
+    RNA-seq data.
+  + Ludwig Geistlinger\*, Gergely Csaba, Mara Santarelli, Lucas
+    Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
+    gold standard for benchmarking gene set enrichment analysis.
 
 12:00 - 1:00
 : Lunch / Birds-of-a-feather
@@ -92,16 +93,16 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 1:00 - 2:45
 : Workshop Session 1
 
-    + Martin Morgan\*. Bioconductor for Everyone.
-    + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
-      analysis of high-throughput omics data.
+  + Martin Morgan\*. Bioconductor for Everyone.
+  + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
+    analysis of high-throughput omics data.
 
 1:45 - 2:45
 : Workshops Session 1b
 
-    + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
-      Haibe-Kains. Biomarker discovery from large pharmacogenomics
-      datasets.
+  + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
+    Haibe-Kains. Biomarker discovery from large pharmacogenomics
+    datasets.
 
 2:45 - 3:15
 : Break
@@ -109,17 +110,17 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 3:15 - 5:00
 : Workshops Session 2
 
-    + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
-      resources
-    + Love MI. RNA-seq data analysis with DESeq2
+  + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
+    resources
+  + Love MI. RNA-seq data analysis with DESeq2
 
 4:00 - 5:00
 : Workshops Session 2b
 
-     + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
-       using StatePaintR, FunciVar and MotifBreakR.
-     + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
-       Rcy3.
+  + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
+    using StatePaintR, FunciVar and MotifBreakR.
+  + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
+    Rcy3.
 
 5:30 - 7:30
 : Contributed posters
@@ -138,10 +139,10 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 9:30 - 10:00
 : Contributed talks
 
-    + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
-      Bioconductor's Ranges infrastructure.
-    + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
-      propagation for RNA-seq.
+  + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
+    Bioconductor's Ranges infrastructure.
+  + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
+    propagation for RNA-seq.
 
 10:00 - 10:30
 : Break
@@ -162,9 +163,8 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
   + Abbas Rizvi\*, Ezgi Karaesmen\*, Leah Preus, Michael Sovic,
     Junke Wang, Lara Sucheston-Campbell. gwasurvivr: an R package to
     perform survival association testing on imputed genetic data.
-  + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
-    Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
-    fast pipeline for broad peak analysis.
+  + Nima Hejazi\*, Alan Hubbard, Mark van der Laan. Data-Adaptive
+    Estimation and Inference for Differential Methylation Analysis.
   + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
     Preprocessing Methods using Ensemble Machine Learning.
 
@@ -172,38 +172,38 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 : Lunch / Birds-of-a-feather
 
 1:00 - 2:45
-: Workshops Session 1
+: Workshops Session 3
 
-   + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
-     challenges using GenomicRanges.
-   + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
-     Analysis with MultiAssayExperiment.
+  + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
+    challenges using GenomicRanges.
+  + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
+    Analysis with MultiAssayExperiment.
 
 1:45 - 2:45
-: Workshops Session 1b
+: Workshops Session 3b
 
-   + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
-     Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
-     Glimma and edgeR.
+  + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
+    Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
+    Glimma and edgeR.
 
 2:45 - 3:15
 : Break
 
 3:15 - 5:00
-: Workshops Session 2
+: Workshops Session 4
 
-   + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
-     data: Dimensionality reduction, clustering, and lineage
-     inference.
-   + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
-     with the DECIPHER package.
-   + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
-     Resources and Bioconductor.
+  + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
+    data: Dimensionality reduction, clustering, and lineage
+    inference.
+  + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
+    with the DECIPHER package.
+  + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
+    Resources and Bioconductor.
 
 4:00 - 5:00
-: Workshops Session 2b
+: Workshops Session 4b
 
-   + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
+  + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
 
 5:30 - 7:30
 : Contributed posters
