@@ -16,9 +16,9 @@ Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
 
 ### Confirmed Speakers for July 26-27
 
-* [Michael Hoffman][5], University of Toronto. Identifying
-  transcription factor binding using open chromatin, transcriptome,
-  and methylation data.
+* [Michael Hoffman][5], University of Toronto. Virtual ChIP-seq:
+  predicting transcription factor binding by learning from the
+  transcriptome.
 * [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
   and Bioinformatics. Enter the Matrix: Interpreting omics through
   matrix factorization.
@@ -53,9 +53,9 @@ See the [Developer Day](schedule-developer-day) schedule.
 : Welcoming remarks (Martin Morgan)
 
 9:00 - 9:30
-: [Michael Hoffman][5], University of Toronto. Identifying
-  transcription factor binding using open chromatin, transcriptome,
-  and methylation data.
+: [Michael Hoffman][5], University of Toronto. Virtual ChIP-seq:
+  predicting transcription factor binding by learning from the
+  transcriptome.
 
 9:30 - 10:00
 : [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
