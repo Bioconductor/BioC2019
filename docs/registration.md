@@ -45,11 +45,11 @@ Main Conference (July 26, 27)
 <p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="FNJHAX6G85S3N">
+<input type="hidden" name="hosted_button_id" value="K3CQQPNVJVLHC">
 <table>
-<tr><td><input type="hidden" name="on0" value="Registration"></td></tr><tr><td><select name="os0">
-	<option value="Academic / Not-for-profit">Academic / Not-for-profit $300.00 USD</option>
-	<option value="Commercial">Commercial $400.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Registration">Registration</td></tr><tr><td><select name="os0">
+	<option value="Academic / Not-for-profit">Academic / Not-for-profit $600.00 USD</option>
+	<option value="Commercial">Commercial $800.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
