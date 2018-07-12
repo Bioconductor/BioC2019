@@ -48,33 +48,28 @@ See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
-8:00 - 8:45
-: Registration
+8:00 - 8:45 -- Registration
+: 
 
-8:45 - 9:00
-: Welcoming remarks (Martin Morgan)
+8:45 - 9:00 -- Welcoming remarks (Martin Morgan)
+: 
 
-9:00 - 9:30
-: [Michael Hoffman][5], University of Toronto. Virtual ChIP-seq:
-  predicting transcription factor binding by learning from the
-  transcriptome.
+9:00 - 9:30 -- [Michael Hoffman][5] University of Toronto.
+: Virtual ChIP-seq: predicting transcription factor binding by
+  learning from the transcriptome.
 
-9:30 - 10:00
-: [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
-  and Bioinformatics. Enter the Matrix: Interpreting omics through
-  matrix factorization.
+9:30 - 10:00 -- [Elana Fertig][3] John Hopkins University. 
+: Enter the Matrix: Interpreting omics through matrix factorization.
 
-10:00 - 10:30
-: Break
+10:00 - 10:30 -- Break
+: 
 
-10:30 - 11:00
-: [Brenda Andrews][1], University of Toronto.  Analysis of high
-  content microscopy data generated through automated yeast genetics.
+10:30 - 11:00 [Brenda Andrews][1] University of Toronto.
+: Analysis of high content microscopy data generated through automated
+  yeast genetics.
 
-11:00 - 12:00
-: Contributed talks
-
-  + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
+11:00 - 12:00 -- Contributed talks
+: + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
     Assessment and Interactive Visualisation.
   + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
     Peixoto L, Risso D. Differential Enriched Scan 2 (DEScan2): a
@@ -89,75 +84,61 @@ See the [Developer Day](schedule-developer-day) schedule.
     Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
     gold standard for benchmarking gene set enrichment analysis.
 
-12:00 - 1:00
-: Lunch / Birds-of-a-feather
+12:00 - 1:00 -- Lunch / Birds-of-a-feather
+: 
 
-1:00 - 2:45
-: Workshop Session 1
-
-  + Martin Morgan\*. Bioconductor for Everyone.
+1:00 - 2:45 --  Workshop Session 1
+: + Martin Morgan\*. Bioconductor for Everyone.
   + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
     analysis of high-throughput omics data.
 
-1:45 - 2:45
-: Workshops Session 1b
-
-  + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
+1:45 - 2:45 --  Workshops Session 1b
+: + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
     Haibe-Kains. Biomarker discovery from large pharmacogenomics
     datasets.
 
-2:45 - 3:15
-: Break
+2:45 - 3:15 -- Break
+: 
 
-3:15 - 5:00
-: Workshops Session 2
-
-  + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
+3:15 - 5:00 --  Workshops Session 2
+: + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
     resources
   + Love MI. RNA-seq data analysis with DESeq2
 
-4:00 - 5:00
-: Workshops Session 2b
-
-  + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
+4:00 - 5:00 --  Workshops Session 2b
+: + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
     using StatePaintR, FunciVar and MotifBreakR.
   + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
     Rcy3.
 
-5:30 - 7:30
-: Contributed posters
+5:30 - 7:30 -- Contributed posters
+: 
 
 ### Day 2: Friday July 27
 
-8:30 - 9:00
-: [Tim Hughes][6], University of Toronto. Binding motifs
-  for DNA and RNA binding proteins.
+8:30 - 9:00 -- [Tim Hughes][6], University of Toronto.
+: Binding motifs for DNA and RNA binding proteins.
 
-9:00 - 9:30
-: [Benjamin Haibe-Kains][2], Princesss Margaret Cancer
-  Center, Toronto. Cancer Biomarker Discovery: Building a Bridge
-  Between Preclinical and Clinical Research.
+9:00 - 9:30 -- [Benjamin Haibe-Kains][2], Princesss Margaret Cancer
+  Center, Toronto.
+: Cancer Biomarker Discovery: Building a Bridge Between Preclinical
+  and Clinical Research.
 
-9:30 - 10:00
-: Contributed talks
-
-  + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
+9:30 - 10:00 --  Contributed talks
+: + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
     Bioconductor's Ranges infrastructure.
   + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
     propagation for RNA-seq.
 
-10:00 - 10:30
-: Break
+10:00 - 10:30 -- Break
+: 
 
-10:30 - 11:00
-: [Charlotte Soneson][4], University of Zurich, Switzerland. A
-  junction coverage compatibility score to quantify the reliability of
-  transcript abundance estimates and annotation catalogs.
+10:30 - 11:00 -- [Charlotte Soneson][4], University of Zurich, Switzerland. 
+: A junction coverage compatibility score to quantify the reliability
+  of transcript abundance estimates and annotation catalogs.
 
-11:00 - 12:00
-: Contributed talks
-
-  + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W
+11:00 - 12:00 -- Contributed talks
+: + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W
     Law\*. Unpacking signal from RNA-seq intron reads using Rsubread
     and limma packages.
   + Steinbaugh MJ\*, Kirchner RD, Ho Sui S. bcbioSingleCell: R
@@ -170,31 +151,25 @@ See the [Developer Day](schedule-developer-day) schedule.
   + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
     Preprocessing Methods using Ensemble Machine Learning.
 
-12:00 - 1:00
-: Lunch / Birds-of-a-feather
+12:00 - 1:00 -- Lunch / Birds-of-a-feather
+: 
 
-1:00 - 2:45
-: Workshops Session 3
-
-  + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
+1:00 - 2:45 -- Workshops Session 3
+: + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
     challenges using GenomicRanges.
   + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
     Analysis with MultiAssayExperiment.
 
-1:45 - 2:45
-: Workshops Session 3b
-
-  + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
+1:45 - 2:45 -- Workshops Session 3b
+: + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
     Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
     Glimma and edgeR.
 
-2:45 - 3:15
-: Break
+2:45 - 3:15 -- Break
+: 
 
-3:15 - 5:00
-: Workshops Session 4
-
-  + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
+3:15 - 5:00 -- Workshops Session 4
+: + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
     data: Dimensionality reduction, clustering, and lineage
     inference.
   + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
@@ -202,10 +177,8 @@ See the [Developer Day](schedule-developer-day) schedule.
   + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
     Resources and Bioconductor.
 
-4:00 - 5:00
-: Workshops Session 4b
+4:00 - 5:00 -- Workshops Session 4b
+: + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
 
-  + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
-
-5:30 - 7:30
-: Contributed posters
+5:30 - 7:30 -- Contributed posters
+: 
