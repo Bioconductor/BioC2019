@@ -13,7 +13,7 @@ Twitter: [#bioc2018][tweet]
 ## Call for Posters
 
 Use the [Poster Submission Form][] to submit an abstract (up to 300
-words) for a poster up until July 12 for inclusion in the online
+words) for a poster up until July 19 for inclusion in the online
 programme. Include links to software where relevant.
 
 [Poster Submission Form]: https://goo.gl/forms/YwkZt6f9FCHYaMYn1
@@ -51,8 +51,6 @@ There is an [invitation][] to submit F1000Research articles to the
 deadline is June 18, 2018.  See this
 <https://support.bioconductor.org/p/107477/> support site thread for
 more details.
-
-
 
 [invitation]: https://support.bioconductor.org/p/107477
 [Bioconductor gateway]: https://f1000research.com/gateways/bioconductor
