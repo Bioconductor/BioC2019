@@ -55,6 +55,9 @@ Twitter: [#bioc2018][tweet]
 3:00 - 3:30 -- Lightning talks III
 : 
 
+3:30 - 4:30 -- Community activities
+: 
+
 4:30 - 5:00 -- Panel discussion: project directions and opportunities
 : 
 
