@@ -15,10 +15,11 @@ Twitter: [#bioc2018][tweet]
 
 The conference venue is at [Victoria University][uvic] on the downtown
 (St. George) campus of the University of Toronto on the north-east
-edge of Queen's Park. [Map][ut].
+edge of Queen's Park. The specific building is Victoria College,
+indicated on the [map][ut].
 
 [uvic]: http://www.vicu.utoronto.ca/
-[ut]: http://map.utoronto.ca/
+[ut]: http://map.utoronto.ca/utsg/building/501
 
 ## Accommodations
 
