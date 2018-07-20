@@ -13,8 +13,7 @@ Twitter: [#bioc2018][tweet]
 ## Developer Day Schedule (Tentative)
 
 9:00 - 9:40 -- Welcome
-: - Orientation & project updates
-  - Community activity
+: Orientation & project updates
 
 9:40 - 10:00 -- Peter F. Hickey
 : Lessons from switching to on-disk storage using DelayedArray
