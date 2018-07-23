@@ -24,7 +24,7 @@ Clark O\*, Safikhani Z, Smirnov P, and Haibe-Kains B. Gene isoforms as expressio
 
 Daniel Giguere\*, Jean Macklaim, Greg Gloor. omicplotR: A Shiny app for exploring omic datasets as compositions	software. Keywords: RNASeq, Metagenomics, Visualization, GUI.
 
-Diya Das\*, Levi Gadye, Michael A. Sanchez, Kelly Street, Ariane Baudhuin, Allon Wagner, Michael B. Cole, Yoon Gi Choi, Nir Yosef, Elizabeth Purdom, Sandrine Dudoit, Davide Risso, John Ngai and Russell B. Fletcher. Injury Activates Transient Olfactory Stem Cell States With Diverse Lineage Capacities. Keywords: Normalization, Clustering, RNASeq, SingleCell, Software.
+Diya Das\*, Levi Gadye, Michael A. Sanchez, Kelly Street, Ariane Baudhuin, Allon Wagner, Michael B. Cole, Yoon Gi Choi, Nir Yosef, Elizabeth Purdom, Sandrine Dudoit, Davide Risso, John Ngai and Russell B. Fletcher. Unraveling Tissue Regeneration With Single-Cell RNA-Sequencing. Keywords: Normalization, Clustering, RNASeq, SingleCell, Software.
 
 Drnevich J\*, Tseng M\*, Dalling J, Heath K, and Ferrer A. Transcriptome assembly problems found using Bioconductor packages. Keywords: Transcription, RNASeq, Clustering, Visualization.
 
