@@ -16,25 +16,6 @@ Twitter: [#bioc2018][tweet]
 * [Day 1](#day-1-thursday-july-26): Thursday July 26.
 * [Day 2](#day-2-friday-july-27): Friday July 27.
 
-### Confirmed Speakers for July 26-27
-
-* [Michael Hoffman][5], University of Toronto. Virtual ChIP-seq:
-  predicting transcription factor binding by learning from the
-  transcriptome.
-* [Elana Fertig][3], John Hopkins Medicine Division of Biostatistics
-  and Bioinformatics. Enter the Matrix: Interpreting omics through
-  matrix factorization.
-* [Brenda Andrews][1], University of Toronto.  Analysis of high
-  content microscopy data generated through automated yeast genetics.
-* [Tim Hughes][6], University of Toronto. Binding motifs for DNA and
-  RNA binding proteins.
-* [Benjamin Haibe-Kains][2], Princesss Margaret Cancer Center,
-  Toronto. Cancer Biomarker Discovery: Building a Bridge Between
-  Preclinical and Clinical Research.
-* [Charlotte Soneson][4], University of Zurich, Switzerland. A
-  junction coverage compatibility score to quantify the reliability of
-  transcript abundance estimates and annotation catalogs.
-
 [1]: http://sites.utoronto.ca/andrewslab/
 [2]: https://www.pmgenomics.ca/bhklab/
 [3]: https://www.rits.onc.jhmi.edu/DBB/members/?members=Faculty&member=efertig1
@@ -48,27 +29,27 @@ See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
-8:00 - 8:45 -- Registration
+8:00 - 8:45 -- Registration and breakfast, VC Foyer and Alumni Hall
 : 
 
 8:45 - 9:00 -- Welcoming remarks (Martin Morgan)
-: 
+: VC 213 Chapel
 
 9:00 - 9:30 -- [Michael Hoffman][5] University of Toronto.
 : Virtual ChIP-seq: predicting transcription factor binding by
-  learning from the transcriptome.
+  learning from the transcriptome -- VC 213 Chapel
 
 9:30 - 10:00 -- [Elana Fertig][3] John Hopkins University. 
-: Enter the Matrix: Interpreting omics through matrix factorization.
+: Enter the Matrix: Interpreting omics through matrix factorization -- VC 213 Chapel
 
 10:00 - 10:30 -- Break
 : 
 
 10:30 - 11:00 [Brenda Andrews][1] University of Toronto.
 : Analysis of high content microscopy data generated through automated
-  yeast genetics.
+  yeast genetics -- VC 213 Chapel
 
-11:00 - 12:00 -- Contributed talks
+11:00 - 12:00 -- Contributed talks -- VC 213 Chapel
 : + Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster
     Assessment and Interactive Visualisation.
   + Righelli D\*, Koberstein J, Gomes B, Zhang N, Angelini C,
@@ -84,60 +65,63 @@ See the [Developer Day](schedule-developer-day) schedule.
     Schiffer, Marcel Ramos, Ralf Zimmer, and Levi Waldron. Towards a
     gold standard for benchmarking gene set enrichment analysis.
 
-12:00 - 1:00 -- Lunch / Birds-of-a-feather
+12:00 - 1:00 -- Lunch / Birds-of-a-feather -- VC Foyer and Alumni Hall
 : 
 
-1:00 - 2:45 --  Workshop Session 1
-: + Martin Morgan\*. Bioconductor for Everyone.
+1:00 - 2:45 --  Workshop Session 1a
+: + Martin Morgan\*. Bioconductor for Everyone -- VC 212
   + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
-    analysis of high-throughput omics data.
+    analysis of high-throughput omics data -- VC 215
 
 1:45 - 2:45 --  Workshops Session 1b
 : + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
     Haibe-Kains. Biomarker discovery from large pharmacogenomics
-    datasets.
+    datasets -- VC 206
 
 2:45 - 3:15 -- Break
 : 
 
-3:15 - 5:00 --  Workshops Session 2
+3:15 - 5:00 --  Workshops Session 2a
 : + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
-    resources
-  + Love MI. RNA-seq data analysis with DESeq2
+    resources -- VC 206
+  + Love MI. RNA-seq data analysis with DESeq2 -- VC 215
 
 4:00 - 5:00 --  Workshops Session 2b
 : + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
-    using StatePaintR, FunciVar and MotifBreakR.
+    using StatePaintR, FunciVar and MotifBreakR -- VC 211
   + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
-    Rcy3.
+    Rcy3 -- VC 212
 
-5:30 - 7:30 -- Contributed posters
+5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
 
 ### Day 2: Friday July 27
 
+8:00 - 8:30 -- Registration and breakfast, VC Foyer and Alumni Hall
+
 8:30 - 9:00 -- [Tim Hughes][6], University of Toronto.
-: Binding motifs for DNA and RNA binding proteins.
+: Binding motifs for DNA and RNA binding proteins -- VC 213 Chapel
 
 9:00 - 9:30 -- [Benjamin Haibe-Kains][2], Princesss Margaret Cancer
   Center, Toronto.
 : Cancer Biomarker Discovery: Building a Bridge Between Preclinical
-  and Clinical Research.
+  and Clinical Research -- VC 213 Chapel
 
-9:30 - 10:00 --  Contributed talks
+9:30 - 10:00 --  Contributed talks -- VC 213 Chapel
 : + Lee S\*, Cook D, Lawrence M. plyranges: a fluent interface to
-    Bioconductor's Ranges infrastructure.
+    Bioconductor's Ranges infrastructure
   + Love MI\*, Hickey P, Soneson, C, and Patro R. Automatic metadata
-    propagation for RNA-seq.
+    propagation for RNA-seq
+
 
 10:00 - 10:30 -- Break
 : 
 
 10:30 - 11:00 -- [Charlotte Soneson][4], University of Zurich, Switzerland. 
 : A junction coverage compatibility score to quantify the reliability
-  of transcript abundance estimates and annotation catalogs.
+  of transcript abundance estimates and annotation catalogs  -- VC 213 Chapel
 
-11:00 - 12:00 -- Contributed talks
+11:00 - 12:00 -- Contributed talks  -- VC 213 Chapel
 : + Albert Y Zhang, Shian Su, Matthew E Ritchie, and Charity W
     Law\*. Unpacking signal from RNA-seq intron reads using Rsubread
     and limma packages.
@@ -151,19 +135,19 @@ See the [Developer Day](schedule-developer-day) schedule.
   + Rachael V Phillips\*, Alan Hubbard. Data Adaptive Evaluation of
     Preprocessing Methods using Ensemble Machine Learning.
 
-12:00 - 1:00 -- Lunch / Birds-of-a-feather
+12:00 - 1:00 -- Lunch / Birds-of-a-feather -- VC Foyer and Alumni Hall
 : 
 
 1:00 - 2:45 -- Workshops Session 3
 : + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
-    challenges using GenomicRanges.
+    challenges using GenomicRanges -- VC 215
   + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
-    Analysis with MultiAssayExperiment.
+    Analysis with MultiAssayExperiment -- VC 212
 
 1:45 - 2:45 -- Workshops Session 3b
 : + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
     Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
-    Glimma and edgeR.
+    Glimma and edgeR -- VC 206
 
 2:45 - 3:15 -- Break
 : 
@@ -171,14 +155,15 @@ See the [Developer Day](schedule-developer-day) schedule.
 3:15 - 5:00 -- Workshops Session 4
 : + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
     data: Dimensionality reduction, clustering, and lineage
-    inference.
+    inference -- VC 215
   + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
-    with the DECIPHER package.
+    with the DECIPHER package -- VC 212
   + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
-    Resources and Bioconductor.
+    Resources and Bioconductor -- VC 211
 
 4:00 - 5:00 -- Workshops Session 4b
 : + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
+    -- VC 206
 
-5:30 - 7:30 -- Contributed posters
+5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
