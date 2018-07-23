@@ -12,6 +12,8 @@ Twitter: [#bioc2018][tweet]
 
 ## Developer Day Schedule (Tentative)
 
+8:30 - 9:00 -- Registration and breakfast, VC Second floor foyer
+
 9:00 - 9:40 -- Welcome 
 : Orientation & project updates -- VC 213 Chapel 
 
@@ -27,8 +29,8 @@ Twitter: [#bioc2018][tweet]
 : 
 
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
-: - Workshop: Nitesh Turaga, Maintaining your Bioconductor
-    package. [Syllabus & Materials][Turaga_MaintainBioc] -- VC 215
+: - Workshop: Nitesh Turaga,
+    [Maintaining your Bioconductor package][510] -- VC 215
   - BoF: Stephanie Hicks, [Statistical Analysis and Comprehension of
     the Human Cell Atlas in R/Bioconductor][hca] -- VC 212
   - [Submit your proposal](call-for-abstracts).
@@ -43,7 +45,7 @@ Twitter: [#bioc2018][tweet]
 : - BoF: Levi Waldron, [New Data Structures for Bioconductor][structures] -- VC
     215
   - Workshop: Peter Hickey,
-    [Effectively using the DelayedArray framework to support the analysis of large datasets][Hickey_DelayedArray] -- VC 212
+    [Effectively using the DelayedArray framework to support the analysis of large datasets][500] -- VC 212
   - [Submit your proposal](call-for-abstracts).
 
 2:30 - 3:00 -- Break
@@ -61,5 +63,5 @@ Twitter: [#bioc2018][tweet]
 [hca]: https://github.com/Bioconductor/BioC2018/issues/5
 [structures]: https://github.com/Bioconductor/BioC2018/issues/8
 
-[Hickey_DelayedArray]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Hickey_DelayedArray.Rmd
-[Turaga_MaintainBioc]: https://github.com/Bioconductor/BiocWorkshops/blob/master/Turaga_MaintainBioc.Rmd
+[500]: http://bioconductor.github.io/BiocWorkshops/effectively-using-the-delayedarray-framework-to-support-the-analysis-of-large-datasets.html
+[510]: http://bioconductor.github.io/BiocWorkshops/maintaining-your-bioconductor-package.html

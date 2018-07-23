@@ -29,7 +29,7 @@ See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
-8:00 - 8:45 -- Registration and breakfast, VC Foyer and Alumni Hall
+8:00 - 8:45 -- Registration and breakfast, VC Second floor foyer
 : 
 
 8:45 - 9:00 -- Welcoming remarks (Martin Morgan)
@@ -69,35 +69,35 @@ See the [Developer Day](schedule-developer-day) schedule.
 : 
 
 1:00 - 2:45 --  Workshop Session 1a
-: + Martin Morgan\*. Bioconductor for Everyone -- VC 212
-  + Ludwig Geistlinger\* and Levi Waldron. Functional enrichment
-    analysis of high-throughput omics data -- VC 215
+: + Martin Morgan\*. [Bioconductor for Everyone][100] -- VC 212
+  + Ludwig Geistlinger\* and Levi Waldron. [Functional enrichment
+    analysis of high-throughput omics data][210] -- VC 215
 
 1:45 - 2:45 --  Workshops Session 1b
 : + Zhaleh Safikhani\*, Petr Smirnov, Benjamin
-    Haibe-Kains. Biomarker discovery from large pharmacogenomics
-    datasets -- VC 206
+    Haibe-Kains. [Biomarker discovery from large pharmacogenomics
+    datasets][260] -- VC 206
 
 2:45 - 3:15 -- Break
 : 
 
 3:15 - 5:00 --  Workshops Session 2a
-: + MacDonald J, Shepherd L. Introduction to Bioconductor annotation
-    resources -- VC 206
-  + Love MI. RNA-seq data analysis with DESeq2 -- VC 215
+: + MacDonald J, Shepherd L. [Introduction to Bioconductor annotation
+    resources][101] -- VC 206
+  + Love MI. [RNA-seq data analysis with DESeq2][201]] -- VC 215
 
 4:00 - 5:00 --  Workshops Session 2b
 : + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
     using StatePaintR, FunciVar and MotifBreakR -- VC 211
-  + Isserlin R\*,Innes B, Bader GD. Cytoscape Automation in R using
-    Rcy3 -- VC 212
+  + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
+    Rcy3][230] -- VC 212
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
 
 ### Day 2: Friday July 27
 
-8:00 - 8:30 -- Registration and breakfast, VC Foyer and Alumni Hall
+8:00 - 8:30 -- Breakfast, VC Second floor foyer
 
 8:30 - 9:00 -- [Tim Hughes][6], University of Toronto.
 : Binding motifs for DNA and RNA binding proteins -- VC 213 Chapel
@@ -138,32 +138,48 @@ See the [Developer Day](schedule-developer-day) schedule.
 12:00 - 1:00 -- Lunch / Birds-of-a-feather -- VC Foyer and Alumni Hall
 : 
 
-1:00 - 2:45 -- Workshops Session 3
-: + Michael Lawrence\*, Martin Morgan. Solving common bioinformatic
-    challenges using GenomicRanges -- VC 215
-  + Ramos M, Geistlinger L, Waldron L\*. Workflow for Multi-omics
-    Analysis with MultiAssayExperiment -- VC 212
+1:00 - 2:45 -- Workshops Session 3a
+: + Michael Lawrence\*, Martin Morgan. [Solving common bioinformatic
+    challenges using GenomicRanges][102] -- VC 215
+  + Ramos M, Geistlinger L, Waldron L\*. [Workflow for Multi-omics
+    Analysis with MultiAssayExperiment][220] -- VC 212
 
 1:45 - 2:45 -- Workshops Session 3b
 : + Charity Law\* , Monther Alhamdoosh, Shian Su, Gordon Smyth and
-    Matthew Ritchie. RNA-seq analysis is easy as 1-2-3 with limma,
-    Glimma and edgeR -- VC 206
+    Matthew Ritchie. [RNA-seq analysis is easy as 1-2-3 with limma,
+    Glimma and edgeR][200] -- VC 206
 
 2:45 - 3:15 -- Break
 : 
 
-3:15 - 5:00 -- Workshops Session 4
-: + Das D\*, Street K\*, Risso D\*. Analysis of single-cell RNA-seq
+3:15 - 5:00 -- Workshops Session 4a
+: + Das D\*, Street K\*, Risso D\*. [Analysis of single-cell RNA-seq
     data: Dimensionality reduction, clustering, and lineage
-    inference -- VC 215
-  + Nicholas Cooley\*, Erik Wright. Working with Genomic Data in R
-    with the DECIPHER package -- VC 212
-  + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. Public Data
-    Resources and Bioconductor -- VC 211
+    inference][202] -- VC 215
+  + Nicholas Cooley\*, Erik Wright. [Working with Genomic Data in R
+    with the DECIPHER package][250] -- VC 212
+  + Levi Waldron, Benjamin Haibe-Kains, Sean Davis. [Public Data
+    Resources and Bioconductor][103] -- VC 211
 
 4:00 - 5:00 -- Workshops Session 4b
-: + Lee S\*, Lawrence M. Fluent genomic data analysis with plyranges
+: + Lee S\*, Lawrence M. [Fluent genomic data analysis with plyranges][240]
     -- VC 206
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
+
+
+[100]: http://bioconductor.github.io/BiocWorkshops/r-and-bioconductor-for-everyone-an-introduction.html
+[101]: http://bioconductor.github.io/BiocWorkshops/introduction-to-bioconductor-annotation-resources.html
+[102]: http://bioconductor.github.io/BiocWorkshops/solving-common-bioinformatic-challenges-using-genomicranges.html
+[103]: http://bioconductor.github.io/BiocWorkshops/public-data-resources-and-bioconductor.html
+
+[200]: http://bioconductor.github.io/BiocWorkshops/rna-seq-analysis-is-easy-as-1-2-3-with-limma-glimma-and-edger.html
+[201]: http://bioconductor.github.io/BiocWorkshops/rna-seq-data-analysis-with-deseq2.html
+[202]: http://bioconductor.github.io/BiocWorkshops/analysis-of-single-cell-rna-seq-data-dimensionality-reduction-clustering-and-lineage-inference.html
+[210]: http://bioconductor.github.io/BiocWorkshops/functional-enrichment-analysis-of-high-throughput-omics-data.html
+[220]: http://bioconductor.github.io/BiocWorkshops/workflow-for-multi-omics-analysis-with-multiassayexperiment.html
+[230]: http://bioconductor.github.io/BiocWorkshops/cytoscape-automation-in-r-using-rcy3.html
+[240]: http://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html
+[250]: http://bioconductor.github.io/BiocWorkshops/working-with-genomic-data-in-r-with-the-decipher-package.html
+[260]: http://bioconductor.github.io/BiocWorkshops/biomarker-discovery-from-large-pharmacogenomics-datasets.html
