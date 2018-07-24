@@ -12,7 +12,7 @@ Twitter: [#bioc2018][tweet]
 
 ## Developer Day Schedule (Tentative)
 
-8:30 - 9:00 -- Registration and breakfast, VC Second floor foyer
+8:30 - 9:00 -- Registration and breakfast, VC second floor foyer
 
 9:00 - 9:40 -- Welcome 
 : Orientation & project updates -- VC 213 Chapel 

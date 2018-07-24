@@ -52,6 +52,8 @@ Vandana Sandhu\*, Knut Jorgen Labori, Ayelet Borgida, Ilinca Lungu, John Bartlet
 
 Heewon Seo\* and Benjamin Haibe-Kains. Pharmacogenomics of Gemcitabine in  Pancreatic Cancer Cell Lines. Keywords: Pharmacogenomics, Gemcitabine, Pancreatic Cancer, Cell Lines.
 
+Shorser S\*, Reactome Team, Wu G, Hermajob H, D’Eustachio P and Stein L. The Reactome Knowledgebase.
+
 Mer, Arvind Singh\*, Brew Ben Ortmann, Janosch Goldenberg Anna Haibe-Kains Benjamin.  Xeva: an R package for patient derived xenograft data management and analysis. Keywords: Pharmacogenomics, Biomarker, Xenografts, Drug Response.
 
 Smirnov P\*, Kofia V, Zhu K, Safikhani K, Ho C, Pugh T, Haibe-Kains B. Leveraging Preclinical Pharmacogenomics Studies to Inform Precision Medicine Research. Keywords: Pharmacogenomics, Visualization, GeneExpression, Regression, Software.

@@ -29,7 +29,7 @@ See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
-8:00 - 8:45 -- Registration and breakfast, VC Second floor foyer
+8:00 - 8:45 -- Registration and breakfast, VC second floor foyer
 : 
 
 8:45 - 9:00 -- Welcoming remarks (Martin Morgan)
@@ -84,12 +84,10 @@ See the [Developer Day](schedule-developer-day) schedule.
 3:15 - 5:00 --  Workshops Session 2a
 : + MacDonald J, Shepherd L. [Introduction to Bioconductor annotation
     resources][101] -- VC 206
-  + Love MI. [RNA-seq data analysis with DESeq2][201]] -- VC 215
+  + Love MI. [RNA-seq data analysis with DESeq2][201] -- VC 215
 
 4:00 - 5:00 --  Workshops Session 2b
-: + Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
-    using StatePaintR, FunciVar and MotifBreakR -- VC 211
-  + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
+: + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
     Rcy3][230] -- VC 212
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
