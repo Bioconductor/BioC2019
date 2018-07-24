@@ -34,6 +34,8 @@ Chiaowen Joyce Hsiao\*, PoYuan Tung, John Blischak, Jonathan Burnett, Kenneth Ba
 
 Chiaowen Joyce Hsiao\*, PoYuan Tung, John Blischak, Jonathan Burnett, Kenneth Barr, Yoav Gilad and Matthew Stephens. Identification and assessment of cell cycle signatures in single-cell gene expression data. Keywords: SingleCell, RNASeq, Transcriptomics, GeneRegulation, Classification.
 
+Chang Cao, Davide Chicco\*, Michael M. Hoffman. The MCC-F1 curve: a performance evaluation technique for binary classification. Keywords: Matthews Correlation Coefficient, Confusion Matrix, F1 Score, Accuracy, Applied Statistics.
+
 Innes BT\* and Bader GD. scClustViz - Single-cell RNAseq Cluster Assessment and Interactive Visualisation. Keywords: Visualization, SingleCell, Transcriptomics, GUI.
 
 Benjamin K Johnson\*, Asif Zubair, Timothy J Triche Jr. ATACseeker: a toolkit for ATAC- and scATAC-seq analysis. Keywords: ATACSeq, QualityControl, SingleCell, DifferentialPeakCalling, Visualization.
