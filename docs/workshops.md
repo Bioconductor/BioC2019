@@ -197,16 +197,9 @@ channel for up-to-date information.
   and controlling Cytoscape from R to perform a network analysis of
   tumor expression data.
 
-- Coetzee SG and Hazelett DJ. _Variant Functional Annotation using
+- <del>Coetzee SG and Hazelett DJ. _Variant Functional Annotation using
   [StatePaintR][], [FunciVar][] and
-  [MotifBreakR][]_. [Syllabus & Materials][Coetzee_StatePaintR].
-
-  This workshop focuses on _[Bioconductor][]_ based tools for
-  non-coding variant annotation. I will present a high level overview
-  of these concepts and the bioconductor tools our group uses to
-  address them *in silico*. These tools can be used for germline or
-  somatic variants, but as we will see, can also be used for any other
-  feature represented as GRanges objects.
+  [MotifBreakR][]_</del>
 
 - Cooley N and Wright E. _Working with Genomic Data in R with the
   DECIPHER package_. [Syllabus & Materials][Cooley_DECIPHER].

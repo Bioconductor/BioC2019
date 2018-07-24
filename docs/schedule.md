@@ -87,7 +87,9 @@ See the [Developer Day](schedule-developer-day) schedule.
   + Love MI. [RNA-seq data analysis with DESeq2][201] -- VC 215
 
 4:00 - 5:00 --  Workshops Session 2b
-: + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
+: + <del>Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
+    using StatePaintR, FunciVar and MotifBreakR</del>
+  + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
     Rcy3][230] -- VC 212
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
