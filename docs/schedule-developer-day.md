@@ -72,12 +72,23 @@ Logistics:
 1:00 - 1:30 -- Lightning talks II
 : VC 213 Chapel
 
+  - Aedin Culhane\*, Dana Farber Cancer Institute. Update in Bioconductor meet ups.
+  - Lori Shepherd\*, Roswell Park Comprehensive Cancer Center. BiocFileCache
+  - Qian Liu\*, Martin Morgan, Roswell Park Comprehensive Cancer
+    Center. VariantExperiment: A RangedSummarizedExperiment container
+    for VCF/GDS data with GDS back-end.
+  - Nitesh Turaga\*, Bioconductor Core Team. Scalable Computing in
+    Bioconductor: from cores to clusters.
+  - Levi Waldron\*, CUNY. Creating the Bioc2018 workshop book and AMIs.
+  - Daniel Van Twisk\*, RPCI. Organism.dplyr: A dplyr compatible
+    Annotation Resource Interface.
+ 
 1:30 - 2:30 -- Birds-of-a-feather II / Workshops II
 : - BoF: Levi Waldron, [New Data Structures for Bioconductor][structures] -- VC
     206
   - Workshop: Peter Hickey,
     [Effectively using the DelayedArray framework to support the analysis of large datasets][500] -- VC 212
-  - Impromptu -- VC 211
+  - Impromptu: unit tests -- VC 211
 
 2:30 - 3:00 -- Break
 : 
@@ -85,15 +96,28 @@ Logistics:
 3:00 - 3:30 -- Lightning talks III
 : VC 213 Chapel
 
+  - Michael Steinbaugh\*, HSPH. Bioconductor tricks for dealing with
+    genome annotations [slides][3.1].
+  - Charlotte Soneson\*, UZH; Kevin Rue-Albrecht, Uni Oxford; Federico
+    Marini, Uni Mainz; Aaron Lun, CRUK: iSEE: Interactive
+    SummarizedExperiment Explorer
+  - Nathan Sheffield\*, UVA, Managing genomic project metadata
+  - Shian Su\*, WEHI: BiocExplorer
+  - Vincent Carey*, S Gopaulakrishnan, S Pollack, BJ Stubbs, A
+    Culhane. Harvard Medical School/Harvard School of Public
+    Health. Recent cloud-scale innovations in Bioconductor.
+  - Tim Triche, USC: Sesame: a simple way/to analyze a methylation
+    array
+
+[3.1]: https://github.com/steinbaugh/presentations/raw/master/2018-07-25/bioc2018.pdf
+
 3:30 - 4:30 -- Community activities
 : VC 213 Chapel
 
-<!--
-  + Posing and answering support site questions
-  + Pull requests, e.g., to fix warnings in a core package
-  + Profile performance of a commonly used function
-  + Explore unit tests and coverage statistics
--->
+  + Tracking down a bug: rownames and `SummarizedExperiment`
+  + Toward a better support site
+  + Designing PharmaGX data representations
+  + Collaborative opportunities: Biocverse package discovery
 
 4:30 - 5:00 -- Panel discussion: project directions and opportunities
 : VC 213 Chapel

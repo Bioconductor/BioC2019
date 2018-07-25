@@ -29,6 +29,14 @@ See the [Developer Day](schedule-developer-day) schedule.
    
 ### Day 1: Thursday July 26
 
+Logistics:
+
+- Start your [course AMI][]
+- Join the [bioc-community slack][]
+
+[course AMI]: https://courses.bioconductor.org
+[bioc-community slack]: https://bioc-community.herokuapp.com/
+
 8:00 - 8:45 -- Registration and breakfast, VC second floor foyer
 : 
 
