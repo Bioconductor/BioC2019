@@ -37,6 +37,19 @@ Logistics:
 : Lightning talk platforms will be available to all
   Developer Day attendees -- VC 213 Chapel
 
+  - Qian Liu\*, Hervé Pagès, Martin Morgan, Roswell Park Comprehensive
+    Cancer Center. DelayedDataFrame: an on-disk data representation in
+    DataFrame metaphor.
+  - Aedin Culhane\*, Dana Farber Cancer Institute. TCGA immune
+    subtypes.
+  - Wolfgang Huber\*, Susan Holmes, EMBL. Short preview of our new
+    book "Modern Statistics for Modern Biology".
+  - Lori Shepherd\*, Roswell Park Comprehensive Cancer
+    Center. Submitting packages to Bioconductor
+  - Martin Morgan\*, Roswell Park Comprehensive Cancer Center. Ad hoc
+    workshops -- alternative activities during workshop / BoF
+    sessions.
+
 10:30 - 11:00 -- Break
 : 
 
@@ -45,7 +58,7 @@ Logistics:
     the Human Cell Atlas in R/Bioconductor][hca] -- VC 206
   - Workshop: Nitesh Turaga,
     [Maintaining your Bioconductor package][510] -- VC 212
-  - Impromptu -- VC 211
+  - Impromptu: tidyverse and _Bioconductor_ -- VC 211
 
 <!--
   - A first package
