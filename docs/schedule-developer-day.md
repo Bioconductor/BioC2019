@@ -12,6 +12,18 @@ Twitter: [#bioc2018][tweet]
 
 ## Developer Day Schedule (Tentative)
 
+Logistics:
+
+- Lightning talks -- [sign up][]! Include authors, affiliation, title.
+- Start your [course AMI][]
+- Join the [bioc-community slack][]
+- Provide interactive feedback on [sli.do][] `#bioc2018`
+
+[sign up]: mailto:stvjc@channing.harvard.edu?subject=lightning talk
+[course AMI]: https://courses.bioconductor.org
+[bioc-community slack]: https://bioc-community.herokuapp.com/
+[sli.do]: https://sli.do
+
 8:30 - 9:00 -- Registration and breakfast, VC second floor foyer
 
 9:00 - 9:40 -- Welcome 
