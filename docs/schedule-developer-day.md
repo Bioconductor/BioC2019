@@ -15,7 +15,7 @@ Twitter: [#bioc2018][tweet]
 8:30 - 9:00 -- Registration and breakfast, VC second floor foyer
 
 9:00 - 9:40 -- Welcome 
-: Orientation & project updates -- VC 213 Chapel 
+: Orientation & project updates -- [slides][1] -- VC 213 Chapel
 
 9:40 - 10:00 -- Peter F. Hickey
 : Lessons from switching to on-disk storage using DelayedArray
@@ -33,7 +33,6 @@ Twitter: [#bioc2018][tweet]
     [Maintaining your Bioconductor package][510] -- VC 215
   - BoF: Stephanie Hicks, [Statistical Analysis and Comprehension of
     the Human Cell Atlas in R/Bioconductor][hca] -- VC 212
-  - [Submit your proposal](call-for-abstracts).
 
 12:00 - 1:00 -- Lunch -- VC Foyer & Alumni Hall
 : 
@@ -46,7 +45,6 @@ Twitter: [#bioc2018][tweet]
     215
   - Workshop: Peter Hickey,
     [Effectively using the DelayedArray framework to support the analysis of large datasets][500] -- VC 212
-  - [Submit your proposal](call-for-abstracts).
 
 2:30 - 3:00 -- Break
 : 
@@ -63,5 +61,6 @@ Twitter: [#bioc2018][tweet]
 [hca]: https://github.com/Bioconductor/BioC2018/issues/5
 [structures]: https://github.com/Bioconductor/BioC2018/issues/8
 
+[1]: https://docs.google.com/presentation/d/1QamlkH7H6B9hY8iCtDBA1qr7qSPXKc_y5ze2dH67C5s/edit?usp=sharing
 [500]: http://bioconductor.github.io/BiocWorkshops/effectively-using-the-delayedarray-framework-to-support-the-analysis-of-large-datasets.html
 [510]: http://bioconductor.github.io/BiocWorkshops/maintaining-your-bioconductor-package.html
