@@ -31,7 +31,7 @@ Logistics:
 
 9:40 - 10:00 -- Peter F. Hickey
 : Lessons from switching to on-disk storage using DelayedArray
-  containers  -- VC 213 Chapel 
+  containers  -- VC 213 Chapel
 
 10:00 - 10:30 -- Lightning talks I
 : Lightning talk platforms will be available to all
@@ -41,10 +41,16 @@ Logistics:
 : 
 
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
-: - Workshop: Nitesh Turaga,
-    [Maintaining your Bioconductor package][510] -- VC 215
-  - BoF: Stephanie Hicks, [Statistical Analysis and Comprehension of
-    the Human Cell Atlas in R/Bioconductor][hca] -- VC 212
+: - BoF: Stephanie Hicks, [Statistical Analysis and Comprehension of
+    the Human Cell Atlas in R/Bioconductor][hca] -- VC 206
+  - Workshop: Nitesh Turaga,
+    [Maintaining your Bioconductor package][510] -- VC 212
+
+<!--
+  - A first package
+  - The package review process -- common sins
+  - Emerging methods in...
+-->
 
 12:00 - 1:00 -- Lunch -- VC Foyer & Alumni Hall
 : 
@@ -54,7 +60,7 @@ Logistics:
 
 1:30 - 2:30 -- Birds-of-a-feather II / Workshops II
 : - BoF: Levi Waldron, [New Data Structures for Bioconductor][structures] -- VC
-    215
+    206
   - Workshop: Peter Hickey,
     [Effectively using the DelayedArray framework to support the analysis of large datasets][500] -- VC 212
 
@@ -65,7 +71,14 @@ Logistics:
 : VC 213 Chapel
 
 3:30 - 4:30 -- Community activities
-:  VC 213 Chapel 
+: VC 213 Chapel
+
+<!--
+  + Posing and answering support site questions
+  + Pull requests, e.g., to fix warnings in a core package
+  + Profile performance of a commonly used function
+  + Explore unit tests and coverage statistics
+-->
 
 4:30 - 5:00 -- Panel discussion: project directions and opportunities
 : VC 213 Chapel
