@@ -45,6 +45,7 @@ Logistics:
     the Human Cell Atlas in R/Bioconductor][hca] -- VC 206
   - Workshop: Nitesh Turaga,
     [Maintaining your Bioconductor package][510] -- VC 212
+  - Impromptu -- VC 211
 
 <!--
   - A first package
@@ -63,6 +64,7 @@ Logistics:
     206
   - Workshop: Peter Hickey,
     [Effectively using the DelayedArray framework to support the analysis of large datasets][500] -- VC 212
+  - Impromptu -- VC 211
 
 2:30 - 3:00 -- Break
 : 
