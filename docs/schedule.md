@@ -75,6 +75,7 @@ Logistics:
 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather -- VC Foyer and Alumni Hall
 : 
+  + Organizing and coordinating R / Bioconductor meetups -- VC 211
 
 1:00 - 2:45 --  Workshop Session 1a
 : + Martin Morgan\*. [Bioconductor for Everyone][100] -- VC 212

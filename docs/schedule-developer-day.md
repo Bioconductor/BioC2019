@@ -97,7 +97,7 @@ Logistics:
 : VC 213 Chapel
 
   - Michael Steinbaugh\*, HSPH. Bioconductor tricks for dealing with
-    genome annotations [slides][3.1].
+    genome annotations. [slides][3.1]
   - Charlotte Soneson\*, UZH; Kevin Rue-Albrecht, Uni Oxford; Federico
     Marini, Uni Mainz; Aaron Lun, CRUK: iSEE: Interactive
     SummarizedExperiment Explorer
@@ -115,9 +115,13 @@ Logistics:
 : VC 213 Chapel
 
   + Tracking down a bug: rownames and `SummarizedExperiment`
-  + Toward a better support site
-  + Designing PharmaGX data representations
-  + Collaborative opportunities: Biocverse package discovery
+  + Toward a better support site. [notes][4.2]
+  + Designing PharmaGX data representations. [demo code][4.3]
+  + Collaborative opportunities: Biocverse package discovery. [slides][4.4]
+
+[4.2]: https://docs.google.com/document/d/1TPKn5sdBLrSuMEiXtdAyGipd7p2XNXghbHGYzmH_Xpk/edit?usp=sharing
+[4.3]: https://github.com/bhklab/longArray
+[4.4]: https://docs.google.com/presentation/d/1_SkOfeLT7j7wdQCwxfwmuChjuB7wtW-2evrbYKMWnIg/edit#slide=id.p
 
 4:30 - 5:00 -- Panel discussion: project directions and opportunities
 : VC 213 Chapel
