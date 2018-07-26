@@ -98,13 +98,17 @@ Logistics:
 4:00 - 5:00 --  Workshops Session 2b
 : + <del>Coetzee SG\* and Hazelett DJ. Variant Functional Annotation
     using StatePaintR, FunciVar and MotifBreakR</del>
-  + Isserlin R\*,Innes B, Bader GD. [Cytoscape Automation in R using
-    Rcy3][230] -- VC 212
+  + Isserlin R\*, Innes B, Bader
+    GD. [Cytoscape Automation in R using Rcy3][230] -- **SET UP** your
+    laptop for this workshop by arriving at 3:30. For the workshop
+    [download and install cytoscape 3.6.1][cyto] and [workshop files][cytowork] -- VC 212
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
 
 [1.0]: https://docs.google.com/presentation/d/1W0tzadEgIKSq6J5Bcq7iBgcEIgRlSlbdtMRpDaRQ9m8/edit?usp=sharing
+[cyto]: http://cytoscape.org/download.php
+[cytowork]: http://download.baderlab.org/Bioc2018/
 
 ### Day 2: Friday July 27
 
