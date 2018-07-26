@@ -31,7 +31,7 @@ Logistics:
 
 9:40 - 10:00 -- Peter F. Hickey
 : Lessons from switching to on-disk storage using DelayedArray
-  containers  -- VC 213 Chapel
+  containers  -- [slides][2] -- VC 213 Chapel
 
 10:00 - 10:30 -- Lightning talks I
 : Lightning talk platforms will be available to all
@@ -114,11 +114,12 @@ Logistics:
 3:30 - 4:30 -- Community activities
 : VC 213 Chapel
 
-  + Tracking down a bug: rownames and `SummarizedExperiment`
+  + Tracking down a bug: rownames and `SummarizedExperiment`. [issue][4.1]
   + Toward a better support site. [notes][4.2]
   + Designing PharmaGX data representations. [demo code][4.3]
   + Collaborative opportunities: Biocverse package discovery. [slides][4.4]
 
+[4.1]: https://github.com/Bioconductor/SummarizedExperiment/issues/13
 [4.2]: https://docs.google.com/document/d/1TPKn5sdBLrSuMEiXtdAyGipd7p2XNXghbHGYzmH_Xpk/edit?usp=sharing
 [4.3]: https://github.com/bhklab/longArray
 [4.4]: https://docs.google.com/presentation/d/1_SkOfeLT7j7wdQCwxfwmuChjuB7wtW-2evrbYKMWnIg/edit#slide=id.p
@@ -130,5 +131,6 @@ Logistics:
 [structures]: https://github.com/Bioconductor/BioC2018/issues/8
 
 [1]: https://docs.google.com/presentation/d/1QamlkH7H6B9hY8iCtDBA1qr7qSPXKc_y5ze2dH67C5s/edit?usp=sharing
+[2]: https://docs.google.com/presentation/d/1MsmcvCZz_k-0Xw0GEai0x61_-D1YzefnBB84zT3hnpQ/edit?usp=sharing
 [500]: http://bioconductor.github.io/BiocWorkshops/effectively-using-the-delayedarray-framework-to-support-the-analysis-of-large-datasets.html
 [510]: http://bioconductor.github.io/BiocWorkshops/maintaining-your-bioconductor-package.html
