@@ -40,7 +40,7 @@ Logistics:
 8:00 - 8:45 -- Registration and breakfast, VC second floor foyer
 : 
 
-8:45 - 9:00 -- Welcoming remarks (Martin Morgan)
+8:45 - 9:00 -- Welcoming remarks -- [slides][1.0] (Martin Morgan)
 : VC 213 Chapel
 
 9:00 - 9:30 -- [Michael Hoffman][5] University of Toronto.
@@ -103,6 +103,8 @@ Logistics:
 
 5:30 - 7:30 -- Contributed posters -- VC Foyer and Alumni Hall
 : 
+
+[1.0]: https://docs.google.com/presentation/d/1W0tzadEgIKSq6J5Bcq7iBgcEIgRlSlbdtMRpDaRQ9m8/edit?usp=sharing
 
 ### Day 2: Friday July 27
 
