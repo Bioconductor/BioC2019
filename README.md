@@ -14,11 +14,17 @@ Please follow best practices by previewing changes locally.
 
         cd BioC2018/docs
 
-3. Install ruby pre-requisites.
+3. Install or update bundler to install the ruby pre-requisities.
 
-        bundle install     # once only; references Gemfile
+        gem install --user-install bundler
+        # If the installer complains, add the suggested $PATH_TO_RUBY/bin
+        # directory to your ~/.bash_profile or ~/.bashrc or similar.
+
+4. Install ruby pre-requisites.
+
+        bundle install --path vendor/bundle     # once only; references Gemfile
         
-4. Execute the jekyll server
+5. Execute the jekyll server
 
         bundle exec jekyll serve
         
