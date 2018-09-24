@@ -12,7 +12,7 @@ Please follow best practices by previewing changes locally.
 
 2. Clone the repository and switch to the `docs/` directory
 
-        cd BioC2018/docs
+        cd BioC2019/docs
 
 3. Install or update bundler to install the ruby pre-requisities.
 

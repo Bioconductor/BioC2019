@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# BioC 2018: Where Software and Biology Connect
+# BioC 2019: Where Software and Biology Connect
 
 When: July 25 (Developer Day) 26 and 27, 2018 <br />
 Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
-Twitter: [#bioc2018][tweet]
+Twitter: [#bioc2019][tweet]
 
-[tweet]: https://twitter.com/hashtag/bioc2018?f=tweets
+[tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
 
 ## Developer Day Schedule (Tentative)
@@ -17,7 +17,7 @@ Logistics:
 - Lightning talks -- [sign up][]! Include authors, affiliation, title.
 - Start your [course AMI][]
 - Join the [bioc-community slack][]
-- Provide interactive feedback on [sli.do][] `#bioc2018`
+- Provide interactive feedback on [sli.do][] `#bioc2019`
 
 [sign up]: mailto:stvjc@channing.harvard.edu?subject=lightning talk
 [course AMI]: https://courses.bioconductor.org
@@ -79,7 +79,7 @@ Logistics:
     for VCF/GDS data with GDS back-end.
   - Nitesh Turaga\*, Bioconductor Core Team. Scalable Computing in
     Bioconductor: from cores to clusters.
-  - Levi Waldron\*, CUNY. Creating the Bioc2018 workshop book and AMIs.
+  - Levi Waldron\*, CUNY. Creating the Bioc2019 workshop book and AMIs.
   - Daniel Van Twisk\*, RPCI. Organism.dplyr: A dplyr compatible
     Annotation Resource Interface.
  

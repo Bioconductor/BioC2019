@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# BioC 2018: Where Software and Biology Connect
+# BioC 2019: Where Software and Biology Connect
 
 When: July 25 (Developer Day), 26, and 27, 2018 <br />
 Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
-Twitter: [#bioc2018][tweet]
+Twitter: [#bioc2019][tweet]
 
-[tweet]: https://twitter.com/hashtag/bioc2018?f=tweets
+[tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
 
 ## Call for Posters
@@ -47,7 +47,7 @@ meeting.
 ## Call for F1000Research articles 
 
 There is an [invitation][] to submit F1000Research articles to the
-[Bioconductor gateway][] which will be associated with Bioc2018. The
+[Bioconductor gateway][] which will be associated with Bioc2019. The
 deadline is June 18, 2018.  See this
 <https://support.bioconductor.org/p/107477/> support site thread for
 more details.
@@ -64,7 +64,7 @@ conference committee.
 
 The call for workshops is closed.  Workshop proposals will be
 peer-reviewed by the conference committee. Join the _Bioconductor_
-[Community Slack][] and `#bioc2018-workshops` channel for up-to-date
+[Community Slack][] and `#bioc2019-workshops` channel for up-to-date
 information.
 
 [Community Slack]: https://bioc-community.herokuapp.com/

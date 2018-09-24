@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-# BioC 2018: Where Software and Biology Connect
+# BioC 2019: Where Software and Biology Connect
 
 When: July 25 (Developer Day) 26 and 27, 2018 <br />
 Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
-Twitter: [#bioc2018][tweet]
+Twitter: [#bioc2019][tweet]
 
-[tweet]: https://twitter.com/hashtag/bioc2018?f=tweets
+[tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
 
 ## Workshops
 
-Join the _[Bioconductor][]_ Community Slack and #bioc2018-workshops
+Join the _[Bioconductor][]_ Community Slack and #bioc2019-workshops
 channel for up-to-date information.
 
 - [Main Conference](#main-conference)

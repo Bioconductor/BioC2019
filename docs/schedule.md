@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# BioC 2018: Where Software and Biology Connect
+# BioC 2019: Where Software and Biology Connect
 
 When: July 25 (Developer Day) 26 and 27, 2018 <br />
 Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
-Twitter: [#bioc2018][tweet]
+Twitter: [#bioc2019][tweet]
 
-[tweet]: https://twitter.com/hashtag/bioc2018?f=tweets
+[tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
 
 ## Schedule
@@ -108,7 +108,7 @@ Logistics:
 
 [1.0]: https://docs.google.com/presentation/d/1W0tzadEgIKSq6J5Bcq7iBgcEIgRlSlbdtMRpDaRQ9m8/edit?usp=sharing
 [cyto]: http://cytoscape.org/download.php
-[cytowork]: http://download.baderlab.org/Bioc2018/
+[cytowork]: http://download.baderlab.org/Bioc2019/
 
 ### Day 2: Friday July 27
 
