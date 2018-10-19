@@ -4,48 +4,47 @@ layout: default
 
 # Code of Conduct
 
-## Short Version
+This code of conduct is developed for the Bioc2019 conference. 
 
-_Bioconductor_ is dedicated to a harassment-free conference experience for everyone. 
-Our anti-harassment policy can be found at: 
-http://bioc2019.bioconductor.org/code_of_conduct
+## Social media policy
 
-Reach out to workshop organizers at ([workshop@biocondutor.org][0]), make an anonymous report at tinyurl.com/bioccomplaint, or speak personally
-to a member of the on-site anti-harassment committee (Aedin Culhane, Levi Waldron, Laurent Gatto).
+Images and content from talks, workshops, and posters may be shared publicly through social media _unless_ the presenter asks for it not to be. To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.
 
-## Medium Version
+## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
 
-_Bioconductor_ is dedicated to providing a harassment-free conference experience for everyone, 
-regardless of gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age or religion. We do not tolerate harassment of 
-conference participants in any form in talks, workshops, poster sessions, social activities, 
+_Bioconductor_ is dedicated to providing a supportive, collegial, and harassment-free 
+conference experience for everyone, regardless of:
+* gender, gender identity and expression, sexual orientation, disability, 
+physical appearance, body size, race, age or religion. 
+* intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
+
+We do not tolerate harassment, intimidation, or bullying of conference participants in talks, 
+workshops, poster sessions, social activities, 
 or online. Sexual language and imagery is not appropriate for any conference venue, including talks. 
-Conference participants violating these rules may be sanctioned or expelled from the conference with no refund.
+Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
 at the discretion of the conference organizers. Our anti-harassment policy can be found at: http://bioc2019.bioconductor.org/code_of_conduct
 
-Reach out to workshop organizers at ([workshop@biocondutor.org][0]), make an anonymous report at tinyurl.com/bioccomplaint, or speak personally
-to a member of the on-site anti-harassment committee (Aedin Culhane, Levi Waldron, Laurent Gatto).
-
-## Long Version
-
-_Bioconductor_ is dedicated to providing a harassment-free conference experience for everyone, 
-regardless of gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age or religion. We do not tolerate harassment of 
-conference participants in any form in talks, workshops, poster sessions, social activities, 
-or online. Sexual language and imagery is not appropriate for any conference venue, including talks. 
-Conference participants violating these rules may be sanctioned or expelled from the conference 
-at the discretion of the conference organizers. 
+## Examples of unacceptable harassment, intimidation, and bullying behavior
 
 Harassment includes, but is not limited to:
 
-* Verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, [your specific concern here].
+* Making comments, to an audience or personally, that belittle or demean another person
 * Sexual images in public spaces
-* Deliberate intimidation, stalking, or following 
+* Stalking or following
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Inappropriate physical contact
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behaviour 
+
+Intimidation and bullying include, but are not limited to:
+
+* Aggressive or browbeating behavior directed at someone during a public presentation
+* Mocking or insulting another person's intellect, work, perspective, or question/comment
+* Making reference to someone's gender, gender identity and expression, sexual orientation, disability, 
+physical appearance, body size, race, age, religion, or other personal attribute in the context of a scientific 
+discussion
+* Deliberately making someone feel unwelcome
 
 ### Enforcement
 
