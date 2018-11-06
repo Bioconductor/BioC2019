@@ -23,7 +23,7 @@ Slack: [Bioconductor Team][] `#bioc2019` channel
 
 ## Call for posters and short contributed talks
 
-_BioC 2018_ invites abstracts on research to be presented as a poster
+_BioC 2019_ invites abstracts on research to be presented as a poster
 or short oral presentations (10 minutes including questions) to the
 full conference. Please submit an abstract of up to 300 words, which
 will be peer-reviewed by the conference committee for selection in the
@@ -35,7 +35,7 @@ you are interested in giving a talk, poster, or both.
 
 ## Call for workshops
 
-_BioC 2018_ invites submissions of contributed workshops in short
+_BioC 2019_ invites submissions of contributed workshops in short
 (50-minute) and long (1h 45m) formats for parallel afternoon workshop
 sessions. Short workshops may teach a single package or technique;
 long workshops should teach more complex workflows involving a range
@@ -43,8 +43,8 @@ of methods.  Please use the [Workshop Submission Form][] and
 [Workshop Template][]. Workshop proposals will be peer-reviewed by the
 conference committee for selection in the programme.
 
-[Workshop Template]: https://github.com/Bioconductor/BioC2019/blob/master/resources/workshop-syllabus.md
-[Workshop Submission Form]: https://goo.gl/forms/rk9s5OdKiUXC6o6V2
+[Workshop Template]: https://github.com/Bioconductor/BioC2019/blob/master/docs/workshop-syllabus.md
+[Workshop Submission Form]: https://goo.gl/forms/TZkE2XleUsGfCjr02
 
 ## Call for travel scholarship applications
 
