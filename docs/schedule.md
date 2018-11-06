@@ -3,8 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: July 25 (Developer Day) 26 and 27, 2018 <br />
-Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
+When: June 24 (Developer Day), 25, and 26, 2019 <br />
+Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Twitter: [#bioc2019][tweet]
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
@@ -12,9 +12,9 @@ Twitter: [#bioc2019][tweet]
 
 ## Schedule
 
-* [Developer Day](schedule-developer-day): Wednesday, July 25.
-* [Day 1](#day-1-thursday-july-26): Thursday July 26.
-* [Day 2](#day-2-friday-july-27): Friday July 27.
+* [Developer Day](schedule-developer-day): Monday, June 24.
+* [Day 1](#day-1-tuesday-june-25): Tuesday June 25.
+* [Day 2](#day-2-wednesday-june-26): Wednesday June 26.
 
 [1]: http://sites.utoronto.ca/andrewslab/
 [2]: https://www.pmgenomics.ca/bhklab/
@@ -23,11 +23,11 @@ Twitter: [#bioc2019][tweet]
 [5]: https://hoffmanlab.org/
 [6]: http://hugheslab.med.utoronto.ca/
 
-### Developer Day: Wednesday July 25
+### Developer Day: Monday June 24
 
 See the [Developer Day](schedule-developer-day) schedule.
    
-### Day 1: Thursday July 26
+### Day 1: Tuesday June 25
 
 Logistics:
 
@@ -110,7 +110,7 @@ Logistics:
 [cyto]: http://cytoscape.org/download.php
 [cytowork]: http://download.baderlab.org/Bioc2019/
 
-### Day 2: Friday July 27
+### Day 2: Wednesday June 26
 
 8:00 - 8:30 -- Breakfast, VC Second floor foyer
 

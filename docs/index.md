@@ -3,8 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: July 25 (Developer Day), 26, and 27, 2018 <br />
-Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
+When: June 24 (Developer Day), 25, and 26, 2019 <br />
+Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Twitter: [#bioc2019][tweet]
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
@@ -14,15 +14,15 @@ This conference highlights current developments within and beyond
 _Bioconductor_. Morning scientific talks and afternoon workshops
 provide conference participants with insights and tools required for
 the analysis and comprehension of high-throughput genomic
-data. 'Developer Day' precedes the main conference on July 25,
+data. 'Developer Day' precedes the main conference on June 24,
 providing developers and would-be developers an opportunity to gain
 insights into project direction and software development best
 practices.
 
-The conference venue is at [Victoria University][uvic] on the downtown
-(St. George) campus of the University of Toronto on the north-east
-edge of Queen's Park. The specific building is Victoria College,
-indicated on the [map][ut].
+The conference venue is at Rockefeller University at intersection of
+York Avenue and East 68th Street. The specific buildings is Caspary
+auditorium, indicated on the
+[map](http://www2.rockefeller.edu/campusmap/).
 
 More information: [workshop@bioconductor.org][contact]
 

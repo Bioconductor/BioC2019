@@ -3,8 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: July 25 (Developer Day), 26, and 27, 2018 <br />
-Where: [Victoria University][venue], University of Toronto, Toronto, Canada<br />
+When: June 24 (Developer Day), 25, and 26, 2019 <br />
+Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Twitter: [#bioc2019][tweet]
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
@@ -32,14 +32,14 @@ indicated on the [map][ut].
 
 ## Fees
 
-Developer Day (July 25)
+Developer Day (June 24)
 
 - Included with main conference registration.
 
-Main Conference (July 26, 27)
+Main Conference (June 25, 26)
 
-- Before July 10: Academic and not-for-profit: $300. Commercial: $400.
-- After July 10: Academic and not-for-profit: $600. Commercial: $800.
+- Before May 24: Academic and not-for-profit: $300. Commercial: $400.
+- After May 24: Academic and not-for-profit: $600. Commercial: $800.
 
 ## Register now!
 
