@@ -26,6 +26,8 @@ indicated on the [map][ut].
 
 More information: [workshop@bioconductor.org][contact]
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=bioc2019&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #bioc2019</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [ut]: http://map.utoronto.ca/utsg/building/501
 [uvic]: http://www.vicu.utoronto.ca/
 [contact]: mailto:workshop@bioconductor.org?subject=BioC2019%20question
