@@ -13,12 +13,10 @@ Twitter: [#bioc2019][tweet]
 
 ## Venue
 
-## Accommodations
+The conference will take place in two venues:
+- Developer Day (June 24) at NYU Langone School of Medicine (2nd Avenue and East 30th Street)
+- Main Conference and Robert Gentleman Symposium (June 25-27) at Rockefeller University 
+(York Avenue and East 66th Street, [map](http://www2.rockefeller.edu/campusmap/)).
 
-## Local transportation
+Hotel and transportation details to come.
 
-## Arriving by air
-
-## Driving and parking
-
-## Arriving by train

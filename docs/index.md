@@ -19,10 +19,10 @@ providing developers and would-be developers an opportunity to gain
 insights into project direction and software development best
 practices.
 
-The conference venue is at Rockefeller University at intersection of
-York Avenue and East 68th Street. The specific buildings is Caspary
-auditorium, indicated on the
-[map](http://www2.rockefeller.edu/campusmap/).
+The conference will take place in two venues:
+- Developer Day (June 24) at NYU Langone School of Medicine ([1st Avenue and East 30th Street](https://goo.gl/maps/WbtSVCpnrR92))
+- Main Conference and Robert Gentleman Symposium (June 25-27) at Rockefeller University 
+([York Avenue and East 66th Street](https://goo.gl/maps/JkRcufXyhrq)).
 
 More information: [workshop@bioconductor.org][contact]
 
