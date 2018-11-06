@@ -4,7 +4,7 @@ layout: default
 
 # BioC 2019: Where Software and Biology Connect
 
-When: June 24 (Developer Day), 25, and 26, 2019 <br />
+When: June 24 (Developer Day), 25, 26 and 27 (Symposium), 2019 <br />
 Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Twitter: [#bioc2019][tweet]
 
@@ -28,7 +28,7 @@ Conference organizers and invited speakers will be staying at the
 Victoria College.
 
 Here is a [list of hotels from booking.com][hotels] that are available
-June 23-27, sorted by distance from Victoria College.
+June 23-28, sorted by distance from Victoria College.
 
 [chelsea]: http://www.chelseatoronto.com/en/
 [hotels]: https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggJCAlhYSDNYBHIFdXNfbnmIAQGYATG4AQfIAQzYAQHoAQH4AQKSAgF5qAID&sid=0b1cb2185b9c5f9a23cf24f780ea5920&checkin_month=7&checkin_monthday=24&checkin_year=2018&checkout_month=7&checkout_monthday=27&checkout_year=2018&class_interval=1&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&place_id=ChIJWWeUhro0K4gRPfZbL-0v2EM&place_id_lat=43.6669317&place_id_lon=-79.39196349999997&postcard=0&room1=A%2CA&sb_price_type=total&src=searchresults&ss=Victoria%20College%2C%20Toronto%2C%20ON%2C%20Canada&ss_all=0&ssb=empty&sshis=0&ssne=Victoria%20College%2C%20Toronto%2C%20ON%2C%20Canada&ssne_untouched=Victoria%20College%2C%20Toronto%2C%20ON%2C%20Canada&=&=&nflt=oos%3D1%3B&rsf=oos-1&lsf=oos%7C1%7C-1
