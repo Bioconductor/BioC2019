@@ -41,3 +41,4 @@ Twitter: [#bioc2019][tweet]<br />
 * Levi Waldron
     - Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York 
 * Lorena Pantano
+* Wolfgang Huber
