@@ -3,7 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: June 24 (Developer Day), 25, 26 and 27 (Symposium), 2019 <br />
+When: June 24 - 28, 2019<br />
+What: Developer Day, Main Conference, Symposium<br />
 Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Slack: [Bioconductor Team][] (`#bioc2019` channel)<br />
 Twitter: [#bioc2019][tweet]<br />
@@ -14,12 +15,12 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Key Dates
 
-| Date | What |
+| Date     | What |
 | -------- | -------------------------------------- |
-| March 15 | deadline for proposals for talks, workshops, early posters, and travel scholarships |
-| March 30 | notification of decision |
-| June 10  | deadline for late posters and for Birds of a Feather meetings |
-| June 12  | notification of decision for late posters |
+| March 15 | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
+| March 30 | Notification of decision |
+| June 10  | Deadline for late posters and for Birds of a Feather meetings |
+| June 12  | Notification of decision for late posters |
 
 ## Call for posters and short contributed talks
 

@@ -2,6 +2,16 @@
 layout: default
 ---
 
+When: June 24 - 28, 2019<br />
+What: Developer Day, Main Conference, Symposium<br />
+Where: [NYU and Rockefeller][venue], New York City, USA<br />
+Slack: [Bioconductor Team][] (`#bioc2019` channel)<br />
+Twitter: [#bioc2019][tweet]<br />
+
+[tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
+[venue]: ./travel-accommodations
+[Bioconductor Team]: https://bioc-community.herokuapp.com/
+
 # Code of Conduct
 
 This code of conduct is developed for the Bioc2019 conference. 
@@ -98,5 +108,5 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 [3]: images/Levi.png
 [4]: mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct
-[5]: http://proteome.sysbiol.cam.ac.uk/lgatto/files/lgatto3.jpg
+[5]: images/Laurent.jpg
 [6]: mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct
