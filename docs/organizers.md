@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # BioC 2019: Where Software and Biology Connect
 
 When: June 24 - 28, 2019<br />

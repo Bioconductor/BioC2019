@@ -6,10 +6,12 @@ layout: default
 When: June 24 - 28, 2019<br />
 What: Developer Day, Main Conference, Symposium<br />
 Where: [NYU and Rockefeller][venue], New York City, USA<br />
-Twitter: [#bioc2019][tweet]
+Slack: [Bioconductor Team][] (`#bioc2019` channel)<br />
+Twitter: [#bioc2019][tweet]<br />
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
+[Bioconductor Team]: https://bioc-community.herokuapp.com/
 
 ## Scholarships
 
