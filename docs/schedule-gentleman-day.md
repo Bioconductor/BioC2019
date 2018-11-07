@@ -23,5 +23,10 @@ Robert Gentleman is the VP Computational Biology at 23andMe, and was one of the 
 : other founders of R and Bioconductor
 : colleagues of Robert Gentleman
 
+2:45 - 3:30 -- Founders of R and Bioconductor panel discussion
+: 
+
 4:00 - 5:00 -- Keynote talk by Robert Gentleman
 : 
+
+5:00 - 7:00 reception with drinks and snacks
