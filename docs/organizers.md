@@ -39,6 +39,10 @@ Twitter: [#bioc2019][tweet]<br />
 * Vince Carey
     - Professor of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard Medical School
 * Levi Waldron
-    - Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York 
+    - Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York
+		<img src="images/Levi.png">
+
 * Lorena Pantano
+    - Research Scientist in the Biostatistic department at the Harvard TH Chan School of Public Health
+
 * Wolfgang Huber
