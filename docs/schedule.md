@@ -13,6 +13,12 @@ Twitter: [#bioc2019][tweet]<br />
 [venue]: ./travel-accommodations
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
 
+## Confirmed Speakers
+
+* [Jeffrey Leek](http://jtleek.com/)
+* [Lieven Clement](https://statomics.github.io/)
+* [Lihua Julie Zhu](https://profiles.umassmed.edu/display/129880)
+
 ## Schedule (Tentative)
 
 * [Day 1](#day-1-tuesday-june-25): Tuesday June 25.
