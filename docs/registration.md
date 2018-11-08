@@ -3,7 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: June 24 (Developer Day), 25, 26 and 27 (Symposium), 2019 <br />
+When: June 24 - 28, 2019<br />
+What: Developer Day, Main Conference, Symposium<br />
 Where: [NYU and Rockefeller][venue], New York City, USA<br />
 Slack: [Bioconductor Team][] (`#bioc2019` channel)<br />
 Twitter: [#bioc2019][tweet]<br />
@@ -31,15 +32,15 @@ accommodation.
 ## Fees
 
 Developer Day (June 24)
-: Included with main conference registration.
+: - Included with main conference registration.
 
 Main Conference (June 25, 26)
 : - Before May 24: Academic and not-for-profit: $300. Commercial: $400.
   - After May 24: Academic and not-for-profit: $600. Commercial: $800.
 
 Robert Gentleman Symposium (June 27)
-: Academic and not-for-profit: $80. Commercial: $110.
+: - Academic and not-for-profit: $80. Commercial: $110.
 
 ## Register now!
 
-Use our [registration form](https://form.jotform.com/82906854633162).
+Registration will open by Nov 12, 2018.
