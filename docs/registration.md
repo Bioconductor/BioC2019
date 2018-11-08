@@ -43,4 +43,4 @@ Robert Gentleman Symposium (June 27)
 
 ## Register now!
 
-Use our [registration form](https://form.jotform.com/82906854633162).
+Registration will open by Nov 12, 2018.
