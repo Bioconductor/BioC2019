@@ -16,20 +16,20 @@ Twitter: [#bioc2019][tweet]<br />
 ## Organizing committee
 
 
-| Photo | Name |
+| Photo | Name | Affiliation |
 |---|---|---|
-| ![Martin Morgan][9] | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor
 | ![Kelly Ruggles][4] | Kelly Ruggles | Director Academic Programs, Sackler Institute of Graduate Biomedical Sciences and Assistant Professor of Medicine, NYU School of Medicine |
 | ![Thomas S Carroll][5]| Thomas S. Carroll | Head of Bioinformatics, The Rockefeller University |
-| ![Aedin Culhane][1] | Aedin Culhane  | Dana-Farber Cancer Institute, Harvard TH Chan School of Public Health |
-| ![Levi Waldron][2] | Levi Waldron   | Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York|
-| ![Laurent Gatto][3] | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
 | ![Pariksheet Nanda][6] | Pariksheet Nanda | PhD student, Genetics and Genomics, University of Connecticut |
-| ![Sean Davis][7]  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
+| ![Lorena Pantano][13] | Lorena Pantano | Research Scientist, Biostatistic department at the Harvard TH Chan School of Public Health |
 | ![Matthew McCall][8] | Matthew McCall | Assistant Professor of Biostatistics and Biomedical Genetics, University of Rochester Medical Center |
 | ![Peter Hickey][11] | Peter Hickey | Senior Research Officer, Walter and Eliza Hall Institute of Medical Research, Australia |
+| ![Levi Waldron][2] | Levi Waldron   | Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York|
+| ![Martin Morgan][9] | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor |
+| ![Aedin Culhane][1] | Aedin Culhane  | Dana-Farber Cancer Institute, Harvard TH Chan School of Public Health |
+| ![Laurent Gatto][3] | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
+| ![Sean Davis][7]  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
 | ![Vince Carey][12] | Vince Carey | Professor of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard Medical School |
-| ![Lorena Pantano][13] | Lorena Pantano | Research Scientist, Biostatistic department at the Harvard TH Chan School of Public Health
 | ![Wolfgang Huber][14] | Wolfgang Huber | Group Leader and Senior Scientist, EMBL Heidelberg, Germany |
 
 
