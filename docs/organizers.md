@@ -18,20 +18,19 @@ Twitter: [#bioc2019][tweet]<br />
 
 | Photo | Name |
 |---|---|---|
+| ![Martin Morgan][9] | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor
+| ![Kelly Ruggles][4] | Kelly Ruggles | Director Academic Programs, Sackler Institute of Graduate Biomedical Sciences and Assistant Professor of Medicine, NYU School of Medicine |
+| ![Thomas S Carroll][5]| Thomas S. Carroll | Head of Bioinformatics, The Rockefeller University |
 | ![Aedin Culhane][1] | Aedin Culhane  | Dana-Farber Cancer Institute, Harvard TH Chan School of Public Health |
 | ![Levi Waldron][2] | Levi Waldron   | Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York|
 | ![Laurent Gatto][3] | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
-| ![Kelly Ruggles][4] | Kelly Ruggles | Director Academic Programs, Sackler Institute of Graduate Biomedical Sciences and Assistant Professor of Medicine, NYU School of Medicine |
-| ![Thomas S Carroll][5]| Thomas S. Carroll | Head of Bioinformatics, The Rockefeller University |
 | ![Pariksheet Nanda][6] | Pariksheet Nanda | PhD student, Genetics and Genomics, University of Connecticut |
-|  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
+| ![Sean Davis][7]  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
 | ![Matthew McCall][8] | Matthew McCall | Assistant Professor of Biostatistics and Biomedical Genetics, University of Rochester Medical Center |
-| ![Martin Morgan][9] | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor
-| | Hector Corrada Bravo | |
 | ![Peter Hickey][11] | Peter Hickey | Senior Research Officer, Walter and Eliza Hall Institute of Medical Research, Australia |
 | ![Vince Carey][12] | Vince Carey | Professor of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard Medical School |
 | ![Lorena Pantano][13] | Lorena Pantano | Research Scientist, Biostatistic department at the Harvard TH Chan School of Public Health
-| | Wolfgang Huber | |
+| ![Wolfgang Huber][14] | Wolfgang Huber | Group Leader and Senior Scientist, EMBL Heidelberg, Germany |
 
 
 [1]: images/Aedin.jpg
@@ -40,8 +39,10 @@ Twitter: [#bioc2019][tweet]<br />
 [4]: images/KellyRuggles.jpeg
 [5]: images/ThomasSCarroll_headshot.png
 [6]: images/PariksheetNanda.jpg
+[7]: images/SeanDavis.png
 [8]: images/MatthewMcCall.jpeg
 [9]: images/MartinMorgan.jpg
 [11]: images/PeterHickey.jpg
-[12]: images/VincentCarey.jpg
+[12]: images/VincentCarey.png
 [13]: images/LorenaPantano.jpeg
+[14]: images/WolfgangHuber.jpg
