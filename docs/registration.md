@@ -39,7 +39,7 @@ Main Conference (June 25, 26)
   - After May 24: Academic and not-for-profit: $600. Commercial: $800.
 
 Robert Gentleman Symposium (June 27)
-: - Academic and not-for-profit: $80. Commercial: $110.
+: - Academic and not-for-profit: $90. Commercial: $120.
 
 ## Register now!
 
