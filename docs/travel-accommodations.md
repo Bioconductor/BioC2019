@@ -24,7 +24,14 @@ The conference will take place in two venues:
 <!-- The information below for getting to Rockefeller was suggested by
 Jennifer Einstein at Rockefeller's public relations department.  Local
 organizers, feel free to edit. -->
-## Rockefeller
+## Rockefeller University
+
+### Arrival at Rockefeller.
+
+Please arrive to Rockefeller at the entrance on 66th street and York avenue.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.9533733849844!2d-73.95872004881191!3d40.76305024232604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c31d5160cb%3A0x7e5d46de4ba1be75!2sYork+Ave+%26+E+66th+St%2C+New+York%2C+NY+10065!5e0!3m2!1sen!2sus!4v1542565155745" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ### Accomodations
 
@@ -64,8 +71,19 @@ The main airports that serve New York City are
 [LGA](https://www.laguardiaairport.com/),
 [JFK](https://www.jfkairport.com/), and
 [EWR](https://www.newarkairport.com/) (Newark).
-Although from Newark it takes a really long time to get to Rockefeller
-and a taxi will run close to $100 including tolls and tip.
+
+#### Arriving to Manhatten from JFK.
+* **Taxi** - Taxis from JFK offer a flat rate of $50-$70 to Manhatten (not including tips or tolls). Taxi rank can be found directly opposite departure's entrance. [JFK taxi information](https://www.airport-jfk.com/taxi.php)
+* **Public Transport** - JFK airtrain tickets cost $7.75 and connects JFK station to Penn station W.34 street with free transfer to the MTA subway system in Manhatten. [JFK airtrain information](https://www.airport-jfk.com/airtrain.php).
+
+#### Arriving to Manhatten from Newark.
+* **Taxi** - Meatured taxi services are available at Newark. Taxi rates will vary due to rush hour traffic, typically ranging from $60~$110. [Newark taxi information](https://www.newarkairport.com/to-from-airport/taxi-car-and-van-service).
+* **Public Transport** - Newark airtrain connects from airport to New York Penn Station in around 30-45 minutes with tickets approximately $12.50.[Newark airtrain information](https://www.newarkairport.com/to-from-airport/air-train).
+
+#### Arriving to Manhatten from LaGuardia.
+* **Taxi** - Meatured taxi services are available at LaGuardia. Taxi rates will vary due to rush hour traffic, typically ranging from $40~$60 for LaGuardia. [LaGuardia taxi information](https://www.laguardiaairport.com/to-from-airport/by-taxi). 
+* **Public Transport** - MTA buses run from LaGuardia to Manhatten and cost roughly $2.75 for a one-way ticket. [LaGuardia MTA buses information](https://www.laguardiaairport.com/to-from-airport/public-transportation).
+
 
 ### Driving and parking
 
