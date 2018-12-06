@@ -18,6 +18,8 @@ Twitter: [#bioc2019][tweet]<br />
 * [Jeffrey Leek](http://jtleek.com/)
 * [Lieven Clement](https://statomics.github.io/)
 * [Lihua Julie Zhu](https://profiles.umassmed.edu/display/129880)
+* [Simina Boca](https://icbi.georgetown.edu/Boca)
+* [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje)
 
 ## Schedule (Tentative)
 
