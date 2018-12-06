@@ -43,4 +43,4 @@ Robert Gentleman Symposium (June 27)
 
 ## Register now!
 
-Registration will open by Dec 1, 2018.
+[Registration form](https://form.jotform.com/bioconductor/bioc2019-registration)
