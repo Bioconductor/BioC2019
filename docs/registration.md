@@ -44,3 +44,5 @@ Robert Gentleman Symposium (June 27)
 ## Register now!
 
 [Registration form](https://form.jotform.com/bioconductor/bioc2019-registration)
+
+*Note (Dec 7)*: it has been brought to our attention that the registration form currently requires a Paypal account to pay. This will be corrected ASAP to allow credit card payment without a Paypal account.
