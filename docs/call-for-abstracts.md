@@ -3,10 +3,11 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: June 24 (Developer Day), 25-26 (User Conference), 2019 <br />
-Where: **NYU Langone Medical School** (Developer Day) and **Rockefeller University** (User Conference). New York City, New York, U.S.A. ([Venues and travel information][venue])<br />
+When: June 24 - 27, 2019<br />
+What: Developer Day, Main Conference, Symposium<br />
+Where: [NYU and Rockefeller][venue], New York City, USA<br />
+Slack: [Bioconductor Team][] (`#bioc2019` channel)<br />
 Twitter: [#bioc2019][tweet]<br />
-Slack: [Bioconductor Team][] `#bioc2019` channel
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
 [venue]: ./travel-accommodations
@@ -14,16 +15,16 @@ Slack: [Bioconductor Team][] `#bioc2019` channel
 
 ## Key Dates
 
-| Date | What |
+| Date     | What |
 | -------- | -------------------------------------- |
-| March 15 | deadline for proposals for talks, workshops, early posters, and travel scholarships |
-| March 30 | notification of decision |
-| June 10  | deadline for late posters and for Birds of a Feather meetings |
-| June 12  | notification of decision for late posters |
+| March 15 | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
+| March 30 | Notification of decision |
+| June 10  | Deadline for late posters and for Birds of a Feather meetings |
+| June 12  | Notification of decision for late posters |
 
 ## Call for posters and short contributed talks
 
-_BioC 2018_ invites abstracts on research to be presented as a poster
+_BioC 2019_ invites abstracts on research to be presented as a poster
 or short oral presentations (10 minutes including questions) to the
 full conference. Please submit an abstract of up to 300 words, which
 will be peer-reviewed by the conference committee for selection in the
@@ -35,7 +36,7 @@ you are interested in giving a talk, poster, or both.
 
 ## Call for workshops
 
-_BioC 2018_ invites submissions of contributed workshops in short
+_BioC 2019_ invites submissions of contributed workshops in short
 (50-minute) and long (1h 45m) formats for parallel afternoon workshop
 sessions. Short workshops may teach a single package or technique;
 long workshops should teach more complex workflows involving a range
@@ -43,8 +44,8 @@ of methods.  Please use the [Workshop Submission Form][] and
 [Workshop Template][]. Workshop proposals will be peer-reviewed by the
 conference committee for selection in the programme.
 
-[Workshop Template]: https://github.com/Bioconductor/BioC2019/blob/master/resources/workshop-syllabus.md
-[Workshop Submission Form]: https://goo.gl/forms/rk9s5OdKiUXC6o6V2
+[Workshop Template]: https://github.com/Bioconductor/BioC2019/blob/master/docs/workshop-syllabus.md
+[Workshop Submission Form]: https://goo.gl/forms/TZkE2XleUsGfCjr02
 
 ## Call for travel scholarship applications
 
