@@ -18,7 +18,8 @@ Twitter: [#bioc2019][tweet]<br />
 Interested in sponsoring this conference? Please contact
 Martin.Morgan@RoswellPark.org.
 
-Three levels of sponsorship are available:
+Three levels of sponsorship are available. All sponsors levels will be
+entitled to present a scientific poster during poster sessions.
 
 - Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
   promotional and scheduling material. Sponsored session (e.g.,
