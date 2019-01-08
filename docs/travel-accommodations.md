@@ -21,9 +21,41 @@ The conference will take place in two venues:
 - Main Conference and Robert Gentleman Symposium (June 25-27) at Rockefeller University 
 ([York Avenue and East 66th Street](https://goo.gl/maps/JkRcufXyhrq)).
 
+## Accomodations
+
+The conference venues are most easily accessible from the east side of Manhattan (especially around Grand Central Terminal) and from Long Island City (LIC). LIC provides good value for the price, but will require taking the subway (or a cablecar over the East River if you are near the bridge to Roosevelt Island!) 
+
+The following link may provide group rate discounts for some hotels: https://groups.hotels.com/093853217/EventPage4975917
+
+### Most affordable options
+
+Long Island City (LIC) provides affordable hotel options (starting at ~$120/night+14.75% tax), and is 25-30 minutes by transit to both Rockefeller University and NYU Langone Medicine.
+
+* [Days Inn by Windham LIC](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=18518&idTypeId=0&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gid=4975917#HotelName) (starting at $118+tax)
+* [Best Western Plus Plaza Hotel LIC](https://groups.hotels.com/eh/2ynfx-5avp) (starting at $121+tax)
+* [Voyage Hotel LIC](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=1025803&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $126+tax)
+* [Mayflower Boutique Hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=764861&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $97+tax)
+* [Red Lion Inn & Suites LIC](https://groups.hotels.com/eh/2ynfx-5tsn) (starting at $157+tax)
+* [Queens Count Inn & Suites LIC](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=802430&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $119+tax)
+* [Holiday Inn LIC](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=38080&idTypeId=0&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gid=4975917#HotelName) (starting at $155+tax)
+
+### Most convenient options
+
+These options are easy walking distance from Rockefeller University, but are > $250 / night.
+
+* [The Bentley hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=143951&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (6 minute walk to RU, starting at $240+tax)
+* [The Lombardy Hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=122563&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (20 minute walk to RU, 34 minutes walk to NYU, close to 6 train for going to NYU, starting at $272+tax)
+
+Closer to NYU:
+
+* [The Lexington Hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=109730&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $213+tax)
+* [The Roger Smith Hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=179766&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $211+tax)
+
+## NYU Langone 
 <!-- The information below for getting to Rockefeller was suggested by
 Jennifer Einstein at Rockefeller's public relations department.  Local
 organizers, feel free to edit. -->
+
 ## Rockefeller University
 
 ### Arrival at Rockefeller.
@@ -32,20 +64,7 @@ Please arrive to Rockefeller at the entrance on 66th street and York avenue.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.9533733849844!2d-73.95872004881191!3d40.76305024232604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c31d5160cb%3A0x7e5d46de4ba1be75!2sYork+Ave+%26+E+66th+St%2C+New+York%2C+NY+10065!5e0!3m2!1sen!2sus!4v1542565155745" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
-### Accomodations
-
-Hotel details to come.
-
-<!--
-The Bentley hotel is a 6 minute walk away.
-
-Here is a list of hotels from
-[booking.com](https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggJCAlhYSDNYBHIFdXNfbnmIAQGYATG4AQfIAQzYAQHoAQH4AQKSAgF5qAID&sid=a7630ad9d3893329bdf5ccffc58039a2&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Flabel%3Dgen173nr-1FCAEoggJCAlhYSDNYBHIFdXNfbnmIAQGYATG4AQfIAQzYAQHoAQH4AQKSAgF5qAID%3Bsid%3Da7630ad9d3893329bdf5ccffc58039a2%3Btmpl%3Dsearchresults%3Bcheckin_month%3D7%3Bcheckin_monthday%3D24%3Bcheckin_year%3D2018%3Bcheckout_month%3D7%3Bcheckout_monthday%3D27%3Bcheckout_year%3D2018%3Bclass_interval%3D1%3Bfrom_sf%3D1%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Blabel_click%3Dundef%3Blsf%3Doos%257C1%257C-1%3Bnflt%3Doos%253D1%253B%3Bno_rooms%3D1%3Boffset%3D0%3Bplace_id%3DChIJWWeUhro0K4gRPfZbL-0v2EM%3Bplace_id_lat%3D43.6669317%3Bplace_id_lon%3D-79.39196349999997%3Broom1%3DA%252CA%3Bsb_price_type%3Dtotal%3Bshw_aparth%3D1%3Bslp_r_match%3D0%3Bsrc%3Dsearchresults%3Bss%3DVictoria%2520College%252C%2520Toronto%252C%2520ON%252C%2520Canada%3Bssb%3Dempty%3Bssne%3DVictoria%2520College%252C%2520Toronto%252C%2520ON%252C%2520Canada%3Bssne_untouched%3DVictoria%2520College%252C%2520Toronto%252C%2520ON%252C%2520Canada%26%3B&ss=The+Rockefeller+University%2C+York+Avenue%2C+New+York%2C+NY%2C+USA&ssne=Victoria+College%2C+Toronto%2C+ON%2C+Canada&ssne_untouched=Victoria+College%2C+Toronto%2C+ON%2C+Canada&checkin_month=6&checkin_monthday=24&checkin_year=2019&checkout_month=6&checkout_monthday=27&checkout_year=2019&no_rooms=1&group_adults=1&group_children=0&b_h4u_keep_filters=&from_sf=1&ss_raw=rockefeller+university%2C+new+york%2C+usa&ac_position=1&ac_click_type=g&dest_id=ChIJjSuAGsNYwokRSi5irFmIJBI&dest_type=landmark&place_id=ChIJjSuAGsNYwokRSi5irFmIJBI&place_id_lat=40.7625706&place_id_lon=-73.9556889&place_types=establishment&search_pageview_id=1519065d6f460274&search_selected=true)
-that are available June 24-27, sorted by distance from Victoria College.
--->
-
-### Local transportation
+### Local transportation to Rockefeller University
 
 **Buses**: Two buses stop near the main entrance: the York Avenue/
 57th Street crosstown ([M31](https://goo.gl/maps/4B6XGsNuutN2))
@@ -60,6 +79,8 @@ Q to [2nd Avenue/72nd Street](https://goo.gl/maps/rjLdxUPD2KA2)
 and exit at 69th street.
 Rockefeller is half a mile from the Subway.
 
+**Tramway (cable car)**: The Manhattan stop of the [Roosevelt Island Tramway](https://en.wikipedia.org/wiki/Roosevelt_Island_Tramway) is a 7 minute walk from Rockefeller University. This is likely to take a little extra time but can be a nice option if you are staying along the F line or within walking distance of the [Roosevelt Island F line subway station](https://goo.gl/maps/XGmuQrFgzA82) in Long Island City. The tramway uses the Metrocard and costs a regular subway fare.
+
 **Taxis** [estimated costs](https://www.taxifarefinder.com/main.php?city=NY&lang=en).
 
 **Bicycle racks** are at the end of 68th Street parking lot
@@ -72,17 +93,17 @@ The main airports that serve New York City are
 [JFK](https://www.jfkairport.com/), and
 [EWR](https://www.newarkairport.com/) (Newark).
 
-#### Arriving to Manhatten from JFK.
-* **Taxi** - Taxis from JFK offer a flat rate of $50-$70 to Manhatten (not including tips or tolls). Taxi rank can be found directly opposite departure's entrance. [JFK taxi information](https://www.airport-jfk.com/taxi.php)
-* **Public Transport** - JFK airtrain tickets cost $7.75 and connects JFK station to Penn station W.34 street with free transfer to the MTA subway system in Manhatten. [JFK airtrain information](https://www.airport-jfk.com/airtrain.php).
+#### Arriving to Manhattan from JFK.
+* **Taxi** - Taxis from JFK offer a flat rate of $50-$70 to Manhattan (not including tips or tolls). Taxi rank can be found directly opposite departure's entrance. [JFK taxi information](https://www.airport-jfk.com/taxi.php)
+* **Public Transport** - JFK airtrain tickets cost $7.75 and connects JFK station to Penn station W.34 street with free transfer to the MTA subway system in Manhattan. [JFK airtrain information](https://www.airport-jfk.com/airtrain.php).
 
-#### Arriving to Manhatten from Newark.
+#### Arriving to Manhattan from Newark.
 * **Taxi** - Meatured taxi services are available at Newark. Taxi rates will vary due to rush hour traffic, typically ranging from $60~$110. [Newark taxi information](https://www.newarkairport.com/to-from-airport/taxi-car-and-van-service).
 * **Public Transport** - Newark airtrain connects from airport to New York Penn Station in around 30-45 minutes with tickets approximately $12.50.[Newark airtrain information](https://www.newarkairport.com/to-from-airport/air-train).
 
-#### Arriving to Manhatten from LaGuardia.
+#### Arriving to Manhattan from LaGuardia.
 * **Taxi** - Meatured taxi services are available at LaGuardia. Taxi rates will vary due to rush hour traffic, typically ranging from $40~$60 for LaGuardia. [LaGuardia taxi information](https://www.laguardiaairport.com/to-from-airport/by-taxi). 
-* **Public Transport** - MTA buses run from LaGuardia to Manhatten and cost roughly $2.75 for a one-way ticket. [LaGuardia MTA buses information](https://www.laguardiaairport.com/to-from-airport/public-transportation).
+* **Public Transport** - MTA buses run from LaGuardia to Manhattan and cost roughly $2.75 for a one-way ticket. [LaGuardia MTA buses information](https://www.laguardiaairport.com/to-from-airport/public-transportation).
 
 
 ### Driving and parking
