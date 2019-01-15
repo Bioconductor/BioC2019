@@ -25,7 +25,7 @@ The conference will take place in two venues:
 
 The conference venues are most easily accessible from the east side of Manhattan (especially around Grand Central Terminal) and from Long Island City (LIC). LIC provides good value for the price, but will require taking the subway (or a cablecar over the East River if you are near the bridge to Roosevelt Island!) 
 
-The following link may provide group rate discounts for some hotels: https://groups.hotels.com/093853217/EventPage4975917
+The following link may provide group rate discounts for hotels close to the venues: [https://groups.hotels.com/093853217/EventPage4975917](https://groups.hotels.com/093853217/EventPage4975917)
 
 ### Most affordable options
 
