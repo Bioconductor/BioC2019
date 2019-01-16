@@ -22,7 +22,7 @@ Twitter: [#bioc2019][tweet]<br />
 * [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje)
 
 ## Schedule (Tentative)
-
+* Day 0: Monday June 24 (developer day).
 * [Day 1](#day-1-tuesday-june-25): Tuesday June 25.
 * [Day 2](#day-2-wednesday-june-26): Wednesday June 26.
 
