@@ -19,6 +19,7 @@ speakers:
     blurb: "Dr. Boca analyzes omics data, including metabolomics and genomics, and considers their downstream application in precision medicine. In particular, she developed novel computational and statistical methods for high-dimensional data analysis, led the first comprehensive metabolomic study for Duchenne muscular dystrophy, and contributed to several of the early exome sequencing projects of human tumors. Additional areas of interest include cancer epidemiology and population genetics."
   - name: Anshul Kundaje
     inst: Stanford University
+    url: https://profiles.stanford.edu/anshul-kundaje
     blurb: "Anshul Kundaje is an Assistant Professor of Genetics and Computer Science at Stanford University. His primary research area is large-scale computational regulatory genomics. The Kundaje lab specializes in developing statistical and machine learning methods for large-scale integrative analysis of heterogeneous, high-throughput functional genomic and genetic data to decipher regulatory elements and long-range regulatory interactions, learn predictive regulatory network models across individuals, cell-types and species and improve detection and interpretation of natural and disease-associated genetic variation."
   - name: Elli Papaemmanuil
     inst: Memorial Sloan Kettering Cancer Center
