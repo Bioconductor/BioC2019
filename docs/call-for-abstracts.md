@@ -26,13 +26,15 @@ Twitter: [#bioc2019][tweet]<br />
 
 _BioC 2019_ invites abstracts on research to be presented as a poster
 or short oral presentations (10 minutes including questions) to the
-full conference. Please submit an abstract of up to 300 words, which
-will be peer-reviewed by the conference committee for selection in the
-conference programme. Include links to software where relevant. In the
-[Poster / Talk Submission Form][], you will be able to specify whether
-you are interested in giving a talk, poster, or both.
+full conference. Please use the [Poster / Talk Submission Form][] to
+submit an abstract of up to 300 words, which will be peer-reviewed by
+the conference committee for selection in the conference
+programme. Include links to software where relevant. You will be given
+the option of presenting a talk plus a poster, a talk only, a poster
+only, or a "talk only, but a poster if my abstract is not accepted for
+a talk."
 
-[Poster / Talk Submission Form]: https://goo.gl/forms/VqkNBNEvj48Vb41k2
+[Poster / Talk Submission Form]: https://goo.gl/forms/tx6oHbNt28JX7WWz1
 
 ## Call for workshops
 
