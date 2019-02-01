@@ -23,8 +23,8 @@ the [Poster / Talk Submission Form][].
 
 Key dates for scholarships:
 
-- Thursday March 15, 2018: Abstract Submissions opens.
-- Thursday May 17, 2018: Abstract Submission deadline.
-- Thursday May 31, 2018: Notification of talk, poster acceptance.
+- Thursday March 15, 2019: Abstract Submissions opens.
+- Thursday May 17, 2019: Abstract Submission deadline.
+- Thursday May 31, 2019: Notification of talk, poster acceptance.
 
 [Poster / Talk Submission Form]: https://goo.gl/forms/meoGgX7eipL2ZHKD2
