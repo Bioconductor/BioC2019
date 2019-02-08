@@ -20,13 +20,62 @@ Robert Gentleman is one of the original authors of the R language and founder of
 8:30 - 9:00 -- Registration and breakfast
 : 
 
-9:00 - 4:00 -- Talks TBN
-: fellow travellers, friends and colleagues of Robert Gentleman
-
-2:45 - 3:30 -- Founders of R and Bioconductor panel discussion
+9:00 - 9:30 -- welcome / opening remarks
 : 
 
-4:00 - 5:00 -- Keynote talk by Robert Gentleman
+9:30 - 10:30 -- short talks
 : 
 
-5:00 - 7:00 reception with drinks and snacks
+10:30 - 11:00 -- break
+: 
+
+11:00 - 12:00 -- short talks
+: 
+
+12:00 - 1:30 -- lunch
+: 
+
+1:30 - 2:30 -- short talks
+: 
+
+2:30 - 3:00 -- break
+: 
+
+3:00 - 3:45 -- Founders of R and Bioconductor panel discussion
+: 
+
+4:00 - 5pm -- Free public keynote talk by Robert Gentleman
+: 
+
+5:00 - 7:00pm -- Reception
+: 
+
+# Confirmed speakers
+
+* Denise Scholtens  --  NorthWestern / Chicago
+* Seth Falcon   --   Chef Software / Seattle
+* Jane Fridlyand   --   Genentech / SF
+* Vincent Carey   --   Harvard
+* Josh Kaminker   --   Genentech / SF
+* Thomas Wu   --   Genentech / SF
+* Leonard Goldstein  --  Genentech / SF
+* Gabe Becker   --   Genentech / SF
+* Thomas Lumley   --   University of Auckland
+* Jeff Gentry   --   Broad Institute
+* Dave Harrington   --   DFCI/Harvard
+* Beiying Ding   --   Genentech / SF
+
+# Confirmed attendees
+
+* Matt Brauer Formerly Genentech / SF
+* Thomas Sandmann  --       Denali
+* Florian Hahne  --       Novartis / Basel
+* Richard Bourgon  --       Genentech / SF
+* Sridhar Ramaswamy    MGH/HSCI
+* Seth Falcon  --       Chef Software / Seattle
+* Michael Lawrence     Genentech / SF
+* Martin Morgan  --       Bioconductor / Roswell Park
+* Rafael Irizarry  --       DFCI
+* Simon Tavaré  --       Columbia
+* Wolfgang Huber  --       EMBL
+* Simon Urbanek  --       AT&T Research
