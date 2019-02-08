@@ -30,7 +30,7 @@ Monday, June 24, 2018
 : Lightning talk platforms will be available to all
   Developer Day attendees
 
-10:30 - 11:00 -- Break -- Farkas Breezeway
+10:30 - 11:00 -- Break, newcomers / old-timers meet-up -- Farkas Breezeway
 : 
 
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I -- Smilow Seminar Room/MSB large/SB G19
@@ -52,7 +52,10 @@ Monday, June 24, 2018
 : 
 
 3:30 - 4:30 -- Community activities -- Farkas Auditorium
-: 
+: Welcome and orientation session for newcomers
 
 4:30 - 5:00 -- Panel discussion: project directions and opportunities -- Farkas Auditorium
+: 
+
+7:00 -- Outing (to be announced)
 : 
