@@ -38,19 +38,19 @@ Twitter: [#bioc2019][tweet]<br />
 [venue]: ./travel-accommodations
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
 
-This conference highlights current developments within and beyond
-_Bioconductor_. Morning scientific talks and afternoon workshops
-provide conference participants with insights and tools required for
-the analysis and comprehension of high-throughput genomic
-data. 'Developer Day' precedes the main conference on June 24,
-providing developers and would-be developers an opportunity to gain
-insights into project direction and software development best
-practices.
+BioC2019 highlights current developments within and beyond
+the [Bioconductor](https://www.bioconductor.org) project. It consists of:
+* [Developer Day](./schedule-developer-day) June 24 at NYU Langone: provides developers and would-be developers with
+insights into Bioconductor project direction and software development best practices. 
+* [Main Conference](./schedule) June 25-26 at Rockefeller University: morning scientific talks and afternoon workshops
+provide insights and tools required for the analysis and comprehension of high-throughput genomic
+data. 
+* [Robert Gentleman Symposium](./schedule-gentleman-day) June 27 at Rockefeller University: A one-time
+symposium in honor of the 60th birthday of [Robert
+Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)),
+one of the originators of R and Bioconductor. This day will feature
+talks and panel discussion by Robert Gentleman and associates.
 
-The conference will take place in two venues:
-- Developer Day (June 24) at NYU Langone School of Medicine ([1st Avenue and East 30th Street](https://goo.gl/maps/WbtSVCpnrR92))
-- Main Conference and Robert Gentleman Symposium (June 25-27) at Rockefeller University
-([York Avenue and East 66th Street](https://goo.gl/maps/JkRcufXyhrq)).
 
 ## Confirmed Speakers
 <!--
