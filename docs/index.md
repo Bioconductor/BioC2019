@@ -87,7 +87,6 @@ Twitter: [#bioc2019][tweet]<br />
 
 BioC2019 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. It consists of:
-
 * [Developer Day](./schedule-developer-day) June 24 at NYU Langone:
   provides developers and would-be developers with insights into
   Bioconductor project direction and software development best
