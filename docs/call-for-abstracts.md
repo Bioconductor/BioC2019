@@ -51,12 +51,18 @@ conference committee for selection in the programme.
 
 ## Call for travel scholarship applications
 
-A limited number of travel scholarships will cover conference registration, hotel, and $500 to offset travel costs. Please use the [Travel Scholarship Application Form] to apply. The application consists of:
+A limited number of travel scholarships will cover conference
+registration, hotel, and $500 to offset travel costs. Please use the
+[Travel Scholarship Application Form] to apply. The application
+consists of:
 
-1. Tell us why you deserve an award. This can include your achievements, interests, and goals.
-2. Tell us how this award will help you to achieve your goals. What do you hope to get out of the conference?
+1. Please enter the type(s) of presentation you have submitted (talk,
+poster, workshop). You must submit at least one to be eligible for a
+travel scholarship.
+2. Title of talk, workshop, or poster
 3. Please provide a link to your professional website, github page, or online CV.
-4. Please enter the type(s) of presentation you have submitted (talk, poster, workshop). You must submit at least one to be eligible for a travel scholarship.
+4. How have you participated in the Bioconductor project in the past?
+5. What do you hope to get out of the conference?
 
 [Travel Scholarship Application Form]: https://goo.gl/forms/TXWLPInRWWymQ1Hx2
 
