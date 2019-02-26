@@ -64,6 +64,7 @@ Robert Gentleman is one of the original authors of the R language and founder of
 * Jeff Gentry   --   Broad Institute
 * Dave Harrington   --   DFCI/Harvard
 * Beiying Ding   --   Genentech / SF
+* Wolfgang Huber   --  EMBL / Heidelberg
 
 # Confirmed attendees
 
@@ -79,3 +80,5 @@ Robert Gentleman is one of the original authors of the R language and founder of
 * Simon Tavaré  --       Columbia
 * Wolfgang Huber  --       EMBL
 * Simon Urbanek  --       AT&T Research
+* Elizabeth Whalen --	  Celgene / Seattle
+* Ben Wittner --	   Massachusetts General Hostpital
