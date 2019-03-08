@@ -65,6 +65,7 @@ Robert Gentleman is one of the original authors of the R language and founder of
 * Dave Harrington   --   DFCI/Harvard
 * Beiying Ding   --   Genentech / SF
 * Wolfgang Huber   --  EMBL / Heidelberg
+* Patrick Aboyoun  --  Nanostring / Seattle
 
 # Confirmed attendees
 
