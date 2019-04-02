@@ -1,6 +1,10 @@
 ---
 layout: default
 speakers:
+  - name: Rob Patro
+    inst:  Stony Brook University
+    url:  http://www.robpatro.com/redesign
+    blurb: "I am an assistant professor in the Computer Science department at Stony Brook University. My main academic interests include computational biology and bioinformatics, machine learning, programming languages, computer graphics, scientific visualization and parallel computation. I also have recreational interests in math, physics, music, politics and video games."
   - name: Jeffrey Leek
     inst: Johns Hopkins University
     url: http://jtleek.com/
@@ -9,6 +13,27 @@ speakers:
       human health, meta-research, education, and anything else they
       think could be useful for the world. They produce data tools and
       code that you can use for your projects as well."
+  - name: Elli Papaemmanuil
+    inst: Memorial Sloan Kettering Cancer Center
+    url: https://www.mskcc.org/research-areas/labs/elli-papaemmanuil
+    blurb: "The Papaemmanuil lab is a collective of clinical,
+      computational, molecular and mathematic research investigators
+      with an interest to study the role of acquired mutations in
+      cancer development and how these determine clinical phenotype
+      and response to therapy. Her mission is to execute research that
+      informs and moves clinical practices in oncology forward."
+  - name: Simina Boca
+    inst: Georgetown University
+    url: https://icbi.georgetown.edu/Boca
+    blurb: "Dr. Boca analyzes omics data, including metabolomics and
+      genomics, and considers their downstream application in
+      precision medicine. In particular, she developed novel
+      computational and statistical methods for high-dimensional data
+      analysis, led the first comprehensive metabolomic study for
+      Duchenne muscular dystrophy, and contributed to several of the
+      early exome sequencing projects of human tumors. Additional
+      areas of interest include cancer epidemiology and population
+      genetics."
   - name: Lieven Clement
     inst: Ghent University, Belgium.
     url: https://statomics.github.io/
@@ -37,18 +62,6 @@ speakers:
       quality assessment of ATACseq data, annotation, data
       integration, visualization, gRNA design and genome-wide
       offtargets identification in CRISPR genome editing studies."
-  - name: Simina Boca
-    inst: Georgetown University
-    url: https://icbi.georgetown.edu/Boca
-    blurb: "Dr. Boca analyzes omics data, including metabolomics and
-      genomics, and considers their downstream application in
-      precision medicine. In particular, she developed novel
-      computational and statistical methods for high-dimensional data
-      analysis, led the first comprehensive metabolomic study for
-      Duchenne muscular dystrophy, and contributed to several of the
-      early exome sequencing projects of human tumors. Additional
-      areas of interest include cancer epidemiology and population
-      genetics."
   - name: Anshul Kundaje
     inst: Stanford University
     url: https://profiles.stanford.edu/anshul-kundaje
@@ -63,15 +76,6 @@ speakers:
       individuals, cell-types and species and improve detection and
       interpretation of natural and disease-associated genetic
       variation."
-  - name: Elli Papaemmanuil
-    inst: Memorial Sloan Kettering Cancer Center
-    url: https://www.mskcc.org/research-areas/labs/elli-papaemmanuil
-    blurb: "The Papaemmanuil lab is a collective of clinical,
-      computational, molecular and mathematic research investigators
-      with an interest to study the role of acquired mutations in
-      cancer development and how these determine clinical phenotype
-      and response to therapy. Her mission is to execute research that
-      informs and moves clinical practices in oncology forward."
 ---
 # BioC 2019: Where Software and Biology Connect
 
@@ -116,8 +120,8 @@ the [Bioconductor](https://www.bioconductor.org) project. It consists of:
 
 More information: [workshop@bioconductor.org][contact]
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=bioc2019&ref_src=twsrc%5Etfw" 
-    class="twitter-hashtag-button" 
+<a href="https://twitter.com/intent/tweet?button_hashtag=bioc2019&ref_src=twsrc%5Etfw"
+    class="twitter-hashtag-button"
     data-show-count="false">Tweet #bioc2019</a>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
