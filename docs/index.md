@@ -2,8 +2,8 @@
 layout: default
 speakers:
   - name: Rob Patro
-    inst:  Stony Brook University
-    url:  http://www.robpatro.com/redesign
+    inst: Stony Brook University
+    url: http://www.robpatro.com/redesign
     blurb: "I am an assistant professor in the Computer Science department at Stony Brook University. My main academic interests include computational biology and bioinformatics, machine learning, programming languages, computer graphics, scientific visualization and parallel computation. I also have recreational interests in math, physics, music, politics and video games."
   - name: Jeffrey Leek
     inst: Johns Hopkins University

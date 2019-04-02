@@ -18,10 +18,10 @@ Twitter: [#bioc2019][tweet]<br />
 Monday, June 24, 2018
 
 8:30 - 9:00 -- Registration and breakfast -- Farkas Breezeway
-:
+: 
 
 9:00 - 9:30 -- Rob Patro -- Farkas Auditorium
-:
+: 
 
 9:30 - 10:00 -- Welcome -- Farkas Auditorium
 : Orientation & project updates
@@ -31,31 +31,31 @@ Monday, June 24, 2018
   Developer Day attendees
 
 10:30 - 11:00 -- Break, newcomers / old-timers meet-up -- Farkas Breezeway
-:
+: 
 
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I -- Smilow Seminar Room/MSB large/SB G19
-:
+: 
 
 12:00 - 1:00 -- Lunch -- Farkas Breezeway and outside
-:
+: 
 
 1:00 - 2:00 -- Birds-of-a-feather II / Workshops II  -- Farkas Auditorium
-:
+: 
 
 2:00 - 2:30 -- Lightning talks II  -- Farkas Auditorium
-:
+: 
 
 2:30 - 3:00 -- Break
-:
+: 
 
 3:00 - 3:30 -- Lightning talks III  -- Farkas Auditorium
-:
+: 
 
 3:30 - 4:30 -- Community activities -- Farkas Auditorium
 : Welcome and orientation session for newcomers
 
 4:30 - 5:00 -- Panel discussion: project directions and opportunities -- Farkas Auditorium
-:
+: 
 
 7:00 -- Outing (to be announced)
-:
+: 
