@@ -35,22 +35,22 @@ Logistics:
 [bioc-community slack]: https://bioc-community.herokuapp.com/
 
 8:00 - 8:45 -- Registration and breakfast
-: 
+:
 
 8:45 - 9:00 -- Welcoming remarks -- (Martin Morgan)
-: 
+:
 
 9:00 - 9:30 -- Jeffrey Leek
-: 
+:
 
 9:30 - 10:00 -- Elli Papaemmanuil
-: 
+:
 
 10:00 - 10:30  -- Simina Boca
-: 
+:
 
 10:30 - 11:00 -- Break
-: 
+:
 
 11:00 - 12:00 -- Contributed talks
 : + speaker 1
@@ -60,48 +60,48 @@ Logistics:
   + speaker 5
 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
-: 
+:
 
 1:00 - 2:45 --  Workshop Session 1a
-: 
+:
 
 1:45 - 2:45 --  Workshops Session 1b
-: 
+:
 
 2:45 - 3:15 -- Break
-: 
+:
 
 3:15 - 5:00 --  Workshops Session 2a
-: 
+:
 
 4:00 - 5:00 --  Workshops Session 2b
-: 
+:
 
 5:30 - 7:30 -- Contributed posters
-: 
+:
 
 # Day 2: Wednesday June 26
 
 8:00 - 8:30 -- Breakfast
-: 
+:
 
 8:30 - 9:00 -- Lieven Clement
-: 
+:
 
 9:00 - 9:30 -- Lihua Julie Zhu
-: 
+:
 
 9:30 - 10:00 -- Anshul Kundaje --  Contributed talks
-: 
+:
 
 10:00 - 10:30 -- Break
-: 
+:
 
 10:30 - 11:00  --  Contributed talks
 : + speaker 6
   + speaker 7
 
-11:00 - 12:00 -- Contributed talks  
+11:00 - 12:00 -- Contributed talks
 : + speaker 8
   + speaker 9
   + speaker 10
@@ -109,22 +109,22 @@ Logistics:
   + speaker 12
 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
-: 
+:
 
 1:00 - 2:45 -- Workshops Session 3a
-: 
+:
 
 1:45 - 2:45 -- Workshops Session 3b
-: 
+:
 
 2:45 - 3:15 -- Break
-: 
+:
 
 3:15 - 5:00 -- Workshops Session 4a
-: 
+:
 
 4:00 - 5:00 -- Workshops Session 4b
-: 
+:
 
 5:30 - 7:30 -- Contributed posters
-: 
+:
