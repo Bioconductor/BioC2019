@@ -35,22 +35,22 @@ Logistics:
 [bioc-community slack]: https://bioc-community.herokuapp.com/
 
 8:00 - 8:45 -- Registration and breakfast
-:
+: 
 
 8:45 - 9:00 -- Welcoming remarks -- (Martin Morgan)
-:
+: 
 
 9:00 - 9:30 -- Jeffrey Leek
-:
+: 
 
 9:30 - 10:00 -- Elli Papaemmanuil
-:
+: 
 
 10:00 - 10:30  -- Simina Boca
-:
+: 
 
 10:30 - 11:00 -- Break
-:
+: 
 
 11:00 - 12:00 -- Contributed talks
 : + speaker 1
@@ -60,7 +60,7 @@ Logistics:
   + speaker 5
 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
-:
+: 
 
 1:00 - 2:45 --  Workshop Session 1a
 : + The Basics: Bioconductor for Everyone
@@ -75,7 +75,7 @@ Logistics:
   + Genomics & EA: Tools for region-based genomic analysis
 
 2:45 - 3:15 -- Break
-:
+: 
 
 3:15 - 5:00 --  Workshops Session 2a
 : + The Basics: Fluent genomic workflows with plyranges
@@ -90,24 +90,24 @@ Logistics:
   + Genomics & EA: ATAC-seq data quality control using the ATACseqQC package
 
 5:30 - 7:30 -- Contributed posters
-:
+: 
 
 # Day 2: Wednesday June 26
 
 8:00 - 8:30 -- Breakfast
-:
+: 
 
 8:30 - 9:00 -- Lieven Clement
-:
+: 
 
 9:00 - 9:30 -- Lihua Julie Zhu
-:
+: 
 
 9:30 - 10:00 -- Anshul Kundaje --  Contributed talks
-:
+: 
 
 10:00 - 10:30 -- Break
-:
+: 
 
 10:30 - 11:00  --  Contributed talks
 : + speaker 6
@@ -121,7 +121,7 @@ Logistics:
   + speaker 12
 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
-:
+: 
 
 1:00 - 2:45 -- Workshops Session 3a
 : + The Basics: Introduction to Bioconductor Annotation Resources
@@ -136,7 +136,7 @@ Logistics:
   + Genomics & EA: Functional enrichment analysis of high-throughput omics data
 
 2:45 - 3:15 -- Break
-:
+: 
 
 3:15 - 5:00 -- Workshops Session 4a
 : + The Basics: Public data resources and Bioconductor
@@ -151,4 +151,4 @@ Logistics:
   + Genomics & EA: Single sample gene set analysis
 
 5:30 - 7:30 -- Contributed posters
-:
+: 
