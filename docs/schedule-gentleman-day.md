@@ -66,13 +66,13 @@ Robert Gentleman is one of the original authors of the R language and founder of
 * Beiying Ding   --   Genentech / SF
 * Wolfgang Huber   --  EMBL / Heidelberg
 * Patrick Aboyoun  --  Nanostring / Seattle
+* Richard Bourgon  --       Genentech / SF
 
 # Confirmed attendees
 
 * Matt Brauer Formerly Genentech / SF
 * Thomas Sandmann  --       Denali
 * Florian Hahne  --       Novartis / Basel
-* Richard Bourgon  --       Genentech / SF
 * Sridhar Ramaswamy    MGH/HSCI
 * Seth Falcon  --       Chef Software / Seattle
 * Michael Lawrence     Genentech / SF
