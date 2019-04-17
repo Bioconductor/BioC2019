@@ -17,54 +17,20 @@ Twitter: [#bioc2019][tweet]<br />
 
 | Date     | What |
 | -------- | -------------------------------------- |
-| March 15 | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
+| ~~March 15~~ | ~~Deadline for proposals for talks, workshops, early posters, and travel scholarships~~ |
 | March 30 | Notification of decision |
 | June 10  | Deadline for late posters and for Birds of a Feather meetings |
 | June 12  | Notification of decision for late posters |
 
-## Call for posters and short contributed talks
+## Call for late posters
 
-_BioC 2019_ invites abstracts on research to be presented as a poster
-or short oral presentations (10 minutes including questions) to the
-full conference. Please use the [Poster / Talk Submission Form][] to
-submit an abstract of up to 300 words, which will be peer-reviewed by
-the conference committee for selection in the conference
-programme. Include links to software where relevant. You will be given
-the option of presenting a talk plus a poster, a talk only, a poster
-only, or a "talk only, but a poster if my abstract is not accepted for
-a talk."
+_BioC 2019_ invites abstracts on research to be presented as a poster at the
+full conference. Please use the [Late Poster Submission Form][] to submit an
+abstract of up to 300 words, which will be peer-reviewed by the conference
+committee for selection in the conference programme. Include links to software
+where relevant.
 
-[Poster / Talk Submission Form]: https://goo.gl/forms/tx6oHbNt28JX7WWz1
-
-## Call for workshops
-
-_BioC 2019_ invites submissions of contributed workshops in short
-(50-minute) and long (1h 45m) formats for parallel afternoon workshop
-sessions. Short workshops may teach a single package or technique;
-long workshops should teach more complex workflows involving a range
-of methods.  Please use the [Workshop Submission Form][] and
-[Workshop Template][]. Workshop proposals will be peer-reviewed by the
-conference committee for selection in the programme.
-
-[Workshop Template]: https://github.com/Bioconductor/BioC2019/blob/master/docs/workshop-syllabus.md
-[Workshop Submission Form]: https://goo.gl/forms/TZkE2XleUsGfCjr02
-
-## Call for travel scholarship applications
-
-A limited number of travel scholarships will cover conference
-registration, hotel, and $500 to offset travel costs. Please use the
-[Travel Scholarship Application Form] to apply. The application
-consists of:
-
-1. Please enter the type(s) of presentation you have submitted (talk,
-poster, workshop). You must submit at least one to be eligible for a
-travel scholarship.
-2. Title of talk, workshop, or poster
-3. Please provide a link to your professional website, github page, or online CV.
-4. How have you participated in the Bioconductor project in the past?
-5. What do you hope to get out of the conference?
-
-[Travel Scholarship Application Form]: https://goo.gl/forms/TXWLPInRWWymQ1Hx2
+[Late Poster Submission Form]: https://goo.gl/forms/XG29qYT8YGWJCNQY2
 
 ## Call for Birds of a Feather / Special Interest Groups
 
