@@ -52,15 +52,15 @@ Logistics:
 10:30 - 11:00 -- Break
 : 
 
-11:00 - 12:00 -- Contributed talks
-: Single-cell theme -- room "A"
-  + Robert A. Amezquita -- Orchestrating Single-Cell Analysis with Bioconductor
+11:00 - 12:00 -- Contributed talks Session 1a - Single-cell theme
+: + Robert A. Amezquita -- Orchestrating Single-Cell Analysis with Bioconductor
   + Helena L. Crowell -- Analysis of multi-sample multi-group scRNA-seq data
   + Shian Su -- CellBench: A Framework for Evaluating Single Cell Analysis Pipelines
   + Stephanie Hicks -- mbkmeans: fast clustering for single cell data using mini-batch k-means
   + Deepayan Sarkar -- Gene Set Enrichment Analysis with Multi-omics Data
-: Statistical methods -- room "B"
-  + Nima Hejazi -- Generalized Variance Moderation for Locally Efficient Estimation in High-Dimensional Biology
+
+11:00 - 12:00 -- Contributed talks Session 1b - Statistical methods
+: + Nima Hejazi -- Generalized Variance Moderation for Locally Efficient Estimation in High-Dimensional Biology
   + John Lawson -- Coordinate Covariation Analysis (COCOA): Understanding Interindividual Variation in Data with Genomic Coordinates
   + Ingo Ruczinski -- Detection of rare disease variants in extended pedigrees using RVS
   + Svetlana Vinogradova -- ASER: eliminating transcriptome-wide batch effects results in higher precision in allele-specific expression measurements
@@ -116,17 +116,17 @@ Logistics:
 10:00 - 10:30 -- Break
 : 
 
-10:30 - 12:00  --  Contributed talks
-: Software focus -- room "A"
-  + Nitesh Turaga -- 3 reasons to "Bioconductor" on containers
+10:30 - 12:00  --  Contributed talks Session 1a -- Software focus
+: + Nitesh Turaga -- 3 reasons to "Bioconductor" on containers
   + Vincent Carey -- Bioconductor at "cloud scale"
   + Stuart Lee -- Tidy coverage analysis with superintronic and plyranges
   + Nathan Sheffield -- BiocProject, a new Bioconductor-oriented project management class
   + Karun Rajesh -- Storage and Analysis of Microbiome Quality Control Project Data through phyloseq Package
   + Ana Beatriz Villaseñor-Altamirano -- PulmonDB with an accessible web interface of integrated and curated public transcriptomic data for the understanding of lung diseases
   + Christopher Wilks -- Snapcount: rapid and flexible querying of over 70,000 gene, exon, and splice junction expression summaries
-: Biological focus -- room "B"
-  + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from cancer pharmacogenomic data
+
+10:30 - 12:00  --  Contributed talks Session 1b -- Biological focus
+: + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from cancer pharmacogenomic data
   + Aedin Culhane -- Discovery of cancer immune molecular subtypes
   + Joselyn Cristina Chavez Fuentes -- A collaborative approach to improve access to bacterial regulatory networks using R/Bioconductor.
   + Robert Castelo -- RNA sequencing and mass spectometry proteomics of neonatal dried blood spots
