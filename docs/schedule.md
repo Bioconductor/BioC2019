@@ -81,17 +81,17 @@ Logistics:
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
   + Genomics & EA: Tools for region-based genomic analysis
 
-2:45 - 3:15 -- Break
+2:45 - 3:00 -- Break
 : 
 
-3:15 - 5:00 --  Workshops Session 2a
+3:00 - 4:00 --  Workshops Session 2a
 : + The Basics: Fluent genomic workflows with plyranges
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor: Overview and Workflows
   + RNAseq & Omics: Bioinformatics tools to integrate and understand molecular changes associated with Immune Response, Stemness and Oncogenic processes: A PanCancer study.
   + Genomics & EA: Copy number variation analysis with Bioconductor
 
 4:00 - 5:00 --  Workshops Session 2b
-: + The Basics: Fluent genomic data analyses with plyranges and tximeta
+: + The Basics: A plyranges and tximeta case study: differential expression and accessibility
   + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
   + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
   + Genomics & EA: ATAC-seq data quality control using the ATACseqQC package
