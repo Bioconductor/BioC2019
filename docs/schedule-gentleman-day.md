@@ -54,7 +54,6 @@ Robert Gentleman is one of the original authors of the R language and founder of
 
 * Denise Scholtens  --  NorthWestern / Chicago
 * Seth Falcon   --   Chef Software / Seattle
-* Jane Fridlyand   --   Genentech / SF
 * Vincent Carey   --   Harvard
 * Josh Kaminker   --   Genentech / SF
 * Thomas Wu   --   Genentech / SF

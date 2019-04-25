@@ -69,28 +69,28 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
 : 
 
-1:00 - 2:45 --  Workshop Session 1a
+1:00 - 1:50 --  Workshop Session 1a
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
   + Genomics & EA: Tools for region-based genomic analysis
 
-1:45 - 2:45 --  Workshops Session 1b
+2:00 - 2:50 --  Workshops Session 1b
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
   + Genomics & EA: Tools for region-based genomic analysis
 
-2:45 - 3:15 -- Break
+2:50 - 3:10 -- Break
 : 
 
-3:15 - 5:00 --  Workshops Session 2a
+3:10 - 4:00 --  Workshops Session 2a
 : + The Basics: Fluent genomic workflows with plyranges
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor: Overview and Workflows
   + RNAseq & Omics: Bioinformatics tools to integrate and understand molecular changes associated with Immune Response, Stemness and Oncogenic processes: A PanCancer study.
   + Genomics & EA: Copy number variation analysis with Bioconductor
 
-4:00 - 5:00 --  Workshops Session 2b
+4:10 - 5:00 --  Workshops Session 2b
 : + The Basics: Fluent genomic data analyses with plyranges and tximeta
   + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
   + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
@@ -137,28 +137,28 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
 : 
 
-1:00 - 2:45 -- Workshops Session 3a
+1:00 - 1:50 -- Workshops Session 3a
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
   + Genomics & EA: Easy and efficient ensemble gene set testing with EGSEA
 
-1:45 - 2:45 -- Workshops Session 3b
+2:00 - 2:50 -- Workshops Session 3b
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
   + Genomics & EA: Functional enrichment analysis of high-throughput omics data
 
-2:45 - 3:15 -- Break
+2:50 - 3:10 -- Break
 : 
 
-3:15 - 5:00 -- Workshops Session 4a
+3:10 - 4:00 -- Workshops Session 4a
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
   + Genomics & EA: Integrative pathway analysis with pathwayPCA
 
-4:00 - 5:00 -- Workshops Session 4b
+4:10 - 5:00 -- Workshops Session 4b
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: Epidemiology for Bioinformaticians
