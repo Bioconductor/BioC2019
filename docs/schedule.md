@@ -69,13 +69,13 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
 : 
 
-1:00 - 1:50 --  Workshop Session 1a
+1:00 - 1:50 --  Workshop Session 2a
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
   + Genomics & EA: Tools for region-based genomic analysis
 
-2:00 - 2:50 --  Workshops Session 1b
+2:00 - 2:50 --  Workshops Session 2b
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
@@ -84,13 +84,13 @@ Logistics:
 2:50 - 3:10 -- Break
 : 
 
-3:10 - 4:00 --  Workshops Session 2a
+3:10 - 4:00 --  Workshops Session 3a
 : + The Basics: Fluent genomic workflows with plyranges
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor: Overview and Workflows
   + RNAseq & Omics: Bioinformatics tools to integrate and understand molecular changes associated with Immune Response, Stemness and Oncogenic processes: A PanCancer study.
   + Genomics & EA: Copy number variation analysis with Bioconductor
 
-4:10 - 5:00 --  Workshops Session 2b
+4:10 - 5:00 --  Workshops Session 3b
 : + The Basics: A plyranges and tximeta case study: differential expression and accessibility
   + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
   + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
@@ -116,7 +116,7 @@ Logistics:
 10:00 - 10:30 -- Break
 : 
 
-10:30 - 12:00  --  Contributed talks Session 1a -- Software focus
+10:30 - 12:00  --  Contributed talks Session 4a -- Software focus
 : + Nitesh Turaga -- 3 reasons to "Bioconductor" on containers
   + Vincent Carey -- Bioconductor at "cloud scale"
   + Stuart Lee -- Tidy coverage analysis with superintronic and plyranges
@@ -125,7 +125,7 @@ Logistics:
   + Ana Beatriz Villaseñor-Altamirano -- PulmonDB with an accessible web interface of integrated and curated public transcriptomic data for the understanding of lung diseases
   + Christopher Wilks -- Snapcount: rapid and flexible querying of over 70,000 gene, exon, and splice junction expression summaries
 
-10:30 - 12:00  --  Contributed talks Session 1b -- Biological focus
+10:30 - 12:00  --  Contributed talks Session 4b -- Biological focus
 : + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from cancer pharmacogenomic data
   + Aedin Culhane -- Discovery of cancer immune molecular subtypes
   + Joselyn Cristina Chavez Fuentes -- A collaborative approach to improve access to bacterial regulatory networks using R/Bioconductor.
@@ -137,13 +137,13 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
 : 
 
-1:00 - 1:50 -- Workshops Session 3a
+1:00 - 1:50 -- Workshops Session 5a
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
   + Genomics & EA: Easy and efficient ensemble gene set testing with EGSEA
 
-2:00 - 2:50 -- Workshops Session 3b
+2:00 - 2:50 -- Workshops Session 5b
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
@@ -152,13 +152,13 @@ Logistics:
 2:50 - 3:10 -- Break
 : 
 
-3:10 - 4:00 -- Workshops Session 4a
+3:10 - 4:00 -- Workshops Session 6a
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
   + Genomics & EA: Integrative pathway analysis with pathwayPCA
 
-4:10 - 5:00 -- Workshops Session 4b
+4:10 - 5:00 -- Workshops Session 6b
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: Epidemiology for Bioinformaticians
