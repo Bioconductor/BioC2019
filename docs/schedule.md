@@ -91,7 +91,7 @@ Logistics:
   + Genomics & EA: Copy number variation analysis with Bioconductor
 
 4:10 - 5:00 --  Workshops Session 2b
-: + The Basics: Fluent genomic data analyses with plyranges and tximeta
+: + The Basics: A plyranges and tximeta case study: differential expression and accessibility
   + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
   + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
   + Genomics & EA: ATAC-seq data quality control using the ATACseqQC package
