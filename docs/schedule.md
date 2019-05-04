@@ -73,13 +73,13 @@ Logistics:
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
-  + Genomics & EA: Tools for region-based genomic analysis
+  + Genomics & Enrichment Analysis: Tools for region-based genomic analysis
 
 2:00 - 2:50 --  Workshops Session 2b
 : + The Basics: Bioconductor for Everyone
   + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
   + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
-  + Genomics & EA: Tools for region-based genomic analysis
+  + Genomics & Enrichment Analysis: Tools for region-based genomic analysis
 
 2:50 - 3:10 -- Break
 : 
@@ -88,13 +88,13 @@ Logistics:
 : + The Basics: Fluent genomic workflows with plyranges
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor: Overview and Workflows
   + RNAseq & Omics: Bioinformatics tools to integrate and understand molecular changes associated with Immune Response, Stemness and Oncogenic processes: A PanCancer study.
-  + Genomics & EA: Copy number variation analysis with Bioconductor
+  + Genomics & Enrichment Analysis: Copy number variation analysis with Bioconductor
 
 4:10 - 5:00 --  Workshops Session 3b
 : + The Basics: A plyranges and tximeta case study: differential expression and accessibility
   + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
   + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
-  + Genomics & EA: ATAC-seq data quality control using the ATACseqQC package
+  + Genomics & Enrichment Analysis: ATAC-seq data quality control using the ATACseqQC package
 
 5:30 - 7:30 -- Contributed posters
 : 
@@ -141,13 +141,13 @@ Logistics:
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
-  + Genomics & EA: Easy and efficient ensemble gene set testing with EGSEA
+  + Genomics & Enrichment Analysis: Easy and efficient ensemble gene set testing with EGSEA
 
 2:00 - 2:50 -- Workshops Session 5b
 : + The Basics: Introduction to Bioconductor Annotation Resources
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
   + RNAseq & Omics: Using the recount2 resource and related tools
-  + Genomics & EA: Functional enrichment analysis of high-throughput omics data
+  + Genomics & Enrichment Analysis: Functional enrichment analysis of high-throughput omics data
 
 2:50 - 3:10 -- Break
 : 
@@ -156,13 +156,13 @@ Logistics:
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
-  + Genomics & EA: Integrative pathway analysis with pathwayPCA
+  + Genomics & Enrichment Analysis: Integrative pathway analysis with pathwayPCA
 
 4:10 - 5:00 -- Workshops Session 6b
 : + The Basics: Public data resources and Bioconductor
   + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
   + RNAseq & Omics: Epidemiology for Bioinformaticians
-  + Genomics & EA: Single sample gene set analysis
+  + Genomics & Enrichment Analysis: Single sample gene set analysis
 
 5:30 - 7:30 -- Contributed posters
 : 
