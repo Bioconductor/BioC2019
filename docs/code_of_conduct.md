@@ -99,15 +99,11 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 | Photo | Name |
 |---|---|---|
-| ![Aedin Culhane][1] | Aedin Culhane <[aedin@jimmy.harvard.edu][2]> |
-| ![Levi Waldron][3] | Levi Waldron  <[lwaldron.research@gmail.com][4]> |
-| ![Laurent Gatto][5] | Laurent Gatto <[laurent.gatto@uclouvain.be][6]> |
+| <img src="images/Aedin.jpg" width="200" /> | Aedin Culhane <[aedin@jimmy.harvard.edu][2]> |
+| <img src="images/Levi.png" width="200" /> | Levi Waldron  <[lwaldron.research@gmail.com][4]> |
+| <img src="images/Laurent.jpg" width="200" /> | Laurent Gatto <[laurent.gatto@uclouvain.be][6]> |
 
 [0]: mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct
-[1]: images/Aedin.jpg
 [2]: mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct
-
-[3]: images/Levi.png
 [4]: mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct
-[5]: images/Laurent.jpg
 [6]: mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct
