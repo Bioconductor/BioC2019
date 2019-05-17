@@ -17,9 +17,10 @@ Twitter: [#bioc2019][tweet]<br />
 
 Includes:
 
-- Admission to conference facilities for Developer Day and Main Conference (June 24-26).
-- Continental breakfast, lunch, and light hors d'oeuvres, as well as
-  morning and afternoon coffee breaks.
+: - Admission to conference facilities for Developer Day and Main
+    Conference (June 24-26).
+  - Continental breakfast, lunch, and light hors d'oeuvres, as well as
+    morning and afternoon coffee breaks.
 
 There is an additional fee for the Robert Gentleman Symposium (June 27). 
 It is also possible to register for this symsposium _only_.
@@ -45,4 +46,6 @@ Robert Gentleman Symposium (June 27)
 
 [Registration form](https://form.jotform.com/bioconductor/bioc2019-registration)
 
-*Note (Dec 7)*: it has been brought to our attention that the registration form currently requires a PayPal account to pay. This happens only when you are signed into your Paypal account. If you are not signed into your account, you will see an additional button to *"Pay with Debit or Credit Card"*. Therefore if you do not wish to pay using PayPal, you can open the form in an incognito window or sign out of your PayPal account.
+*Note (Dec 7)*: If you are have a PayPal account but wish to pay with
+debit or credit card account, open the form in an incognito window or
+sign out of your PayPal account.

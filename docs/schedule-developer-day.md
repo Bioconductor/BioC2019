@@ -34,19 +34,19 @@ Monday, June 24, 2018
 : 
 
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I -- Smilow Seminar Room/MSB large/SB G19
-: + Track1: Bioconductor on Containers
-  + Track2: Combined CWL workshop
-  + Track3: Lazy representation of very large genomic data resources in R/Bioconductor
-  + Track4: Cloud-scale genomic data science with Bioconductor
+: + Track 1: Bioconductor on Containers
+  + Track 2: Common Workflow Language (CWL) workshop
+  + Track 3: Lazy representation of very large genomic data resources in R/Bioconductor
+  + Track 4: Cloud-scale genomic data science with Bioconductor
 
 12:00 - 1:00 -- Lunch -- Farkas Breezeway and outside
 : 
 
 1:00 - 2:00 -- Birds-of-a-feather II / Workshops II  -- Farkas Auditorium
-: + Track1: Bioconductor on Containers
-  + Track2: Combined CWL workshop
-  + Track3: Lazy representation of very large genomic data resources in R/Bioconductor
-  + Track4: motifStack: plot multiple motifs in one figure
+: + Track 1: Bioconductor on Containers
+  + Track 2: Common Workflow Language (CWL) workshop
+  + Track 3: Lazy representation of very large genomic data resources in R/Bioconductor
+  + Track 4: motifStack: plot multiple motifs in one figure
 
 
 2:00 - 2:30 -- Lightning talks II  -- Farkas Auditorium

@@ -110,7 +110,7 @@ Logistics:
 9:00 - 9:30 -- Lihua Julie Zhu
 : 
 
-9:30 - 10:00 -- Anshul Kundaje --  Contributed talks
+9:30 - 10:00 -- Anshul Kundaje
 : 
 
 10:00 - 10:30 -- Break
