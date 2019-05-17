@@ -27,7 +27,7 @@ Twitter: [#bioc2019][tweet]<br />
 | <img src="images/Levi.png" width="250" /> | Levi Waldron   | Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York|
 | <img src="images/MartinMorgan.jpg" width="250" /> | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor |
 | <img src="images/Aedin.jpg" width="250" /> | Aedin Culhane  | Dana-Farber Cancer Institute, Harvard TH Chan School of Public Health |
-| <img src="images/LaurentGatto.jpg" width="250" /> | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
+| <img src="images/Laurent.jpg" width="250" /> | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
 | <img src="images/SeanDavis.png" width="250" />  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
 | <img src="images/VincentCarey.png" width="250" /> | Vince Carey | Professor of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard Medical School |
 | <img src="images/WolfgangHuber.jpg" width="250" /> | Wolfgang Huber | Group Leader and Senior Scientist, EMBL Heidelberg, Germany |
