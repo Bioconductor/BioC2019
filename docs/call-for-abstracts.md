@@ -18,7 +18,7 @@ Twitter: [#bioc2019][tweet]<br />
 | Date     | What |
 | -------- | -------------------------------------- |
 | ~~March 15~~ | ~~Deadline for proposals for talks, workshops, early posters, and travel scholarships~~ |
-| March 30 | Notification of decision |
+| ~~March 30~~ |~~Notification of decision~~ |
 | June 10  | Deadline for late posters and for Birds of a Feather meetings |
 | June 12  | Notification of decision for late posters |
 
