@@ -15,7 +15,7 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Developer Day Schedule (Tentative)
 
-Monday, June 24, 2018
+Monday, June 24, 2019
 
 8:30 - 9:00 -- Registration and breakfast -- Farkas Breezeway
 : 
