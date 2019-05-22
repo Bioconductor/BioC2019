@@ -66,7 +66,7 @@ Logistics:
   + Svetlana Vinogradova -- ASER: eliminating transcriptome-wide batch effects results in higher precision in allele-specific expression measurements
   + Katharina Imkeller -- Improving accuracy of phenotype detection in whole-genome CRISPR screens
 
-12:00 - 1:00 -- Lunch / Birds-of-a-feather
+12:00 - 1:00 -- Lunch / Birds-of-a-feather, Sponsored by [F1000 Research][]
 : 
 
 1:00 - 1:50 --  Workshop Session 2a
@@ -166,3 +166,5 @@ Logistics:
 
 5:30 - 7:30 -- Contributed posters
 : 
+
+[F1000 Research]: https://f1000research.com/gateways/bioconductor/
