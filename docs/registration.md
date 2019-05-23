@@ -15,15 +15,15 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Registration
 
-Includes:
+REGISTRATION FOR THE MAIN CONFERENCE is **full**; space is still available
+for the Robert Gentleman Symposium. There is a fee for this symposium.
+
+Existing main conference registrations include:
 
 : - Admission to conference facilities for Developer Day and Main
     Conference (June 24-26).
   - Continental breakfast, lunch, and light hors d'oeuvres, as well as
     morning and afternoon coffee breaks.
-
-There is an additional fee for the Robert Gentleman Symposium (June 27). 
-It is also possible to register for this symsposium _only_.
 
 ## Travel and accommodation
 
@@ -31,13 +31,6 @@ Participants must arrange and pay for their own travel and
 accommodation. 
 
 ## Fees
-
-Developer Day (June 24)
-: - Included with main conference registration.
-
-Main Conference (June 25, 26)
-: - Before May 24: Academic and not-for-profit: $300. Commercial: $400.
-  - After May 24: Academic and not-for-profit: $600. Commercial: $800.
 
 Robert Gentleman Symposium (June 27)
 : - Academic and not-for-profit: $90. Commercial: $120.
