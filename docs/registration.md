@@ -15,8 +15,11 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Registration
 
-REGISTRATION FOR THE MAIN CONFERENCE is **full**; space is still available
-for the Robert Gentleman Symposium. There is a fee for this symposium.
+REGISTRATION FOR THE MAIN CONFERENCE is **full**; a [waitlist][] is
+available.
+
+Space is still available for the Robert Gentleman Symposium. There is
+a fee for this symposium.
 
 Existing main conference registrations include:
 
@@ -24,6 +27,8 @@ Existing main conference registrations include:
     Conference (June 24-26).
   - Continental breakfast, lunch, and light hors d'oeuvres, as well as
     morning and afternoon coffee breaks.
+
+[waitlist]: https://forms.gle/y7v53HPbw5cfHt556
 
 ## Travel and accommodation
 
