@@ -36,135 +36,184 @@ Logistics:
 
 8:00 - 8:45 -- Registration and breakfast
 : 
-
+ 
 8:45 - 9:00 -- Welcoming remarks -- (Martin Morgan)
 : 
-
+ 
 9:00 - 9:30 -- Jeffrey Leek
 : 
-
+ 
 9:30 - 10:00 -- Elli Papaemmanuil
 : 
-
+ 
 10:00 - 10:30  -- Simina Boca
-: 
-
+:  
+ 
 10:30 - 11:00 -- Break
 : 
-
+ 
 11:00 - 12:00 -- Contributed talks Session 1a - Single-cell theme
 : + Robert A. Amezquita -- Orchestrating Single-Cell Analysis with Bioconductor
   + Helena L. Crowell -- Analysis of multi-sample multi-group scRNA-seq data
   + Shian Su -- CellBench: A Framework for Evaluating Single Cell Analysis Pipelines
   + Stephanie Hicks -- mbkmeans: fast clustering for single cell data using mini-batch k-means
   + Deepayan Sarkar -- Gene Set Enrichment Analysis with Multi-omics Data
-
+ 
 11:00 - 12:00 -- Contributed talks Session 1b - Statistical methods
 : + Nima Hejazi -- Generalized Variance Moderation for Locally Efficient Estimation in High-Dimensional Biology
   + John Lawson -- Coordinate Covariation Analysis (COCOA): Understanding Interindividual Variation in Data with Genomic Coordinates
   + Ingo Ruczinski -- Detection of rare disease variants in extended pedigrees using RVS
   + Svetlana Vinogradova -- ASER: eliminating transcriptome-wide batch effects results in higher precision in allele-specific expression measurements
   + Katharina Imkeller -- Improving accuracy of phenotype detection in whole-genome CRISPR screens
-
-12:00 - 1:00 -- Lunch / Birds-of-a-feather, Sponsored by [F1000 Research][]
-: 
-
+ 
+12:00 - 1:00 -- Lunch / Birds-of-a-feather, sponsored by [F1000 Research][]
+:  
+ 
 1:00 - 1:50 --  Workshop Session 2a
-: + The Basics: Bioconductor for Everyone
-  + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
-  + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
-  + Genomics & Enrichment Analysis: Tools for region-based genomic analysis
-
+: + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori Shepherd
+  + SingleCell: Effectively using the DelayedArray framework to
+    support the analysis of large data sets -- Pete Hickey
+  + RNAseq & Omics: Workflow for Multi-omics Analysis with
+    MultiAssayExperiment and curatedTCGAData -- Marcel Ramos, Ludwig
+    Geistlinger, and Levi Waldron
+  + Genomics & Enrichment Analysis: Tools for region-based genomic
+    analysis -- Nathan Sheffield
+ 
 2:00 - 2:50 --  Workshops Session 2b
-: + The Basics: Bioconductor for Everyone
-  + SingleCell: Effectively using the DelayedArray framework to support the analysis of large data sets
-  + RNAseq & Omics: Workflow for Multi-omics Analysis with MultiAssayExperiment and curatedTCGAData
-  + Genomics & Enrichment Analysis: Tools for region-based genomic analysis
 
+: + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori
+    Shepherd
+  + SingleCell: Effectively using the DelayedArray framework to
+    support the analysis of large data sets -- Pete Hickey
+  + RNAseq & Omics: Workflow for Multi-omics Analysis with
+    MultiAssayExperiment and curatedTCGAData -- Marcel Ramos, Ludwig
+    Geistlinger, and Levi Waldron
+  + Genomics & Enrichment Analysis: Tools for region-based genomic
+    analysis -- Nathan Sheffield
+ 
 2:50 - 3:10 -- Break
 : 
-
+ 
 3:10 - 4:00 --  Workshops Session 3a
-: + The Basics: Fluent genomic workflows with plyranges
-  + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor: Overview and Workflows
-  + RNAseq & Omics: Bioinformatics tools to integrate and understand molecular changes associated with Immune Response, Stemness and Oncogenic processes: A PanCancer study.
-  + Genomics & Enrichment Analysis: Copy number variation analysis with Bioconductor
-
+: + The Basics: Fluent genomic workflows with plyranges -- 
+  + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor:
+    Overview and Workflows -- Robert A. Amezquita, Vince J. Carey,
+    Lindsay N. Carpp, Ludwig Geistlinger, Aaron T. L.Lun, et al.
+  + Genomics & Enrichment Analysis: Copy number variation analysis
+    with Bioconductor -- Ludwig Geistlinger, Marcel Ramos, Seyhun Oh,
+    and Levi Waldron
+ 
 4:10 - 5:00 --  Workshops Session 3b
-: + The Basics: A plyranges and tximeta case study: differential expression and accessibility
-  + SingleCell: Analysis of large single-cell RNA-seq datasets in R/Bioconductor
-  + RNAseq & Omics: Working with open-source Human Microbiome Project Data: Efficient Data Access and Analysis Workflow
-  + Genomics & Enrichment Analysis: ATAC-seq data quality control using the ATACseqQC package
-
+: + The Basics: A plyranges and tximeta case study: differential
+    expression and accessibility
+  + SingleCell: Analysis of large single-cell RNA-seq datasets in
+    R/Bioconductor -- Davide Risso and Stephanie Hicks
+  + RNAseq & Omics: Working with open-source Human Microbiome Project
+    Data: Efficient Data Access and Analysis Workflow -- Levi Walrdon,
+    Ni Zhao, Mikhail Dozmorov, Ekaterina Smirnova
+  + Genomics & Enrichment Analysis: ATAC-seq data quality control
+    using the ATACseqQC package -- Haibo Liu, Jianghong Ou, and Julie
+    Lihua Zhu
+ 
 5:30 - 7:30 -- Contributed posters
 : 
-
+ 
 # Day 2: Wednesday June 26
-
+ 
 8:00 - 8:30 -- Breakfast
-: 
-
+:  
+ 
 8:30 - 9:00 -- Lieven Clement
-: 
-
+:  
+ 
 9:00 - 9:30 -- Lihua Julie Zhu
-: 
-
+:  
+ 
 9:30 - 10:00 -- Anshul Kundaje
-: 
-
+:  
+ 
 10:00 - 10:30 -- Break
-: 
-
+:  
+ 
 10:30 - 12:00  --  Contributed talks Session 4a -- Software focus
 : + Nitesh Turaga -- 3 reasons to "Bioconductor" on containers
   + Vincent Carey -- Bioconductor at "cloud scale"
-  + Stuart Lee -- Tidy coverage analysis with superintronic and plyranges
-  + Nathan Sheffield -- BiocProject, a new Bioconductor-oriented project management class
-  + Karun Rajesh -- Storage and Analysis of Microbiome Quality Control Project Data through phyloseq Package
-  + Ana Beatriz Villaseñor-Altamirano -- PulmonDB with an accessible web interface of integrated and curated public transcriptomic data for the understanding of lung diseases
-  + Christopher Wilks -- Snapcount: rapid and flexible querying of over 70,000 gene, exon, and splice junction expression summaries
-
+  + Stuart Lee -- Tidy coverage analysis with superintronic and
+    plyranges
+  + Nathan Sheffield -- BiocProject, a new Bioconductor-oriented
+    project management class
+  + Karun Rajesh -- Storage and Analysis of Microbiome Quality Control
+    Project Data through phyloseq Package
+  + Ana Beatriz Villaseñor-Altamirano -- PulmonDB with an accessible
+    web interface of integrated and curated public transcriptomic data
+    for the understanding of lung diseases
+  + Christopher Wilks -- Snapcount: rapid and flexible querying of
+    over 70,000 gene, exon, and splice junction expression summaries
+ 
 10:30 - 12:00  --  Contributed talks Session 4b -- Biological focus
-: + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from cancer pharmacogenomic data
+: + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from
+    cancer pharmacogenomic data
   + Aedin Culhane -- Discovery of cancer immune molecular subtypes
-  + Joselyn Cristina Chavez Fuentes -- A collaborative approach to improve access to bacterial regulatory networks using R/Bioconductor.
-  + Robert Castelo -- RNA sequencing and mass spectometry proteomics of neonatal dried blood spots
-  + Cesar Miguel Valdez Cordova -- histoneSig: working with continuous signal representations from the genome
+  + Joselyn Cristina Chavez Fuentes -- A collaborative approach to
+    improve access to bacterial regulatory networks using
+    R/Bioconductor.
+  + Robert Castelo -- RNA sequencing and mass spectometry proteomics
+    of neonatal dried blood spots
+  + Cesar Miguel Valdez Cordova -- histoneSig: working with continuous
+    signal representations from the genome
   + Antonio Colaprico -- DeepBlueR and MoonlightR
-  + Charlotte Soneson -- On the characterisation of complex transcriptomes with Nanopore native RNA sequencing
-
+  + Charlotte Soneson -- On the characterisation of complex
+    transcriptomes with Nanopore native RNA sequencing
+ 
 12:00 - 1:00 -- Lunch / Birds-of-a-feather
-: 
-
+:  
+ 
 1:00 - 1:50 -- Workshops Session 5a
-: + The Basics: Introduction to Bioconductor Annotation Resources
-  + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
-  + RNAseq & Omics: Using the recount2 resource and related tools
-  + Genomics & Enrichment Analysis: Easy and efficient ensemble gene set testing with EGSEA
-
+: + The Basics: Introduction to Bioconductor Annotation Resources --
+    Lori Shepherd and Jim MacDonald
+  + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
+    Helena L. Crowell, Charlotte Soneson, Pierre-Luc Germain, and Mark
+    Robinson
+  + RNAseq & Omics: Using the recount2 resource and related tools --
+    Collado-Torres L, Nellore A, Jaffe AE
+  + Genomics & Enrichment Analysis: Easy and efficient ensemble gene
+    set testing with EGSEA -- Alhamdoosh M, Law CW, Tian L, Sheridan
+    JM, Ng M, Ritchie ME
+ 
 2:00 - 2:50 -- Workshops Session 5b
-: + The Basics: Introduction to Bioconductor Annotation Resources
-  + SingleCell: Analysis of multi-sample multi-group scRNA-seq data
-  + RNAseq & Omics: Using the recount2 resource and related tools
-  + Genomics & Enrichment Analysis: Functional enrichment analysis of high-throughput omics data
-
+: + The Basics: Introduction to Bioconductor Annotation Resources --
+    Lori Shepherd and Jim MacDonald
+  + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
+    Helena L. Crowell, Charlotte Soneson, Pierre-Luc Germain, and Mark
+    D. Robinson
+  + RNAseq & Omics: Using the recount2 resource and related tools --
+    Collado-Torres L, Nellore A, Jaffe AE
+  + Genomics & Enrichment Analysis: Functional enrichment analysis of
+    high-throughput omics data -- Ludwig Geistlinger and Levi Waldron
+ 
 2:50 - 3:10 -- Break
-: 
-
+:  
+ 
 3:10 - 4:00 -- Workshops Session 6a
 : + The Basics: Public data resources and Bioconductor
-  + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
-  + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
-  + Genomics & Enrichment Analysis: Integrative pathway analysis with pathwayPCA
-
+  + SingleCell: iSEE: Interactive visualization of
+    `SummarizedExperiment` objects -- Kevin Rue-Albrecht and Charlotte
+    Soneson
+  + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma,
+    Glimma and edgeR -- Law CW, Alhamdoosh M, Su S, Dong X, Tian L et
+    al
+  + Genomics & Enrichment Analysis: Integrative pathway analysis with
+    pathwayPCA -- Odom G, Ban Y, Liu L, Wang L, Chen X
+ 
 4:10 - 5:00 -- Workshops Session 6b
 : + The Basics: Public data resources and Bioconductor
-  + SingleCell: iSEE: Interactive visualization of `SummarizedExperiment` objects
-  + RNAseq & Omics: Epidemiology for Bioinformaticians
-  + Genomics & Enrichment Analysis: Single sample gene set analysis
-
+  + SingleCell: iSEE: Interactive visualization of
+    `SummarizedExperiment` objects -- Kevin Rue-Albrecht and Charlotte
+    Soneson
+  + RNAseq & Omics: Epidemiology for Bioinformaticians -- Mirzayi C
+    and Levi Waldron
+ 
 5:30 - 7:30 -- Contributed posters
-: 
-
+:  
+ 
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
