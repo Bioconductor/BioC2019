@@ -28,7 +28,7 @@ _BioC 2019_ invites abstracts on research to be presented as a poster at the
 full conference. Please use the [Late Poster Submission Form][] to submit an
 abstract of up to 300 words, which will be peer-reviewed by the conference
 committee for selection in the conference programme. Include links to software
-where relevant.
+where relevant. Poster dimensions: up to 58 inches wide x 40 inches tall.
 
 [Late Poster Submission Form]: https://goo.gl/forms/XG29qYT8YGWJCNQY2
 

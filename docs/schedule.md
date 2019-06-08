@@ -116,7 +116,9 @@ Logistics:
     Lihua Zhu
  
 5:30 - 7:30 -- Contributed posters
-: 
+: + Poster dimensions up to 58 inches wide x 40 inches tall; posters
+    displayed both days.
+
  
 # Day 2: Wednesday June 26
  
@@ -214,6 +216,7 @@ Logistics:
     and Levi Waldron
  
 5:30 - 7:30 -- Contributed posters
-:  
+: + Poster dimensions up to 58 inches wide x 40 inches tall; posters
+    displayed both days.
  
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
