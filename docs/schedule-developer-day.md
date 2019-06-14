@@ -65,11 +65,11 @@ Monday, June 24, 2019
 3:00 - 3:30 -- Lightning talks III  -- Farkas Auditorium
 :  
  
-3:30 - 4:30 -- Community activities -- Farkas Auditorium
-: Welcome and orientation session for newcomers
- 
-4:30 - 5:00 -- Panel discussion: project directions and opportunities -- Farkas Auditorium
+3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions -- Farkas Auditorium
 :  
+ 
+4:30 - 5:00 -- Panel discussion -- Farkas Auditorium
+: + Project directions and opportunities
  
 7:00 -- Outing (to be announced)
 :  
