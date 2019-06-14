@@ -21,22 +21,36 @@ Robert Gentleman is one of the original authors of the R language and founder of
 : 
 
 9:00 - 9:30 -- welcome / opening remarks
-: 
+: + Wolfgang Huber and Levi Waldron
 
 9:30 - 10:30 -- short talks
-: 
+: + Vincent Carey – Harvard
+  + Denise Scholtens – NorthWestern / Chicago
+  + Dave Harrington – DFCI/Harvard
+  + Leonard Goldstein – Genentech / SF
+  + Martin Morgan - RPCCC / NY
+  + Simon Tavaré - New York Genome Center
 
 10:30 - 11:00 -- break
 : 
 
 11:00 - 12:00 -- short talks
-: 
+: + Rafael Irizarry - Harvard 
+  + Beiying Ding – Genentech / SF
+  + Wolfgang Huber - EMBL / Heidelberg
+  + Seth Falcon – Chef Software / Seattle
+  + Thomas Wu – Genentech / SF
+  + Thomas Lumley – University of Auckland
 
 12:00 - 1:30 -- lunch
 : 
 
 1:30 - 2:30 -- short talks
-: 
+: + Richard Bourgon – Genentech / SF
+  + Jeff Gentry – Broad Institute
+  + Gabe Becker – Genentech / SF
+  + Patrick Aboyoun – Nanostring / Seattle
+  + Josh Kaminker – Genentech / SF
 
 2:30 - 3:00 -- break
 : 
