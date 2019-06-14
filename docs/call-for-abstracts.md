@@ -28,10 +28,11 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Call for F1000Research articles 
 
-There will be an invitation to submit F1000Research articles to the
-[Bioconductor gateway][] which will be associated with Bioc2019. The
-deadline will be announced, about a month before the conference.
+Following on from previous years, we are inviting conference attendees to 
+contribute articles on Bioconductor workflows or packages to the [Bioconductor 
+gateway]. This is a great opportunity to get credit for your work and increase 
+its visibility and impact. The submission deadline is **5th July 2019**.
 
-[Bioconductor gateway]: https://f1000research.com/gateways/bioconductor
+[Bioconductor gateway]: https://f1000research.com/gateways/bioconductor/about-this-gateway
 
 
