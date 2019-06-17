@@ -67,19 +67,3 @@ Robert Gentleman is one of the original authors of the R language and founder of
 5:00 - 7:00pm -- Reception
 : 
 
-# Confirmed speakers
-
-* Denise Scholtens  --  NorthWestern / Chicago
-* Seth Falcon   --   Chef Software / Seattle
-* Vincent Carey   --   Harvard
-* Josh Kaminker   --   Genentech / SF
-* Thomas Wu   --   Genentech / SF
-* Leonard Goldstein  --  Genentech / SF
-* Gabe Becker   --   Genentech / SF
-* Thomas Lumley   --   University of Auckland
-* Jeff Gentry   --   Broad Institute
-* Dave Harrington   --   DFCI/Harvard
-* Beiying Ding   --   Genentech / SF
-* Wolfgang Huber   --  EMBL / Heidelberg
-* Patrick Aboyoun  --  Nanostring / Seattle
-* Richard Bourgon  --       Genentech / SF
