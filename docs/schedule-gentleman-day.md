@@ -34,7 +34,7 @@ Robert Gentleman is one of the original authors of the R language and founder of
 10:30 - 11:00 -- break
 : 
 
-11:00 - 11:20 -- Evolution of Diversity in the R/Bioconductor Communities
+11:00 - 11:20 -- Evolution of the R/Bioconductor Communities
 : 
 
 11:20 - 12:00 -- short talks
