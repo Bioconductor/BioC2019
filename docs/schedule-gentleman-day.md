@@ -35,7 +35,8 @@ Robert Gentleman is one of the original authors of the R language and founder of
 : 
 
 11:00 - 11:20 -- Evolution of the R/Bioconductor Communities
-: 
+: + Wolfgang Huber - EMBL / Heidelberg
+  + Aedin Culhane - DFCI / Harvard
 
 11:20 - 12:00 -- short talks
 : + Rafael Irizarry - Harvard 
