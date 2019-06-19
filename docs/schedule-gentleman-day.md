@@ -15,39 +15,43 @@ Twitter: [#bioc2019][tweet]<br />
 
 ## Robert Gentleman Symposium (June 27)
 
-Robert Gentleman is one of the original authors of the R language and founder of the Bioconductor project. This special symposium day is being organized for Robert Gentleman's 60th birthday, in honor of his wide-ranging and influential contributions to statistical computing and computational biology.
+Robert Gentleman is one of the original authors of the R language and
+founder of the Bioconductor project. This special symposium day is
+being organized for Robert Gentleman's 60th birthday, in honor of his
+wide-ranging and influential contributions to statistical computing
+and computational biology.
 
 8:30 - 9:00 -- Registration and breakfast
 : 
 
-9:00 - 9:30 -- welcome / opening remarks
+9:00 - 9:30 -- Welcome / opening remarks
 : + Wolfgang Huber and Levi Waldron
 
-9:30 - 10:30 -- short talks
+9:30 - 10:30 -- Short talks
 : + Vincent Carey – Harvard
   + Denise Scholtens – NorthWestern / Chicago
   + Dave Harrington – DFCI / Harvard
   + Leonard Goldstein – Genentech / SF
-  + Martin Morgan - RPCCC / NY
+  + Martin Morgan - Roswell Park / NY
   + Wolfgang Huber - EMBL / Heidelberg
 
-10:30 - 11:00 -- break
+10:30 - 11:00 -- Break
 : 
 
-11:00 - 11:20 -- Evolution of the R/Bioconductor Communities
+11:00 - 11:20 -- Evolution of the _R_ / _Bioconductor_ communities
 : + Wolfgang Huber - EMBL / Heidelberg
   + Aedin Culhane - DFCI / Harvard
 
-11:20 - 12:00 -- short talks
+11:20 - 12:00 -- Short talks
 : + Rafael Irizarry - Harvard 
-  + Seth Falcon – Chef Software / Seattle
+  + Seth Falcon – BlaBlaCar / Paris
   + Thomas Wu – Genentech / SF
   + Thomas Lumley – University of Auckland
 
-12:00 - 1:30 -- lunch
+12:00 - 1:30 -- Lunch
 : 
 
-1:30 - 2:30 -- short talks
+1:30 - 2:30 -- Short talks
 : + Richard Bourgon – Genentech / SF
   + Jeff Gentry – Broad Institute
   + Gabe Becker – Genentech / SF
@@ -55,10 +59,10 @@ Robert Gentleman is one of the original authors of the R language and founder of
   + Josh Kaminker – Genentech / SF
   + Simon Tavaré - New York Genome Center
 
-2:30 - 3:00 -- break
+2:30 - 3:00 -- Break
 : 
 
-3:00 - 3:45 -- Founders of R and Bioconductor panel discussion
+3:00 - 3:45 -- Founders of _R_ and _Bioconductor_ panel discussion
 : 
 
 4:00 - 5pm -- Free public keynote talk by Robert Gentleman
