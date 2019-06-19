@@ -99,6 +99,10 @@ Logistics:
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor:
     Overview and Workflows -- Robert A. Amezquita, Vince J. Carey,
     Lindsay N. Carpp, Ludwig Geistlinger, Aaron T. L.Lun, et al.
+  + RNAseq & Omics: Bioinformatics tools for integrating and
+    understanding molecular changes associated with with Immune
+    Response, Stemness and Oncogenic processes -- Antonio Colaprico,
+    Gabriel Odom, Lily Wang, & Xi Chen
   + Genomics & Enrichment Analysis: Copy number variation analysis
     with Bioconductor -- Ludwig Geistlinger, Marcel Ramos, Seyhun Oh,
     and Levi Waldron
