@@ -52,9 +52,28 @@ Closer to NYU:
 * [The Roger Smith Hotel](https://groups.hotels.com/Hotel/HotelRoomTypes.htm?hotelID=179766&inDate=06/23/19&outDate=06/27/19&NumRooms=1&gp=78.00&gid=4975917#HotelName) (starting at $211+tax)
 
 ## NYU Langone 
-<!-- The information below for getting to Rockefeller was suggested by
-Jennifer Einstein at Rockefeller's public relations department.  Local
-organizers, feel free to edit. -->
+Please arrive at NYU through the main entrance on 1st Avenue between 30th and 34th street.
+<iframe src="https://goo.gl/maps/63RC6jh1zgJ2" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Local Transportation to NYU
+
+**Buses**: The M15 local bus runs the length of First Avenue in Manhattan and stops near the front of the NYU Langone Medical Center. For the M15 limited bus, which runs express, the closest stop is at 29th Street. The M34 bus runs the length of 34th Street in Manhattan and stops directly in front of the north entrance to NYU Medical Center on 34th Street at First Avenue. The M16 bus, which connects with nationwide bus service at the Port Authority Bus Terminal (42nd Street and Eighth Avenue), has a nearby stop at First Avenue and 23rd Street. One bus fare is $2.50. A MetroCard or coins are required.
+
+**Subway**: The subway costs $2.75. The stops closest to the NYU Langone Medical Center and the Bellevue Hospital Center are:
+33rd Street or 28th Street stops (at Park Avenue) on the Number 6 line.
+Grand Central Terminal at 42nd Street between Lexington Avenue and Park Avenue (4, 5, 6).
+
+**Available Parking Options**: https://nyulangone.org/locations/tisch-hospital/parking
+
+### Getting around NYU Langone:  
+
+**Farkas Auditorium**: Follow the Yellow Pathway and you will quickly come upon the Alumni Hall. The Farkas Auditorium will be to your right. If you have reached the Medical Science Building then you have gone too far. Registration will take place here. 
+Smilow Research Center—Found at the very end of the Yellow Pathway.  Upon entering the Medical Center, take the Yellow Pathway to the Smilow elevator bank at the back of the building. 
+
+**Medical Science Building (MSB)**: Found midway along the Yellow Pathway.  The MSB conference room for the workshop can be found down by continuing past the elevators into the Smilow Research Building and continuing down the stairs (or taking the elevator 1 floor down).
+
+**Science Building (SB)**: The main entrance of this building is located on E. 30th Street and has access points from the Smilow Research Center and the Medical Science Building.  From MSB, please take the elevators to the ground floor and follow the signs marked “Science Building.”  This building can also be access by a bridge next to the Smilow Seminar Room.
+
 
 ## Rockefeller University
 
