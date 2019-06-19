@@ -5,7 +5,7 @@ layout: default
 
 When: June 24 - 27, 2019<br />
 What: Developer Day, Main Conference, Symposium<br />
-Where: [NYU and Rockefeller][venue], New York City, USA<br />
+Where: [NYU and Rockefeller University][venue], New York City, USA<br />
 Twitter: [#bioc2019][tweet]
 
 [tweet]: https://twitter.com/hashtag/bioc2019?f=tweets
