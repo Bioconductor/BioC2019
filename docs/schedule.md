@@ -220,7 +220,8 @@ Logistics:
     and Levi Waldron
  
 5:30 - 7:30 -- Contributed posters - __Group-B posters__
-: + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+
++ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
  
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
