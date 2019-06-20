@@ -120,7 +120,8 @@ Logistics:
     Lihua Zhu
  
 5:30 - 7:30 -- Contributed posters - __Group-A posters__
-: + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+
++ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
 
  
