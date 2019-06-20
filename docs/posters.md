@@ -79,11 +79,9 @@ Singh A\*, Bhanot G, Khiabanian H. TuBA: Tunable Biclustering Algorithm for unco
 
 Singh R\*, Ramzan T\*, Avshalumov A, Rahman M, Wultsch C, Krampis K. Human microbiome and minority health: unravelling variations associated with disease and ethnicity. Keywords: Microbiome, MultipleComparison, Metagenomics, BiomedicalInformatics.
 
-Soneson C\*, Yao Y, Bratus-Neuenschwander A, Patrignani A, Robinson MD, Hussain S. On the characterisation of complex transcriptomes with Nanopore native RNA sequencing. Keywords: GenomeAnnotation, Transcriptomics, Sequencing.
-
 Srivastava A\*, Malik L, Smith T, Sudbery I, Patro R. Alevin efficiently estimates accurate gene abundances from dscRNA-seq data. Keywords: dscRNA-seq, Quantification, UMI-Deduplication, salmon, alevin.
 
-Elitsa Stoyanova\*, Eric Schmidt, Thomas Carroll, Nathaniel Heintz. TRAPR AND TRAPR.DB: A SOFTWARE PACKAGE FOR THE CURATION, ASSESSMENT AND VISUALIZATION OF TRAP-SEQ DATA. Keywords: RNASeq, GeneExpression.
+Elitsa Stoyanova\*, Eric Schmidt, Thomas Carroll, Nathaniel Heintz. trapr And trapr.db: A software package for the curation, assessment and visualization of trap-seq data. Keywords: RNASeq, GeneExpression.
 
 Tang M\*, Kaymaz Y, Eichhorn S, Liang Z,  Dulac C, Sackton T. Scclusteval: An R package for evaluating single cell RNAseq clustering. Keywords: GeneExpression Transcriptomics Clustering SingleCell.
 
