@@ -119,9 +119,10 @@ Logistics:
     using the ATACseqQC package -- Haibo Liu, Jianghong Ou, and Julie
     Lihua Zhu
  
-5:30 - 7:30 -- Contributed posters
-: + Poster dimensions up to 58 inches wide x 40 inches tall; posters
-    displayed both days.
+5:30 - 7:30 -- Contributed posters - __Group-A posters__
+
++ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+    poster allocations will be affixed to poster boards.
 
  
 # Day 2: Wednesday June 26
@@ -219,8 +220,9 @@ Logistics:
   + RNAseq & Omics: Epidemiology for Bioinformaticians -- Mirzayi C
     and Levi Waldron
  
-5:30 - 7:30 -- Contributed posters
-: + Poster dimensions up to 58 inches wide x 40 inches tall; posters
-    displayed both days.
+5:30 - 7:30 -- Contributed posters - __Group-B posters__
+
++ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+    poster allocations will be affixed to poster boards.
  
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
