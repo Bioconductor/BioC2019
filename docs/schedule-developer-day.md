@@ -34,38 +34,38 @@ Monday, June 24, 2019
 10:30 - 11:00 -- Break, newcomers / old-timers meet-up -- Farkas Breezeway
 :  
  
-11:00 - 12:00 -- Birds-of-a-feather I / Workshops I -- Farkas Auditorium / Smilow Seminar Room / MSB large / SB G19
-: + Track 1: Bioconductor on Containers -- Nitesh Turaga
+11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
+: + Track 1: Bioconductor on Containers -- Nitesh Turaga --  Smilow Seminar Room
   + Track 2: Common Workflow Language (CWL) workshop -- Daniela
-    Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu
+    Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu -- SB G19
   + Track 3: Lazy representation of very large genomic data resources
-    in R/Bioconductor -- Qian Liu, and Martin Morgan
+    in R/Bioconductor -- Qian Liu, and Martin Morgan --  Farkas Auditorium
   + Track 4: Cloud-scale genomic data science with Bioconductor --
-    Vincent Carey
+    Vincent Carey --  MSB Large
  
 12:00 - 1:00 -- Lunch -- Farkas Breezeway and outside
 :  
  
-1:00 - 2:00 -- Birds-of-a-feather II / Workshops II  -- Farkas Auditorium / Smilow Seminar Room / MSB large / SB G19
-: + Track 1: Bioconductor on Containers -- Nitesh Turaga
+1:00 - 2:00 -- Birds-of-a-feather II / Workshops II
+: + Track 1: Bioconductor on Containers -- Nitesh Turaga -- Smilow Seminar Room
   + Track 2: Common Workflow Language (CWL) workshop -- Daniela
-    Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu
+    Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu -- SB G19
   + Track 3: Lazy representation of very large genomic data resources
-    in R/Bioconductor -- Qian Liu and Martin Morgan
+    in R/Bioconductor -- Qian Liu and Martin Morgan -- Farkas Auditorium
   + Track 4: motifStack: plot multiple motifs in one figure --
-    Jianhong Ou and Lihua Julie Zhu
+    Jianhong Ou and Lihua Julie Zhu -- MSB Large
  
  
 2:00 - 2:30 -- Lightning talks II  -- Farkas Auditorium
 :  
  
-2:30 - 3:00 -- Break
+2:30 - 3:00 -- Break -- Farkas Breezeway
 :  
  
 3:00 - 3:30 -- Lightning talks III  -- Farkas Auditorium
 :  
  
-3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions -- Farkas Auditorium
+3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions -- Farkas Auditorium, Smilow Seminar Room
 :  
  
 4:30 - 5:00 -- Panel discussion -- Farkas Auditorium
