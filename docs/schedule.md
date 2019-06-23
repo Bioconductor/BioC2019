@@ -34,19 +34,19 @@ Logistics:
 [course AMI]: https://courses.bioconductor.org
 [bioc-community slack]: https://bioc-community.herokuapp.com/
 
-8:00 - 8:45 -- Registration and breakfast -- CRC Lower Level
+8:00 - 8:45 -- Registration and breakfast -- Abby Lounge
 : 
  
-8:45 - 9:00 -- Welcoming remarks -- Martin Morgan -- Carson Auditorium
+8:45 - 9:00 -- Welcoming remarks -- Martin Morgan -- Caspary Auditorium
 : 
  
-9:00 - 9:30 -- Jeffrey Leek -- Carson Auditorium
+9:00 - 9:30 -- Jeffrey Leek -- Caspary Auditorium
 : 
  
-9:30 - 10:00 -- Elli Papaemmanuil -- Carson Auditorium
+9:30 - 10:00 -- Elli Papaemmanuil -- Caspary Auditorium
 : 
  
-10:00 - 10:30  -- Simina Boca -- Carson Auditorium
+10:00 - 10:30  -- Simina Boca -- Caspary Auditorium
 :  
  
 10:30 - 11:00 -- Break -- CRC Lower Level
@@ -76,51 +76,52 @@ Logistics:
 :  
  
 1:00 - 1:50 --  Workshop Session 2a
-: + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori Shepherd -- Carson Auditorium
+: + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori Shepherd -- RRB 110
   + SingleCell: Effectively using the DelayedArray framework to
-    support the analysis of large data sets -- Pete Hickey -- Weiss 301
+    support the analysis of large data sets -- Pete Hickey -- Carson Auditorium
   + RNAseq & Omics: Workflow for Multi-omics Analysis with
     MultiAssayExperiment and curatedTCGAData -- Marcel Ramos, Ludwig
-    Geistlinger, and Levi Waldron -- Weiss 305
+    Geistlinger, and Levi Waldron -- Weiss 301
   + Genomics & Enrichment Analysis: Tools for region-based genomic
-    analysis -- Nathan Sheffield -- RRB 110
+    analysis -- Nathan Sheffield -- Weiss 305
  
 2:00 - 2:50 --  Workshops Session 2b
 
 : + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori
-    Shepherd -- Carson Auditorium
+    Shepherd -- RRB 110
   + SingleCell: Effectively using the DelayedArray framework to
-    support the analysis of large data sets -- Pete Hickey -- Weiss 301
+    support the analysis of large data sets -- Pete Hickey -- Carson Auditorium
   + RNAseq & Omics: Workflow for Multi-omics Analysis with
     MultiAssayExperiment and curatedTCGAData -- Marcel Ramos, Ludwig
-    Geistlinger, and Levi Waldron -- Weiss 305
+    Geistlinger, and Levi Waldron -- Weiss 301
   + Genomics & Enrichment Analysis: Tools for region-based genomic
-    analysis -- Nathan Sheffield -- RRB 110
+    analysis -- Nathan Sheffield -- Weiss 305
  
 2:50 - 3:10 -- Break -- Weiss South Room
 : 
  
 3:10 - 4:00 --  Workshops Session 3a
-: + The Basics: Fluent genomic workflows with plyranges -- Stuart Lee -- Carson Auditorium
+: + The Basics: Fluent genomic workflows with plyranges -- Stuart Lee
+    -- Weiss 305
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor:
     Overview and Workflows -- Robert A. Amezquita, Vince J. Carey,
-    Lindsay N. Carpp, Ludwig Geistlinger, Aaron T. L.Lun, et al. -- Weiss 301
+    Lindsay N. Carpp, Ludwig Geistlinger, Aaron T. L.Lun, et al. -- Carson Auditorium
   + RNAseq & Omics: Bioinformatics tools for integrating and
     understanding molecular changes associated with with Immune
     Response, Stemness and Oncogenic processes -- Antonio Colaprico,
-    Gabriel Odom, Lily Wang, & Xi Chen -- Weiss 305
+    Gabriel Odom, Lily Wang, & Xi Chen -- Weiss 301
   + Genomics & Enrichment Analysis: Copy number variation analysis
     with Bioconductor -- Ludwig Geistlinger, Marcel Ramos, Seyhun Oh,
     and Levi Waldron -- RRB 110
  
 4:10 - 5:00 --  Workshops Session 3b
 : + The Basics: A plyranges and tximeta case study: differential
-    expression and accessibility -- Carson Auditorium
+    expression and accessibility -- Weiss 305
   + SingleCell: Analysis of large single-cell RNA-seq datasets in
-    R/Bioconductor -- Davide Risso and Stephanie Hicks -- Weiss 301
+    R/Bioconductor -- Davide Risso and Stephanie Hicks -- Carson Auditorium
   + RNAseq & Omics: Working with open-source Human Microbiome Project
     Data: Efficient Data Access and Analysis Workflow -- Levi Walrdon,
-    Ni Zhao, Mikhail Dozmorov, Ekaterina Smirnova -- Weiss 305
+    Ni Zhao, Mikhail Dozmorov, Ekaterina Smirnova -- Weiss 301
   + Genomics & Enrichment Analysis: ATAC-seq data quality control
     using the ATACseqQC package -- Haibo Liu, Jianghong Ou, and Julie
     Lihua Zhu -- RRB 110
@@ -133,22 +134,22 @@ Logistics:
  
 # Day 2: Wednesday June 26
  
-8:00 - 8:30 -- Breakfast -- CRC Lower Level
+8:00 - 8:30 -- Breakfast -- Abby Lounge
 :  
  
-8:30 - 9:00 -- Lieven Clement -- Carson Auditorium
+8:30 - 9:00 -- Lieven Clement -- Caspary Auditorium
 :  
  
-9:00 - 9:30 -- Lihua Julie Zhu -- Carson Auditorium
+9:00 - 9:30 -- Lihua Julie Zhu -- Caspary Auditorium
 :  
  
-9:30 - 10:00 -- Anshul Kundaje -- Carson Auditorium
+9:30 - 10:00 -- Anshul Kundaje -- Caspary Auditorium
 :  
  
 10:00 - 10:30 -- Break -- CRC Lower Level
 :  
  
-10:30 - 12:00  --  Contributed talks Session 4a -- Software focus -- Carson Auditorium
+10:30 - 12:00  --  Contributed talks Session 4a -- Software focus -- Caspary Auditorium
 : + Nitesh Turaga -- 3 reasons to "Bioconductor" on containers
   + Vincent Carey -- Bioconductor at "cloud scale"
   + Stuart Lee -- Tidy coverage analysis with superintronic and
@@ -163,7 +164,7 @@ Logistics:
   + Christopher Wilks -- Snapcount: rapid and flexible querying of
     over 70,000 gene, exon, and splice junction expression summaries
  
-10:30 - 12:00  --  Contributed talks Session 4b -- Biological focus -- Caspary Auditorium
+10:30 - 12:00  --  Contributed talks Session 4b -- Biological focus -- Carson Auditorium
 : + Benjamin Haibe-Kains -- mCI: Robust biomarker discovery from
     cancer pharmacogenomic data
   + Aedin Culhane -- Discovery of cancer immune molecular subtypes
@@ -183,48 +184,48 @@ Logistics:
  
 1:00 - 1:50 -- Workshops Session 5a
 : + The Basics: Introduction to Bioconductor Annotation Resources --
-    Lori Shepherd and Jim MacDonald -- Carson Auditorium
+    Lori Shepherd and Jim MacDonald -- Weiss 305
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
     Helena L. Crowell, Charlotte Soneson, Pierre-Luc Germain, and Mark
-    Robinson -- Weiss 301
+    Robinson -- Carson Auditorium
   + RNAseq & Omics: Using the recount2 resource and related tools --
-    Collado-Torres L, Nellore A, Jaffe AE -- Weiss 305
+    Collado-Torres L, Nellore A, Jaffe AE -- RRB 110
   + Genomics & Enrichment Analysis: Easy and efficient ensemble gene
     set testing with EGSEA -- Alhamdoosh M, Law CW, Tian L, Sheridan
-    JM, Ng M, Ritchie ME -- RRB 110
+    JM, Ng M, Ritchie ME -- Weiss 301
  
 2:00 - 2:50 -- Workshops Session 5b
 : + The Basics: Introduction to Bioconductor Annotation Resources --
-    Lori Shepherd and Jim MacDonald -- Carson Auditorium
+    Lori Shepherd and Jim MacDonald -- RRB 110
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
     Helena L. Crowell, Charlotte Soneson, Pierre-Luc Germain, and Mark
-    D. Robinson -- Weiss 301
+    D. Robinson -- Carson Auditorium
   + RNAseq & Omics: Using the recount2 resource and related tools --
     Collado-Torres L, Nellore A, Jaffe AE -- Weiss 305
   + Genomics & Enrichment Analysis: Functional enrichment analysis of
-    high-throughput omics data -- Ludwig Geistlinger and Levi Waldron -- RRB 110
+    high-throughput omics data -- Ludwig Geistlinger and Levi Waldron -- Weiss 301
  
 2:50 - 3:10 -- Break -- Weiss South Room
 :  
  
 3:10 - 4:00 -- Workshops Session 6a
 : + The Basics: Public data resources and Bioconductor -- Levi
-    Waldron, Benjamin Haibe-Kains, and Sean Davis -- Carson Auditorium
+    Waldron, Benjamin Haibe-Kains, and Sean Davis -- Weiss 305
   + SingleCell: iSEE: Interactive visualization of
     `SummarizedExperiment` objects -- Kevin Rue-Albrecht and Charlotte
-    Soneson -- Weiss 301
+    Soneson -- Carson Auditorium
   + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma,
     Glimma and edgeR -- Law CW, Alhamdoosh M, Su S, Dong X, Tian L et
-    al -- Weiss 305
+    al -- RRB 110
   + Genomics & Enrichment Analysis: Integrative pathway analysis with
-    pathwayPCA -- Odom G, Ban Y, Liu L, Wang L, Chen X -- RRB 110
+    pathwayPCA -- Odom G, Ban Y, Liu L, Wang L, Chen X -- Weiss 301
  
 4:10 - 5:00 -- Workshops Session 6b
 : + The Basics: Public data resources and Bioconductor -- Levi
-    Waldron, Benjamin Haibe-Kains, and Sean Davis -- Carson Auditorium
+    Waldron, Benjamin Haibe-Kains, and Sean Davis -- RRB 110
   + SingleCell: iSEE: Interactive visualization of
     `SummarizedExperiment` objects -- Kevin Rue-Albrecht and Charlotte
-    Soneson -- Weiss 301
+    Soneson -- Carson Auditorium
   + RNAseq & Omics: Epidemiology for Bioinformaticians -- Mirzayi C
     and Levi Waldron -- Weiss 305
  
