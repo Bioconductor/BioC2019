@@ -37,29 +37,30 @@ Monday, June 24, 2019
 :  
  
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
-: + Track 1: Bioconductor on Containers -- Nitesh Turaga --  Smilow Seminar Room
-  + Track 2: Common Workflow Language (CWL) workshop -- Daniela
+: + Track 1: [Bioconductor on Containers](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/BioconductorOnContainers__Bioconductor_Containers_Workshop/) -- Nitesh Turaga --  Smilow Seminar Room
+  + Track 2: [Common Workflow Language (CWL) workshop]() -- Daniela
     Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu -- SB G19
   + Track 3: Lazy representation of very large genomic data resources
     in R/Bioconductor -- Qian Liu, Herv&eacute; Pag&egrave;s, and
     Martin Morgan -- Farkas Auditorium
-  + Track 4: Cloud-scale genomic data science with Bioconductor --
+  + Track 4: [Cloud-scale genomic data science with Bioconductor](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/BiocCloudws__cloudScale2019/) --
     Vincent Carey --  MSB Large
  
 12:00 - 1:00 -- Lunch -- Farkas Breezeway and outside
 :  
  
 1:00 - 2:00 -- Birds-of-a-feather II / Workshops II
-: + Track 1: Bioconductor on Containers -- Nitesh Turaga -- Smilow Seminar Room
-  + Track 2: Common Workflow Language (CWL) workshop -- Daniela
+: + Track 1: [Bioconductor on Containers](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/BioconductorOnContainers__Bioconductor_Containers_Workshop/) -- Nitesh Turaga -- Smilow Seminar Room
+  + Track 2: Common Workflow Language (CWL) workshop[^port8080] -- Daniela
     Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu -- SB G19
   + Track 3: Lazy representation of very large genomic data resources
     in R/Bioconductor -- Qian Liu, Herv&eacute; Pag&egrave;s, and
     Martin Morgan -- Farkas Auditoriume
-  + Track 4: motifStack: plot multiple motifs in one figure --
+  + Track 4: [motifStack: plot multiple motifs in one figure](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/motifStackWorkshop__motifStackWorkshop/) --
     Jianhong Ou and Lihua Julie Zhu -- MSB Large
  
- 
+[^port8080]: This workshop is available on your AMI by using port 8080 and logging in as `ubuntu`:`bioc`.
+
 2:00 - 2:30 -- Lightning talks II -- [Sign up now][]! -- Farkas Auditorium
 :  
  
