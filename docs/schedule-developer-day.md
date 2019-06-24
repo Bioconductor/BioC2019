@@ -29,7 +29,7 @@ Monday, June 24, 2019
 10:00 - 10:30 -- Lightning talks I -- Farkas Auditorium
 : Any Developer Day attendee can present a lightning talk (short 5
   minute presentations); be prepared to volunteer on the day of the
-  conference.
+  conference. [Sign up now][]
  
 10:30 - 11:00 -- Break, newcomers / old-timers meet-up -- Farkas Breezeway
 :  
@@ -56,13 +56,13 @@ Monday, June 24, 2019
     Jianhong Ou and Lihua Julie Zhu -- MSB Large
  
  
-2:00 - 2:30 -- Lightning talks II  -- Farkas Auditorium
+2:00 - 2:30 -- Lightning talks II [Sign up now][] -- Farkas Auditorium
 :  
  
 2:30 - 3:00 -- Break -- Farkas Breezeway
 :  
  
-3:00 - 3:30 -- Lightning talks III  -- Farkas Auditorium
+3:00 - 3:30 -- Lightning talks III  [Sign up now][] -- Farkas Auditorium
 :  
  
 3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions -- Farkas Auditorium, Smilow Seminar Room
@@ -74,3 +74,4 @@ Monday, June 24, 2019
 7:00 -- Outing (to be announced)
 :  
  
+[Sign up now]: https://forms.gle/1k9eD1ahQnjvew8B7
