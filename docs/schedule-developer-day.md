@@ -13,7 +13,9 @@ Twitter: [#bioc2019][tweet]<br />
 [venue]: ./travel-accommodations
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
 
-## Developer Day Schedule (Tentative)
+## Developer Day Schedule
+
+[DEVELOPER DAY NOTES][]
 
 Monday, June 24, 2019
 
@@ -21,7 +23,7 @@ Monday, June 24, 2019
 : 
  
 9:00 - 9:30 -- Welcome -- Farkas Auditorium
-: Orientation & project updates
+: [Orientation & project updates][1]
  
 9:30 - 10:00 -- Rob Patro -- Farkas Auditorium
 :  
@@ -78,4 +80,6 @@ Monday, June 24, 2019
 Sherman on a horse behind a lady holding a branch. It's the very
 southeast corner of the park at 59th St and 5th Ave.
  
+[DEVELOPER DAY NOTES]: https://docs.google.com/document/d/1GQFxNRLsO6_2LQjeyXAkWZpkKlFL2_xfo1LbKoBOwzk/edit?usp=sharing
 [Sign up now]: https://forms.gle/1k9eD1ahQnjvew8B7
+[1]: https://docs.google.com/presentation/d/1S_e9g5OfpJK51TxiUWTKbqomutCsUJ2qgmio_g_qN-E/edit?usp=sharing
