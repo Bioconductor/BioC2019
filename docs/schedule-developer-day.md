@@ -73,7 +73,7 @@ Monday, June 24, 2019
 4:30 - 5:00 -- Panel discussion -- Farkas Auditorium
 : + Project directions and opportunities
  
-7:00 -- Outing -- stroll and foraged food in Central Park.  
+5:30 -- Outing -- stroll and foraged food in Central Park.  
 : + Meet in *Grand Army Plaza* at the large golden statue of General
 Sherman on a horse behind a lady holding a branch. It's the very
 southeast corner of the park at 59th St and 5th Ave.
