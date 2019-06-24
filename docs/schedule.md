@@ -75,7 +75,7 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather, sponsored by [F1000 Research][] -- Weiss South Room
 :  
  
-1:00 - 1:50 --  Workshop Session 2a
+1:00 - 1:50 --  Workshop Session[^materials] 2a
 : + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori Shepherd -- RRB 110
   + SingleCell: Effectively using the DelayedArray framework to
     support the analysis of large data sets -- Pete Hickey -- Carson Auditorium
@@ -85,7 +85,7 @@ Logistics:
   + Genomics & Enrichment Analysis: Tools for region-based genomic
     analysis -- Nathan Sheffield -- Weiss 305
  
-2:00 - 2:50 --  Workshops Session 2b
+2:00 - 2:50 --  Workshops Session[^materials] 2b
 
 : + The Basics: Bioconductor for Everyone -- Martin Morgan and Lori
     Shepherd -- RRB 110
@@ -100,7 +100,7 @@ Logistics:
 2:50 - 3:10 -- Break -- Weiss South Room
 : 
  
-3:10 - 4:00 --  Workshops Session 3a
+3:10 - 4:00 --  Workshops Session[^materials] 3a
 : + The Basics: Fluent genomic workflows with plyranges -- Stuart Lee
     -- Weiss 305
   + SingleCell: Orchestrating Single-Cell Analysis with Bioconductor:
@@ -114,7 +114,7 @@ Logistics:
     with Bioconductor -- Ludwig Geistlinger, Marcel Ramos, Seyhun Oh,
     and Levi Waldron -- RRB 110
  
-4:10 - 5:00 --  Workshops Session 3b
+4:10 - 5:00 --  Workshops Session[^materials] 3b
 : + The Basics: A plyranges and tximeta case study: differential
     expression and accessibility -- Michael Love -- Weiss 305
   + SingleCell: Analysis of large single-cell RNA-seq datasets in
@@ -182,7 +182,7 @@ Logistics:
 12:00 - 1:00 -- Lunch / Birds-of-a-feather -- Weiss South Room
 :  
  
-1:00 - 1:50 -- Workshops Session 5a
+1:00 - 1:50 -- Workshops Session[^materials] 5a
 : + The Basics: Introduction to Bioconductor Annotation Resources --
     Lori Shepherd and Jim MacDonald -- Weiss 305
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
@@ -194,7 +194,7 @@ Logistics:
     set testing with EGSEA -- Alhamdoosh M, Law CW, Tian L, Sheridan
     JM, Ng M, Ritchie ME -- Weiss 301
  
-2:00 - 2:50 -- Workshops Session 5b
+2:00 - 2:50 -- Workshops Session[^materials] 5b
 : + The Basics: Introduction to Bioconductor Annotation Resources --
     Lori Shepherd and Jim MacDonald -- RRB 110
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
@@ -208,7 +208,7 @@ Logistics:
 2:50 - 3:10 -- Break -- Weiss South Room
 :  
  
-3:10 - 4:00 -- Workshops Session 6a
+3:10 - 4:00 -- Workshops Session[^materials] 6a
 : + The Basics: Public data resources and Bioconductor -- Levi
     Waldron, Benjamin Haibe-Kains, and Sean Davis -- Weiss 305
   + SingleCell: iSEE: Interactive visualization of
@@ -220,7 +220,7 @@ Logistics:
   + Genomics & Enrichment Analysis: Integrative pathway analysis with
     pathwayPCA -- Odom G, Ban Y, Liu L, Wang L, Chen X -- Weiss 301
  
-4:10 - 5:00 -- Workshops Session 6b
+4:10 - 5:00 -- Workshops Session[^materials] 6b
 : + The Basics: Public data resources and Bioconductor -- Levi
     Waldron, Benjamin Haibe-Kains, and Sean Davis -- RRB 110
   + SingleCell: iSEE: Interactive visualization of
@@ -235,3 +235,5 @@ Logistics:
     poster allocations will be affixed to poster boards.
  
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
+[^materials]: Workshop materials are available on the docker image, the AMI, and
+[rendered here](https://rebrand.ly/biocworkshops2019).
