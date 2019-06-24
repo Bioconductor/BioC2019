@@ -47,6 +47,8 @@ Ward C, To TH, Pederson S\*. ngsReports and strandCheckR: Two QC packages for bo
 
 Burton D\*, McCall MN. Likelihood Based Mixture Modeling in Gene Regulatory Network Inference. Keywords: NetworkInference, SystemsBiology, GeneRegulation, GeneExpression, CancerData.
 
+Zhu A\*, Srivastava A, Ibrahim J, Patro R, and Love M. Nonparametric method for Differential Analysis of RNA-Seq with Quantification Uncertainty. Keywords: GeneExpression, RNAseq, Sequencing, GeneExpression, DifferentialExpression.
+
 
 ### Session 2 - __Group B - 5:30 to 7:30 (26th June) in Weiss lobby__ 
 
