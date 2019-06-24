@@ -73,6 +73,7 @@ Monday, June 24, 2019
 3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions
 : + [Extending gene set and signature representations][2] -- Farkas
   + [Bioconductor Infrastructure for Base Modifications][3] -- Smillow Seminar Room
+  + [Annotation Harmonization][4] -- Farkas Patio
  
 4:30 - 5:00 -- Panel discussion -- Farkas Auditorium
 : + Project directions and opportunities
@@ -87,3 +88,4 @@ southeast corner of the park at 59th St and 5th Ave.
 [1]: https://docs.google.com/presentation/d/1S_e9g5OfpJK51TxiUWTKbqomutCsUJ2qgmio_g_qN-E/edit?usp=sharing
 [2]: https://github.com/Bioconductor/BioC2019/issues/25
 [3]: https://github.com/Bioconductor/BioC2019/issues/35
+[4]: https://github.com/Bioconductor/BioC2019/issues/22
