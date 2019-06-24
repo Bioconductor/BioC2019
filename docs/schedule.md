@@ -116,7 +116,7 @@ Logistics:
  
 4:10 - 5:00 --  Workshops Session 3b
 : + The Basics: A plyranges and tximeta case study: differential
-    expression and accessibility -- Weiss 305
+    expression and accessibility -- Michael Love -- Weiss 305
   + SingleCell: Analysis of large single-cell RNA-seq datasets in
     R/Bioconductor -- Davide Risso and Stephanie Hicks -- Carson Auditorium
   + RNAseq & Omics: Working with open-source Human Microbiome Project
