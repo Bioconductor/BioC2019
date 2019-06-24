@@ -38,7 +38,7 @@ Monday, June 24, 2019
  
 11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
 : + Track 1: [Bioconductor on Containers](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/BioconductorOnContainers__Bioconductor_Containers_Workshop/) -- Nitesh Turaga --  Smilow Seminar Room
-  + Track 2: [Common Workflow Language (CWL) workshop]() -- Daniela
+  + Track 2: Common Workflow Language (CWL) workshop[^port8080] -- Daniela
     Cassol, Thomas Girke, Marko Zecevic, and Qiang Hu -- SB G19
   + Track 3: Lazy representation of very large genomic data resources
     in R/Bioconductor -- Qian Liu, Herv&eacute; Pag&egrave;s, and
