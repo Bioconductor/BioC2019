@@ -236,4 +236,4 @@ Logistics:
  
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
 [^materials]: Workshop materials are available on the docker image, the AMI, and
-[rendered here](https://rebrand.ly/biocworkshops2019).
+https://rebrand.ly/biocworkshops2019.
