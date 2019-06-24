@@ -70,8 +70,9 @@ Monday, June 24, 2019
 3:00 - 3:30 -- Lightning talks III  -- [Sign up now][]! -- Farkas Auditorium
 :  
  
-3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions -- Farkas Auditorium, Smilow Seminar Room
-:  
+3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions
+: + [Extending gene set and signature representations][2] -- Farkas
+  + [Bioconductor Infrastructure for Base Modifications][3] -- Smillow Seminar Room
  
 4:30 - 5:00 -- Panel discussion -- Farkas Auditorium
 : + Project directions and opportunities
@@ -84,3 +85,5 @@ southeast corner of the park at 59th St and 5th Ave.
 [DEVELOPER DAY NOTES]: https://docs.google.com/document/d/1GQFxNRLsO6_2LQjeyXAkWZpkKlFL2_xfo1LbKoBOwzk/edit?usp=sharing
 [Sign up now]: https://forms.gle/1k9eD1ahQnjvew8B7
 [1]: https://docs.google.com/presentation/d/1S_e9g5OfpJK51TxiUWTKbqomutCsUJ2qgmio_g_qN-E/edit?usp=sharing
+[2]: https://github.com/Bioconductor/BioC2019/issues/25
+[3]: https://github.com/Bioconductor/BioC2019/issues/35
