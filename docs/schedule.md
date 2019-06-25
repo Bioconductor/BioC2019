@@ -37,7 +37,7 @@ Logistics:
 8:00 - 8:45 -- Registration and breakfast -- Abby Lounge
 : 
  
-8:45 - 9:00 -- Welcoming remarks -- Martin Morgan -- Caspary Auditorium
+8:45 - 9:00 -- [Welcoming remarks][welcome] -- Martin Morgan -- Caspary Auditorium
 : 
  
 9:00 - 9:30 -- Jeffrey Leek -- Caspary Auditorium
@@ -126,9 +126,10 @@ Logistics:
     using the ATACseqQC package -- Haibo Liu, Jianghong Ou, and Julie
     Lihua Zhu -- RRB 110
  
-5:30 - 7:30 -- Contributed posters -- __Group-A posters__ -- Weiss Lobby
-
-+ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+5:30 - 7:30 -- Contributed posters
+: + __Group-A posters__ -- Weiss Lobby
+  <!-- + Lightning talks (concurrent with posters) -- Weiss 301 -->
+  + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
 
  
@@ -229,10 +230,11 @@ Logistics:
   + RNAseq & Omics: Epidemiology for Bioinformaticians -- Mirzayi C
     and Levi Waldron -- Weiss 305
  
-5:30 - 7:30 -- Contributed posters - __Group-B posters__ -- Weiss Lobby
-
-+ Poster dimensions up to 58 inches wide x 40 inches tall. Individual
+5:30 - 7:30 -- Contributed posters
+: + __Group-B posters__ -- Weiss Lobby
+  + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
  
+[welcome]: https://docs.google.com/presentation/d/1U76nYf-RMHEJ0Zh9IT39ZqxjuIaeMuxuhd1HmFqLWrQ/edit?usp=sharing
 [F1000 Research]: https://f1000research.com/gateways/bioconductor/
 [Workshop Session]: https://rebrand.ly/biocworkshops2019
