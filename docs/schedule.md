@@ -128,7 +128,7 @@ Logistics:
  
 5:30 - 7:30 -- Contributed posters
 : + __Group-A posters__ -- Weiss Lobby
-  <!-- + Lightning talks (concurrent with posters) -- Weiss 301 -->
+  + Lightning talks (concurrent with posters) -- Weiss 301
   + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
 
