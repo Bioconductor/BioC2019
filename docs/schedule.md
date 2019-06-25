@@ -185,12 +185,12 @@ Logistics:
  
 1:00 - 1:50 -- [Workshop Session] 5a
 : + The Basics: Introduction to Bioconductor Annotation Resources --
-    Lori Shepherd and Jim MacDonald -- Weiss 305
+    Lori Shepherd and Jim MacDonald -- RRB 110
   + SingleCell: Analysis of multi-sample multi-group scRNA-seq data --
     Helena L. Crowell, Charlotte Soneson, Pierre-Luc Germain, and Mark
     Robinson -- Carson Auditorium
   + RNAseq & Omics: Using the recount2 resource and related tools --
-    Collado-Torres L, Nellore A, Jaffe AE -- RRB 110
+    Collado-Torres L, Nellore A, Jaffe AE -- Weiss 305
   + Genomics & Enrichment Analysis: Easy and efficient ensemble gene
     set testing with EGSEA -- Alhamdoosh M, Law CW, Tian L, Sheridan
     JM, Ng M, Ritchie ME -- Weiss 301
