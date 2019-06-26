@@ -103,13 +103,13 @@ Logistics:
  
 3:10 - 4:00 -- [Workshop Session] 6a
 : + The Basics: Public data resources and Bioconductor -- Levi
-    Waldron, Benjamin Haibe-Kains, and Sean Davis -- Weiss 305
+    Waldron, Benjamin Haibe-Kains, and Sean Davis -- RBB 110
   + SingleCell: iSEE: Interactive visualization of
     `SummarizedExperiment` objects -- Kevin Rue-Albrecht and Charlotte
     Soneson -- Carson Auditorium
   + RNAseq & Omics: RNA-seq analysis is easy as 1-2-3 with limma,
     Glimma and edgeR -- Law CW, Alhamdoosh M, Su S, Dong X, Tian L et
-    al -- RRB 110
+    al -- Weiss 305
   + Genomics & Enrichment Analysis: Integrative pathway analysis with
     pathwayPCA -- Odom G, Ban Y, Liu L, Wang L, Chen X -- Weiss 301
  
