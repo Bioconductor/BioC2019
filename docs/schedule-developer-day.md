@@ -13,11 +13,9 @@ Twitter: [#bioc2019][tweet]<br />
 [venue]: ./travel-accommodations
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
 
-## Developer Day Schedule
+# Developer Day: Monday June 24
 
-[DEVELOPER DAY NOTES][]
-
-Monday, June 24, 2019
+<!-- [DEVELOPER DAY NOTES][] -->
 
 8:30 - 9:00 -- Registration and breakfast -- Farkas Breezeway
 : 
