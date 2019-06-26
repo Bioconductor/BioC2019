@@ -100,7 +100,7 @@ the [Bioconductor](https://www.bioconductor.org) project. It consists of:
   provides developers and would-be developers with insights into
   Bioconductor project direction and software development best
   practices.
-* [Main Conference](./schedule) June 25-26 at Rockefeller University:
+* Main Conference ([Day 1 schedule](./schedule-day-one); [Day 2 schedule](./schedule-day-two)) June 25-26 at Rockefeller University:
   morning scientific talks and afternoon workshops provide insights
   and tools required for the analysis and comprehension of
   high-throughput genomic data.
