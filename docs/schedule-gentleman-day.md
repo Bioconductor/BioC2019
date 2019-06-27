@@ -21,6 +21,9 @@ being organized for Robert Gentleman's 60th birthday, in honor of his
 wide-ranging and influential contributions to statistical computing
 and computational biology.
 
+The symposium and receiption will be held in Weiss East (the lunch
+area during the main conference), Rockfeller University.
+
 8:30 - 9:00 -- Registration and breakfast
 : 
 
