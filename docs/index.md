@@ -94,6 +94,8 @@ Twitter: [#bioc2019][tweet]<br />
 [venue]: ./travel-accommodations
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
 
+__Please complete__ the [POST CONFERENCE SURVEY][survey].
+
 BioC2019 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. It consists of:
 * [Developer Day](./schedule-developer-day) June 24 at NYU Langone:
@@ -132,3 +134,4 @@ More information: [workshop@bioconductor.org][contact]
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [contact]: mailto:workshop@bioconductor.org?subject=BioC2019%20question
+[survey]: https://forms.gle/eRWv3tdXLvxYT2CYA
