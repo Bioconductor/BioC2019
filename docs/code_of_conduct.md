@@ -4,7 +4,9 @@ layout: default
 
 # BioC2019 Code of Conduct violation response
 
-This statement is in response to a complaint of sexual harassment made to the [BioC2019 Code of Conduct committee][1] after the BioC2019 conference. A BioC2019 conference attendee reported unwelcome sexual attention and inappropriate physical contact from an intoxicated conference attendee, during a social gathering of conference attendees.
+[Traducción al español][1]
+
+This statement is in response to a complaint of sexual harassment made to the [BioC2019 Code of Conduct committee][2] after the BioC2019 conference. A BioC2019 conference attendee reported unwelcome sexual attention and inappropriate physical contact from an intoxicated conference attendee, during a social gathering of conference attendees.
 
 Since the time when the complaint was made the Committee has followed up with the complainant, the accused, and others present, and sought external advice from persons outside the organization to define procedures to make appropriate decisions to deal with this and future reports of violation of the code of conduct. The committee decided on the following actions:
 
@@ -21,13 +23,11 @@ The Code of Conduct Committee undertook these actions with the goal of maintaini
 
 People generally participate in Bioconductor conferences for professional or academic interest, and expect to interact with colleagues on the primary basis of shared interests in open-source Bioinformatics. Unwanted sexual attention, and other actions forbidden by the [Code of Conduct][1], deny others of this experience. The Code of Conduct committee encourages all conference participants to review the Code of Conduct and to enjoy their time at the conference while remembering their responsibility to maintain a supportive, collegial, and harassment-free conference experience for everyone. Anyone experiencing or witnessing a Code of Conduct violation should report it either to code-of-conduct@bioconductor.org, a member of the Code of Conduct committee, or anonymously at https://tinyurl.com/bioccomplaint. 
 
-This is the first experience the Committee has had with a sexual harassment complaint and part of the reason for the time delay between the complaint and this response been our work on forming , and formed procedures for decision-making in such instances. This complaint was handled by the Bioconductor Code of Conduct Committee (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) and this response was approved by the [Bioconductor Technical Advisory Board][2]. 
+This is the first experience the Committee has had with a sexual harassment complaint and part of the reason for the time delay between the complaint and this response been our work on forming , and formed procedures for decision-making in such instances. This complaint was handled by the Bioconductor Code of Conduct Committee (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) and this response was approved by the [Bioconductor Technical Advisory Board][3]. 
 
-[Traducción al español][3]
-
-[1]: https://bioc2019.bioconductor.org/code_of_conduct
-[2]: https://www.bioconductor.org/about/technical-advisory-board/
-[3]: https://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response
+[1]: https://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response
+[2]: https://bioc2019.bioconductor.org/code_of_conduct
+[3]: https://www.bioconductor.org/about/technical-advisory-board/
 
 # BioC2019 Code of Conduct
 
@@ -110,11 +110,11 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 | Photo | Name |
 |---|---|---|
-| <img src="images/Aedin.jpg" width="200" /> | Aedin Culhane <[aedin@jimmy.harvard.edu][2]> |
-| <img src="images/Levi.png" width="200" /> | Levi Waldron  <[lwaldron.research@gmail.com][4]> |
+| <img src="images/Aedin.jpg" width="200" /> | Aedin Culhane <[aedin@jimmy.harvard.edu][4]> |
+| <img src="images/Levi.png" width="200" /> | Levi Waldron  <[lwaldron.research@gmail.com][5]> |
 | <img src="images/Laurent.jpg" width="200" /> | Laurent Gatto <[laurent.gatto@uclouvain.be][6]> |
 
 [0]: mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct
-[2]: mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct
-[4]: mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct
+[4]: mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct
+[5]: mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct
 [6]: mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct
