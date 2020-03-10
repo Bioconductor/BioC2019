@@ -6,9 +6,7 @@ layout: default
 
 [Traducción al español][1]
 
-This statement is in response to a complaint of sexual harassment made to the BioC2019 [Code of Conduct committee][0] after the BioC2019 conference. A BioC2019 conference attendee reported unwelcome sexual attention and inappropriate physical contact from an intoxicated conference attendee, during a social gathering of conference attendees.
-
-Since the time when the complaint was made the Committee has followed up with the complainant, the accused, and others present, and sought external advice from persons outside the organization to define procedures to make appropriate decisions to deal with this and future reports of violation of the code of conduct. The committee decided on the following actions:
+This statement is in response to a complaint of sexual harassment made to the BioC2019 [Code of Conduct committee][0] after the BioC2019 conference. A BioC2019 conference attendee reported unwelcome sexual attention and inappropriate physical contact from an intoxicated conference attendee, during a social gathering of conference attendees. Since the time when the complaint was made the Committee has followed up with the complainant, the accused, and others present, and sought external advice from persons outside the organization to define procedures to make appropriate decisions to deal with this and future reports of violation of the code of conduct. The committee decided on the following actions:
 
 * The accused will be ineligible to attend Bioconductor conferences for three years following the event (specifically BioC2020, BioC2021, BioC2022).
 * In order to attend future Bioconductor conferences after this period, the accused must make a written request to the BioC Code of Conduct Committee.  If the Committee unanimously agrees that the accused no longer presents an elevated risk of future Code of Conduct violations, the accused will again be permitted to attend Bioconductor conferences.
@@ -23,8 +21,7 @@ The Code of Conduct Committee undertook these actions with the goal of maintaini
 
 People generally participate in Bioconductor conferences for professional or academic interest, and expect to interact with colleagues on the primary basis of shared interests in open-source Bioinformatics. Unwanted sexual attention, and other actions forbidden by the [Code of Conduct][2], deny others of this experience. The Code of Conduct committee encourages all conference participants to review the Code of Conduct and to enjoy their time at the conference while remembering their responsibility to maintain a supportive, collegial, and harassment-free conference experience for everyone. Anyone experiencing or witnessing a Code of Conduct violation should report it either to [code-of-conduct@bioconductor.org][0], a member of the Code of Conduct committee, or anonymously at [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint).
 
-This is the first experience the Committee has had with a sexual harassment complaint and part of the reason for the time delay between the complaint and this response been our work on forming , and formed procedures for decision-making in such instances. This complaint was handled by the Bioconductor Code of Conduct Committee (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) and this response was approved by the [Bioconductor Technical Advisory Board][3]. 
-
+This complaint was handled by the Bioconductor Code of Conduct Committee (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) and this response was approved by the [Bioconductor Technical Advisory Board][3]. 
 
 # BioC2019 Code of Conduct
 
